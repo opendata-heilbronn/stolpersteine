@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+
+    <title>Stolpersteine in Heilbronn</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.2/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.8/css/materialize.min.css">
+    <link rel="stylesheet" href="main.css">
+    <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=PT+Mono" rel="stylesheet">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+</head>
+
+<body>
+    <nav class="nav-extended">
+        <div class="nav-wrapper orange darken-4">
+            <a href="#" class="brand-logo left">Stolpersteine Heilbronn</a>
+            <ul id="nav-mobile" class="right">
+                <li>
+                    <a href="#" class="dropdown-button" data-beloworigin="true" data-activates="dropdown"><i class="material-icons">share</i></a>
+                </li>
+            </ul>
+            <ul class="dropdown-content right" id="dropdown">
+                <li><a href="https://www.facebook.com/sharer/sharer.php?u=stolpersteine-heilbronn.de"><i class="fa fa-facebook-square" aria-hidden="true"></i> Share</a></li>
+                <li>
+                    <a href="https://twitter.com/intent/tweet?text=Stolpersteine+in+Heilbronn&url=http%3A%2F%2Fstolpersteine-heilbronn.de"><i class="fa fa-twitter-square" aria-hidden="true"></i> Tweet</a>
+                </li>
+            </ul>
+
+            <ul class="tabs tabs-transparent row">
+                <li class="tab col s4"><a href="#infos"><i class="fa fa-info-circle" aria-hidden="true"></i> Infos</a></li>
+                <li class="tab col s4"><a href="#map"><i class="fa fa-map" aria-hidden="true"></i> Karte</a></li>
+                <li class="tab col s4"><a href="#app"><i class="fa fa-list" aria-hidden="true"></i> Liste</a></li>
+            </ul>
+        </div>
+    </nav>
+    <div class="container">
+        <div class="row">
+
+            <div class="col s12 m10 offset-m1 l8 offset-l2" id="infos">
+                <div class="row">
+                    <div class="col s12 m12 l6">
+                        <a onclick="$('ul.tabs').tabs('select_tab', 'map');">
+                            <div class="card-panel teal map-card waves-effect">
+                                <h4 class="white-text">Karte der Stolpersteine</h4>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col s12 m12 l6">
+                        <a onclick="$('ul.tabs').tabs('select_tab', 'app');">
+                            <div class="card-panel amber app-card waves-effect">
+                                <h4 class="white-text">Liste der Stolpersteine</h4>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col s12">
+                        <h2> News </h2>
+                        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
+                            labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo
+                            dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor
+                            sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor
+                            invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et
+                            justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum
+                            dolor sit amet.</p>
+                    </div>
+                    <div class="col s12">
+                        <h2> Über </h2>
+                        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
+                            labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo
+                            dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor
+                            sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor
+                            invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et
+                            justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum
+                            dolor sit amet.Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
+                            labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo
+                            dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor
+                            sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor
+                            invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et
+                            justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum
+                            dolor sit amet.</p>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col s12 m10 offset-m1 l8 offset-l2" id="map"></div>
+
+            <div class="col s12 m10 offset-m1 l8 offset-l2" id="app">
+                <div class="collection">
+                    <a v-for="item in items" class="collection-item" onclick="$('.collection-item').click(function(){$('#modal').modal('open');});">
+                            <p class="my-item">
+                                {{ item.names }}<br>
+                                <small>{{ item.street }}</small>
+                            </p>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="modal" class="modal bottom-sheet row">
+                    <div class="container modal-content col s12 m10 offset-m1 l6 offset-l3">
+                            <h4>Namen<br><small>Straße</small></h4>
+                            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt
+                                ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo
+                                duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum
+                                dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+                                eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero
+                                eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata
+                                sanctus est Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet, consetetur sadipscing
+                                elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed
+                                diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+                                no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur
+                                sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam
+                                erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita
+                                kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+                    </div>
+                </div>
+    <footer class="my-footer z-depth-2 orange darken-4">
+        <p>
+            <a class="waves-effect waves-teal btn-flat my-imprint-link" href="http://himsel.me/#impressum">Impressum</a>            - Made with
+            <i class="fa fa-heart" aria-hidden="true"></i> by
+            <a href="https://github.com/opendata-heilbronn" class="waves-effect waves-teal btn-flat my-imprint-link">Opendata Heilbronn</a>
+        </p>
+    </footer>
+    <script src="https://unpkg.com/leaflet@1.0.2/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/vue/dist/vue.js"></script>
+    <script src="https://unpkg.com/vue-resource@1.0.3/dist/vue-resource.min.js"></script>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.8/js/materialize.min.js"></script>
+    <script type="text/javascript" src="headroom.js"></script>
+    <script type="text/javascript" src="jQuery.headroom.js"></script>
+    <script src="app.js"></script>
+    <script> $(".my-footer").headroom();$('.modal').modal();</script>
+</body>
+
+</html>

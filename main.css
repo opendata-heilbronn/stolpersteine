@@ -1,0 +1,63 @@
+#map {
+    height: 600px;
+    max-width: 100% !important;
+    max-height: 100% !important;
+    margin-top: 10px !important;
+    z-index: 0 !important;
+}
+.my-item{
+    font-size: 18px;
+    line-height: 20px;
+}
+.my-item small{
+    font-size: 13px;
+    line-height: 14px;
+}
+.map-card{
+    background-image: url(images/map.jpg);
+}
+.app-card{
+    background-image: url(images/app.jpg);
+}
+  .my-footer{
+    position:fixed;
+    bottom:0;
+    display:block;
+    font-family: 'PT Mono', monospace;
+    text-align: center;
+    margin-bottom: 0px;
+    font-size: 13px;
+    width: 100%;
+    color: #fff;
+    z-index: 2;
+    transition: transform 0.2s ease-in;
+    will-change: transform;
+}
+.headroom--pinned {
+  transform: translateY(0);
+}
+.headroom--unpinned {
+  transform: translateY(+100%);
+}
+
+.my-imprint-link{
+    text-transform: none;
+    font-size: 13px;
+    padding-left: 3px;
+    padding-right: 3px;
+    color: #fff;
+}
+h1, h2, h3, h4, h5, h6{
+    font-family: 'PT Mono', monospace;
+}
+.brand-logo{
+    margin-left: 3px;
+    font-family: 'PT Mono', monospace;
+    font-size: 24px !important;
+}
+a.collection-item{
+    color: #000 !important;
+}
+a.collection-item:hover, a.collection-item:focus{
+    cursor: pointer;
+}
