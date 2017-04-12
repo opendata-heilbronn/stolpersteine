@@ -1,6 +1,11 @@
 ---
 layout: list
 title: "Klara Holwein, geborene Wanner"
+name: "Klara Holwein"
+geb_name: "geb. Wanner"
+deportiert: "8. Mai 1940"
+ermordet_zeile1: "ERMORDET IN"
+ermordet_zeile2: "GRAFENECK"
 address: "Allee 9"
 audio: "http://stolpersteine-heilbronn.de/audio/allee-9.mp3"
 images: []

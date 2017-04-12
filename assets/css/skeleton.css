@@ -432,3 +432,6 @@ hr {
 @media (min-width: 1000px) {}
 @media (min-width: 1200px) {}
 svg{zoom: 40%}
+svg text{
+  text-anchor: right;
+}

@@ -22,7 +22,7 @@ var coordinates = [
     {
         "x": {{ page.x }},
         "y": {{ page.y }},
-        "title": "{{ page.title }}",
+        "title": "{{ page.title }}{{ page.name_zusatz }}",
         "url": "{{ site.baseurl }}{{ page.url }}"
     }
     {% unless forloop.last %},{% endunless %}
