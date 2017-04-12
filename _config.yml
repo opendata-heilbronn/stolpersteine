@@ -27,6 +27,7 @@ defaults:
     type: actions
   values:
     layout: action
+    pdf: true
 - scope:
     path: ''
     type: item
@@ -46,3 +47,7 @@ defaults:
             ""
         ]
     ]
+
+gems:
+  - jekyll-assets
+  - jekyll-pdf

@@ -7,14 +7,35 @@ permalink: aktionen.html
 {% assign sorted = site.list %}
 {% assign last = sorted.first.date %}
 
-<p>Aktion vom {{ last | date: "%-d. %B %Y" }}</p>
+<h2>Aktion vom {{ last | date: "%-d. %B %Y" }}</h2>
+<p>
+{% for action in site.actions %}
+{% assign a = action.date | date: "%B%Y" %}
+{% assign b = last  | date: "%B%Y" %}
+{% if a == b %}
+<a href="{{ site.baseurl }}{{ action.pdf_url }}" class="button">Als Druckdatei</a><br>
+Verlegte Stolpersteine:
+</p>
+{% endif %}
+{% endfor %}
 <ul>
 {% for page in sorted %}
 {% if page.date == last %}
     <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
 {% else %}
 </ul>
-<p>Aktion vom {{ page.date | date: "%-d. %B %Y" }}</p>
+{% assign last = page.date %}
+<h2>Aktion vom {{ last | date: "%-d. %B %Y" }}</h2>
+<p>
+{% for action in site.actions %}
+{% assign a = action.date | date: "%B%Y" %}
+{% assign b = last  | date: "%B%Y" %}
+{% if a == b %}
+<a href="{{ site.baseurl }}{{ action.pdf_url }}" class="button">Als Druckdatei</a><br>
+Verlegte Stolpersteine:
+</p>
+{% endif %}
+{% endfor %}
 <ul>
 <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
 {% endif %}
