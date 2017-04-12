@@ -1,0 +1,18 @@
+---
+---
+[
+	{% for item in site.list %}
+		{
+            "title" : "{{ item.title | escape }}",
+            "address": "{{item.address | escape }}",
+            "url" : "{{ site.url }}{{ site.baseurl }}{{ item.url }}",
+            "date" : "{{ item.date }}",
+            "content" : "{{ item.content | escape | strip_newlines }}",
+            "steine" : {{ item.steine | jsonify }},
+            "x" : {{ item.x }},
+            "y" : {{ item.y }},
+            "images": {{ item.images | jsonify }},
+            "audio": {{ item.audio }}
+		} {% if forloop.last %}{% else %},{% endif %}
+	{% endfor %}
+]
