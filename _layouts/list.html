@@ -4,4 +4,7 @@ layout: page
 
 {{ content }}
 
+{% assign steine = page.steine %}
+{% for page in steine %}
 {% include stolperstein.svg %}
+{% endfor %}

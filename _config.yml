@@ -33,13 +33,16 @@ defaults:
   values:
     layout: list
     title:
-    kopfzeile: "HIER WOHNTE"
-    name: "NAME, VORNAME"
-    name_zusatz: ""
-    geb_name: ""
-    zusatz1: ""
-    jg: ""
-    deportiert: ""
-    ermordet_zeile1: "ERMORDET IN"
-    ermordet_zeile2: ""
-    zusatz2: ""
+    steine: [
+        [
+            "HIER WOHNTE",
+            "VORNAME NACHNAME",
+            "",
+            "",
+            "1900",
+            "DEPORTIERT JAHR",
+            "ERMORDET IN",
+            "ORT",
+            ""
+        ]
+    ]

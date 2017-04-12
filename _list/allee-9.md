@@ -1,18 +1,28 @@
 ---
 layout: list
-title: "Klara Holwein, geborene Wanner"
-name: "Klara Holwein"
-geb_name: "geb. Wanner"
-deportiert: "8. Mai 1940"
-ermordet_zeile1: "ERMORDET IN"
-ermordet_zeile2: "GRAFENECK"
+title: "Klara Holwein"
 address: "Allee 9"
+steine: [
+          [
+             
+            "HIER WOHNTE",
+            "KLARA HOLWEIN",
+            "GEB. WANNER",
+            "",
+            "JG. 1889",
+            "AUS ANSTALT WEINSBERG",
+            "1940 NACH",
+            "GRAFENECK",
+            "ERMORDET 8.5.1940"
+          ]
+      ]
 audio: "http://stolpersteine-heilbronn.de/audio/allee-9.mp3"
 images: []
 x: 49.1411033
 y: 9.221647100000041
-date: 2016-09-05 19:03:00
+date: 2010-04-27 00:00:00
 ---
+
 Die Heilbronner Geschäftsfrau Klara Holwein, 1889 geboren, führte zusammen mit ihrem Mann ein Reformhaus und gab Kurse für vegetarisches Kochen nach den Grundsätzen der Reformbewegung.
 
 Schon in den 1920er Jahren gab es erste Anzeichen einer psychischen Störung, die 1930 dazu führte, dass Klara Holwein in die Anstalt Kennenburg eingewiesen wurde. Nach mehreren Entlassungen und Wiedereinweisungen lebte sie schließlich dauerhaft in der Heilanstalt Weinsberg. Ihre kleine Tochter wuchs bei Verwandten auf.

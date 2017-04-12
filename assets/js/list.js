@@ -27,16 +27,20 @@ var options = {
 
 var listObj = new List('list-id', options);
 
-function hideList() {
+function showMap() {
     $('#list-id').hide();
+    $('#steine').hide();
     $('#map').show();
-    $('.map-btn').addClass('disabled');
 };
-function hideMap() {
+function showList() {
     $('#map').hide();
+    $('#steine').hide();
     $('#list-id').show();
-    $('.list-btn').addClass('disabled');
-
+};
+function showSteine() {
+    $('#map').hide();
+    $('#list-id').hide();
+    $('#steine').show();
 };
 coordinates.forEach(function (a) {
     markers.push(L.marker([a.x, a.y]).addTo(map).on("click", function () {

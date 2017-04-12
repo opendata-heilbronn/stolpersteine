@@ -17,8 +17,9 @@
         {% assign b = item.date | date: "%B%Y" %}
         {% if a == b %}
 
-
+{% for page in item.steine %}
 {% include stolperstein.svg %}
+{% endfor %}
 
         <h1>{{ item.title }}<br><small>{{ item.address }}</small></h1>
         <p>{{ item.content }}</p>
