@@ -1,5 +1,5 @@
 ---
-layout: list
+layout: item
 title: "Klara Holwein"
 address: "Allee 9"
 steine: [

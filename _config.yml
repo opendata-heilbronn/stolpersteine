@@ -29,9 +29,9 @@ defaults:
     layout: action
 - scope:
     path: ''
-    type: list
+    type: item
   values:
-    layout: list
+    layout: item
     title:
     steine: [
         [

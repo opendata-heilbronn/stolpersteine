@@ -3,7 +3,8 @@ layout: page
 title: Aktionen
 permalink: aktionen.html
 ---
-{% assign sorted = site.list | reverse %}
+
+{% assign sorted = site.list %}
 {% assign last = sorted.first.date %}
 
 <p>Aktion vom {{ last | date: "%-d. %B %Y" }}</p>
@@ -15,7 +16,6 @@ permalink: aktionen.html
 </ul>
 <p>Aktion vom {{ page.date | date: "%-d. %B %Y" }}</p>
 <ul>
-{% assign last = page.date %}
 <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
 {% endif %}
 {% endfor %}

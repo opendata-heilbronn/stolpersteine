@@ -29,18 +29,11 @@ var listObj = new List('list-id', options);
 
 function showMap() {
     $('#list-id').hide();
-    $('#steine').hide();
     $('#map').show();
 };
 function showList() {
     $('#map').hide();
-    $('#steine').hide();
     $('#list-id').show();
-};
-function showSteine() {
-    $('#map').hide();
-    $('#list-id').hide();
-    $('#steine').show();
 };
 coordinates.forEach(function (a) {
     markers.push(L.marker([a.x, a.y]).addTo(map).on("click", function () {

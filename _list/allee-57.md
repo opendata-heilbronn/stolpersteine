@@ -1,5 +1,5 @@
 ---
-layout: list
+layout: item
 title: "Klara und Kurt Asch"
 address: "Allee 57"
 steine: [

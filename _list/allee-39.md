@@ -1,5 +1,5 @@
 ---
-layout: list
+layout: item
 title: "Rebekka Simsohn und Hermann Grünebaum"
 address: "Allee 39"
 steine: [
