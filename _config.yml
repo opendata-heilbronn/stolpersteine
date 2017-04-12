@@ -1,26 +1,21 @@
-# Site settings
+---
 title: Stolpersteine Heilbronn
-email: lukas@himsel.me
-description: ""
-baseurl: "/stolpersteine"
-url: "https://opendata-heilbronn.github.io"
-
-# Build settings
-markdown: kramdown
-permalink: pretty
-
-exclude: ["_data/test.json", "_data/data.json"]
-
+timezone: UTC
 collections:
-    list:
-        title: Liste
-        output: true
-        permalink: "/list/:name:output_ext"
-    actions:
-        title: Aktionen
-        output: true
-        permalink: "/aktionen/:name:output_ext"
-
+  actions:
+    title: Aktionen
+    output: true
+    permalink: "/aktionen/:name:output_ext"
+  list:
+    title: Liste
+    output: true
+    permalink: "/list/:name:output_ext"
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 defaults:
 - scope:
     path: ''
@@ -33,21 +28,26 @@ defaults:
     type: item
   values:
     layout: item
-    title:
-    steine: [
-        [
-            "HIER WOHNTE",
-            "VORNAME NACHNAME",
-            "",
-            "",
-            "1900",
-            "DEPORTIERT JAHR",
-            "ERMORDET IN",
-            "ORT",
-            ""
-        ]
-    ]
-
+    title: 
+    steine:
+    - - HIER WOHNTE
+      - VORNAME NACHNAME
+      - ''
+      - ''
+      - '1900'
+      - DEPORTIERT JAHR
+      - ERMORDET IN
+      - ORT
+      - ''
+email: lukas@himsel.me
+description: ''
+baseurl: "/stolpersteine"
+url: https://opendata-heilbronn.github.io
+markdown: kramdown
+permalink: pretty
+exclude:
+- _data/test.json
+- _data/data.json
 gems:
-  - jekyll-assets
-  - jekyll-pdf
+- jekyll-assets
+- jekyll-pdf

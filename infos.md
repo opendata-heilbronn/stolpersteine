@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Infos
-permalink: /info.html
+permalink: "/info.html"
+layout: page
 ---
 
 ## Links und Materialien für die Recherche

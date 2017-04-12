@@ -1,35 +1,30 @@
 ---
+title: Klara und Kurt Asch
+date: 2015-05-20 00:00:00 Z
 layout: item
-title: "Klara und Kurt Asch"
-address: "Allee 57"
-steine: [
-          [
-            "HIER WOHNTE",
-            "KLARA ASCH",
-            "",
-            "GEB. STRAUSS",
-            "JG. 1872",
-            "DEPORTIERT 1942",
-            "THERESIENSTADT",
-            "AUSCHWITZ",
-            "ERMORDET 1944"
-          ],
-          [
-            "HIER WOHNTE",
-            "KURT ASCH",
-            "",
-            "",
-            "JG. 1912",
-            "FLUCHT 1939",
-            "USA",
-            "",
-            ""
-          ]
-      ]
+address: Allee 57
+steine:
+- - HIER WOHNTE
+  - KLARA ASCH
+  - ''
+  - GEB. STRAUSS
+  - JG. 1872
+  - DEPORTIERT 1942
+  - THERESIENSTADT
+  - AUSCHWITZ
+  - ERMORDET 1944
+- - HIER WOHNTE
+  - KURT ASCH
+  - ''
+  - ''
+  - JG. 1912
+  - FLUCHT 1939
+  - USA
+  - ''
+  - ''
 images: []
 x: 49.14421610000001
 y: 9.222552899999982
-date: 2015-05-20 00:00:00
 ---
 
 Klara Asch wurde am 30. Dezember 1872 als Tochter von Mina Reis und Samuel Strauss in Grombach geboren, seit 1973 Ortsteil von Bad Rappenau. Klara hatte elf ältere Geschwister und einen jüngeren Bruder.

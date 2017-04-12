@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Impressum
 permalink: impressum.html
+layout: page
 ---
 
 ## Verantwortlich für den Inhalt:  
