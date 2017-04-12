@@ -20,3 +20,10 @@ collections:
         title: Aktionen
         output: true
         permalink: "/aktionen/:name:output_ext"
+
+defaults:
+- scope:
+    path: ''
+    type: actions
+  values:
+    layout: action

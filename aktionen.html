@@ -10,17 +10,13 @@ permalink: aktionen.html
 <ul>
 {% for page in sorted %}
 {% if page.date == last %}
-    <li>{{ page.title }}</li>
+    <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
 {% else %}
 </ul>
 <p>Aktion vom {{ page.date | date: "%-d. %B %Y" }}</p>
 <ul>
 {% assign last = page.date %}
-<li>{{ page.title }}</li>
+<li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
 {% endif %}
 {% endfor %}
 </ul>
-
-{% for item in site.actions %}
-<a href="{{ site.baseurl }}{{ item.url }}"><h1>Aktion vom {{ item.date | date: "%-d. %B %Y" }}</h1></a>
-{% endfor %}
