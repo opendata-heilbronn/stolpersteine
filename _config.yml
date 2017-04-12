@@ -1,10 +1,22 @@
----
-title: Stolpersteine
-timezone: UTC
+# Site settings
+title: Stolpersteine Heilbronn
+email: lukas@himsel.me
+description: ""
+baseurl: "/stolpersteine"
+url: "https://opendata-heilbronn.github.io"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+exclude: ["_data/test.json", "_data/data.json"]
+
 collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
+    list:
+        title: Liste
+        output: true
+        permalink: "/list/:name:output_ext"
+    actions:
+        title: Aktionen
+        output: true
+        permalink: "/aktionen/:name:output_ext"

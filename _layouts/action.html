@@ -1,0 +1,12 @@
+---
+layout: page
+---
+        <link rel="stylesheet" href="https://unpkg.com/gutenberg-css@0.4" media="print">
+        <link rel="stylesheet" href="https://unpkg.com/gutenberg-css@0.4/dist/themes/oldstyle.min.css" media="print">
+
+        {% for item in site.list %}
+        {% if page.date == item.date %}
+        <h1>{{ item.title }}<br><small>{{ item.address }}</small></h1>
+        <p>{{ item.content }}</p>
+        {% endif %}
+        {% endfor %}

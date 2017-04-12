@@ -1,0 +1,26 @@
+---
+layout: page
+title: Aktionen
+permalink: aktionen.html
+---
+{% assign sorted = site.list | reverse %}
+{% assign last = sorted.first.date %}
+
+<p>Aktion vom {{ last | date: "%-d. %B %Y" }}</p>
+<ul>
+{% for page in sorted %}
+{% if page.date == last %}
+    <li>{{ page.title }}</li>
+{% else %}
+</ul>
+<p>Aktion vom {{ page.date | date: "%-d. %B %Y" }}</p>
+<ul>
+{% assign last = page.date %}
+<li>{{ page.title }}</li>
+{% endif %}
+{% endfor %}
+</ul>
+
+{% for item in site.actions %}
+<a href="{{ site.baseurl }}{{ item.url }}"><h1>Aktion vom {{ item.date | date: "%-d. %B %Y" }}</h1></a>
+{% endfor %}

@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.2"
+   width="744.09448"
+   height="1052.3622"
+   id="svg8733">
+  <defs
+     id="defs8735">
+    <filter
+       x="-0.084067799"
+       y="-1.2610168"
+       width="1.1681356"
+       height="3.5220337"
+       color-interpolation-filters="sRGB"
+       id="filter5444-9-59-8-2-2">
+      <feGaussianBlur
+         stdDeviation="22.518159"
+         id="feGaussianBlur5446-4-3-1-6-5" />
+    </filter>
+    <filter
+       x="-0.084067799"
+       y="-1.2610168"
+       width="1.1681356"
+       height="3.5220337"
+       color-interpolation-filters="sRGB"
+       id="filter5444-9">
+      <feGaussianBlur
+         stdDeviation="22.518159"
+         id="feGaussianBlur5446-4" />
+    </filter>
+    <linearGradient
+       x1="-437.14285"
+       y1="600.93359"
+       x2="-411.42856"
+       y2="192.36218"
+       id="linearGradient3918-7"
+       xlink:href="#linearGradient3912-8"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.96255593,0,0,0.96255509,963.0347,-126.13092)" />
+    <linearGradient
+       id="linearGradient3912-8">
+      <stop
+         id="stop3914-1"
+         style="stop-color:#e9a123;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3916-6"
+         style="stop-color:#e9a123;stop-opacity:0.36979166"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="-442.85715"
+       y1="1158.0764"
+       x2="-954.28571"
+       y2="152.36218"
+       id="linearGradient3842-4"
+       xlink:href="#linearGradient3836-1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.96398305,0,0,0.96398305,1080.3704,-340.33941)" />
+    <linearGradient
+       id="linearGradient3836-1">
+      <stop
+         id="stop3838-8"
+         style="stop-color:#e7b900;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop7519"
+         style="stop-color:#e7b901;stop-opacity:0.99607843"
+         offset="0.00390625" />
+      <stop
+         id="stop7517"
+         style="stop-color:#e7b902;stop-opacity:0.99215686"
+         offset="0.0078125" />
+      <stop
+         id="stop7515"
+         style="stop-color:#e7ba04;stop-opacity:0.98431373"
+         offset="0.015625" />
+      <stop
+         id="stop7513"
+         style="stop-color:#e8bb08;stop-opacity:0.96862745"
+         offset="0.03125" />
+      <stop
+         id="stop7511"
+         style="stop-color:#eabe10;stop-opacity:0.93725491"
+         offset="0.0625" />
+      <stop
+         id="stop7509"
+         style="stop-color:#edc420;stop-opacity:0.87450981"
+         offset="0.125" />
+      <stop
+         id="stop7507"
+         style="stop-color:#f3cf40;stop-opacity:0.74901962"
+         offset="0.25" />
+      <stop
+         id="stop7505"
+         style="stop-color:#ffe680;stop-opacity:0.49803922"
+         offset="0.5" />
+      <stop
+         id="stop3840-5"
+         style="stop-color:#ffe680;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="694.28571"
+       y1="755.2193"
+       x2="134.28572"
+       y2="-273.35211"
+       id="linearGradient5937"
+       xlink:href="#linearGradient3761-7"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-1055.616,-955.05987)" />
+    <linearGradient
+       id="linearGradient3761-7">
+      <stop
+         id="stop3763-49"
+         style="stop-color:#ce8400;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3765-9"
+         style="stop-color:#ce8400;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="694.28571"
+       y1="755.2193"
+       x2="134.28572"
+       y2="-273.35211"
+       id="linearGradient8731"
+       xlink:href="#linearGradient3761-7"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(2.8570704,-56.563085)" />
+  </defs>
+  <metadata
+     id="metadata8738">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <rect
+       width="674.28571"
+       height="674.28571"
+       rx="40"
+       ry="40"
+       x="37.142761"
+       y="61.513374"
+       id="rect2991-5"
+       style="fill:url(#linearGradient8731);fill-opacity:1" />
+    <rect
+       width="650"
+       height="650"
+       rx="38.559322"
+       ry="38.559322"
+       x="50.285461"
+       y="70.941963"
+       id="rect2991-0-2"
+       style="fill:url(#linearGradient3842-4);fill-opacity:1" />
+    <rect
+       width="649.03741"
+       height="649.03741"
+       rx="38.502197"
+       ry="38.502201"
+       x="49.978271"
+       y="72.779976"
+       id="rect2991-3-0"
+       style="opacity:0.64655175;fill:url(#linearGradient3918-7);fill-opacity:1;stroke:none" />
+    <rect
+       width="642.85712"
+       height="42.857143"
+       rx="15.439546"
+       ry="15.021718"
+       x="62.857136"
+       y="132.3622"
+       transform="matrix(0.87063906,0,0,1,38.28287,-57.705985)"
+       id="rect5438-5"
+       style="opacity:0.64655175;fill:#fae39c;fill-opacity:0.95265958;filter:url(#filter5444-9)" />
+    <rect
+       width="642.85712"
+       height="42.857143"
+       rx="15.439546"
+       ry="15.021718"
+       x="62.857136"
+       y="132.3622"
+       transform="matrix(1.0051567,0,0,0.51816012,-11.98163,633.88832)"
+       id="rect5438-5-5-2-4-2"
+       style="opacity:0.30603446;fill:#502d16;fill-opacity:0.95265958;filter:url(#filter5444-9-59-8-2-2)" />
+    <flowRoot
+       transform="translate(895.9172,-443.84591)"
+       id="flowRoot3769-89"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion3771-6"><rect
+           width="728.57141"
+           height="140"
+           x="-897.14288"
+           y="569.50507"
+           id="rect3773-2" /></flowRegion><flowPara
+         id="flowPara3775-8"
+         style="text-align:center;text-anchor:middle;fill:#2b1100">HIER WOHNTE</flowPara></flowRoot>    <flowRoot
+       transform="translate(894.9247,-361.73941)"
+       id="flowRoot3769-8-7"
+       xml:space="preserve"
+       style="font-size:56px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion3771-8-6"><rect
+           width="728.57141"
+           height="140"
+           x="-897.14288"
+           y="569.50507"
+           id="rect3773-8-7"
+           style="font-size:56px" /></flowRegion><flowPara
+         id="flowPara3775-0-2"
+         style="font-size:56px;text-align:center;text-anchor:middle;fill:#2b1100">THERESE MELITTA</flowPara></flowRoot>    <flowRoot
+       transform="translate(895.5714,-218.51101)"
+       id="flowRoot3769-0-0"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion3771-1-9"><rect
+           width="728.57141"
+           height="140"
+           x="-897.14288"
+           y="569.50507"
+           id="rect3773-0-5" /></flowRegion><flowPara
+         id="flowPara3775-2-8"
+         style="text-align:center;text-anchor:middle;fill:#2b1100">GEB. VOGEL </flowPara></flowRoot>    <flowRoot
+       transform="translate(899.4875,-127.85452)"
+       id="flowRoot3769-0-9-1"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion3771-1-7-0"><rect
+           width="728.57141"
+           height="140"
+           x="-897.14288"
+           y="569.50507"
+           id="rect3773-0-4-1" /></flowRegion><flowPara
+         id="flowPara3775-2-4-9"
+         style="text-align:center;text-anchor:middle;fill:#2b1100">JG. 1895</flowPara></flowRoot>    <flowRoot
+       transform="translate(896.5871,-82.526375)"
+       id="flowRoot3769-0-7-3"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion3771-1-2-5"><rect
+           width="728.57141"
+           height="140"
+           x="-897.14288"
+           y="569.50507"
+           id="rect3773-0-3-24" /></flowRegion><flowPara
+         id="flowPara3775-2-7-9"
+         style="text-align:center;text-anchor:middle;fill:#2b1100">DEPORTIERT 1941</flowPara></flowRoot>    <flowRoot
+       transform="translate(896.6945,-37.198196)"
+       id="flowRoot3769-0-7-7-9"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion3771-1-2-4-0"><rect
+           width="728.57141"
+           height="140"
+           x="-897.14288"
+           y="569.50507"
+           id="rect3773-0-3-2-2" /></flowRegion><flowPara
+         id="flowPara3775-2-7-7-8"
+         style="text-align:center;text-anchor:middle;fill:#2b1100">ERMORDET IN</flowPara></flowRoot>    <flowRoot
+       transform="translate(895.7016,-291.05101)"
+       id="flowRoot3769-8-0-6"
+       xml:space="preserve"
+       style="font-size:56px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion3771-8-9-5"><rect
+           width="728.57141"
+           height="140"
+           x="-897.14288"
+           y="569.50507"
+           id="rect3773-8-0-7"
+           style="font-size:56px" /></flowRegion><flowPara
+         id="flowPara3775-0-0-4"
+         style="font-size:56px;text-align:center;text-anchor:middle;fill:#2b1100">LEDERMANN</flowPara></flowRoot>    <flowRoot
+       transform="translate(894.8878,8.1300647)"
+       id="flowRoot3769-0-7-7-9-2"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion3771-1-2-4-0-8"><rect
+           width="728.57141"
+           height="140"
+           x="-897.14288"
+           y="569.50507"
+           id="rect3773-0-3-2-2-6" /></flowRegion><flowPara
+         id="flowPara3775-2-7-7-8-9"
+         style="text-align:center;text-anchor:middle;fill:#2b1100">RIGA</flowPara></flowRoot>    <flowRoot
+       transform="translate(895.5714,-173.18271)"
+       id="flowRoot3769-0-0-2"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion3771-1-9-6"><rect
+           width="728.57141"
+           height="140"
+           x="-897.14288"
+           y="569.50507"
+           id="rect3773-0-5-3" /></flowRegion><flowPara
+         id="flowPara3775-2-8-1"
+         style="text-align:center;text-anchor:middle;fill:#2b1100">....</flowPara></flowRoot>    <flowRoot
+       transform="translate(894.8878,53.458355)"
+       id="flowRoot3769-0-7-7-9-2-0"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion3771-1-2-4-0-8-5"><rect
+           width="728.57141"
+           height="140"
+           x="-897.14288"
+           y="569.50507"
+           id="rect3773-0-3-2-2-6-4" /></flowRegion><flowPara
+         id="flowPara3775-2-7-7-8-9-0"
+         style="text-align:center;text-anchor:middle;fill:#2b1100">...</flowPara></flowRoot>  </g>
+</svg>
