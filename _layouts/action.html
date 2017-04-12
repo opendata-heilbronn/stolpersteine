@@ -25,5 +25,11 @@
         {% endif %}
         {% endfor %}
 </body>
-
+<script>
+document.onreadystatechange = function () {
+if (document.readyState == "complete") {
+        window.print();
+}
+}
+</script>
 </html>

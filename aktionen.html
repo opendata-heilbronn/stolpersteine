@@ -13,7 +13,7 @@ permalink: aktionen.html
 {% assign a = action.date | date: "%B%Y" %}
 {% assign b = last  | date: "%B%Y" %}
 {% if a == b %}
-<a href="{{ site.baseurl }}{{ action.pdf_url }}" class="button">Als Druckdatei</a><br>
+<a href="{{ site.baseurl }}{% if action.pdf_url %}{{ action.pdf_url }}{% else %}{{ action.url }}{% endif %}" class="button">Als Druckdatei</a><br>
 Verlegte Stolpersteine:
 </p>
 {% endif %}
@@ -31,7 +31,7 @@ Verlegte Stolpersteine:
 {% assign a = action.date | date: "%B%Y" %}
 {% assign b = last  | date: "%B%Y" %}
 {% if a == b %}
-<a href="{{ site.baseurl }}{{ action.pdf_url }}" class="button">Als Druckdatei</a><br>
+<a href="{{ site.baseurl }}{% if action.pdf_url %}{{ action.pdf_url }}{% else %}{{ action.url }}{% endif %}" class="button">Als Druckdatei</a><br>
 Verlegte Stolpersteine:
 </p>
 {% endif %}
