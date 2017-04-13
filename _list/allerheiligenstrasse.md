@@ -13,8 +13,9 @@ steine:
   - ERMORDET IN
   - RIGA
   - ''
-audio:
-images: ['http://stolpersteine-heilbronn.de/43-allerheiligenstrasse-ledermann.jpg']
+audio: 
+images:
+- http://stolpersteine-heilbronn.de/43-allerheiligenstrasse-ledermann.jpg
 x: 49.1399708
 y: 9.216302600000063
 ---
