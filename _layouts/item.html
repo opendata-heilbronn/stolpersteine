@@ -1,10 +1,23 @@
 ---
 layout: page
 ---
-
-{{ content }}
-
+{% assign this = page %}
 {% assign steine = page.steine %}
 {% for page in steine %}
 {% include stolperstein.svg %}
 {% endfor %}
+
+{{ this.content }}
+
+{% if this.audio %}
+<audio controls>
+  <source src="{{ this.audio }}" type="audio/mpeg">
+  Ihr Browser unterstützt kein HTML5 Audio
+</audio>
+{% endif %}
+
+{% if this.images %}
+{% for image in this.images %}
+<img src="{{ site.baseurl }}{{ image }}">
+{% endfor %}
+{% endif %}
