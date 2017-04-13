@@ -1,26 +1,22 @@
 ---
+title: Klara Holwein
+date: 2010-04-27 00:00:00 Z
 layout: item
-title: "Klara Holwein"
-address: "Allee 9"
-steine: [
-          [
-             
-            "HIER WOHNTE",
-            "KLARA HOLWEIN",
-            "GEB. WANNER",
-            "",
-            "JG. 1889",
-            "AUS ANSTALT WEINSBERG",
-            "1940 NACH",
-            "GRAFENECK",
-            "ERMORDET 8.5.1940"
-          ]
-      ]
-audio: "http://stolpersteine-heilbronn.de/audio/allee-9.mp3"
+address: Allee 9
+steine:
+- - HIER WOHNTE
+  - KLARA HOLWEIN
+  - GEB. WANNER
+  - ''
+  - JG. 1889
+  - AUS ANSTALT WEINSBERG
+  - 1940 NACH
+  - GRAFENECK
+  - ERMORDET 8.5.1940
+audio: http://stolpersteine-heilbronn.de/audio/allee-9.mp3
 images: []
 x: 49.1411033
 y: 9.221647100000041
-date: 2010-04-27 00:00:00
 ---
 
 Die Heilbronner Geschäftsfrau Klara Holwein, 1889 geboren, führte zusammen mit ihrem Mann ein Reformhaus und gab Kurse für vegetarisches Kochen nach den Grundsätzen der Reformbewegung.
