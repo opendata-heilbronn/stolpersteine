@@ -474,7 +474,9 @@ font-size:2rem
 }
 
 body {
-font-size:1.5rem
+font-size:1.5rem;
+padding:0;
+margin:0
 }
 
 .content {
