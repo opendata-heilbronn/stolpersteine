@@ -6,13 +6,14 @@ address: Allee 9
 steine:
 - - HIER WOHNTE
   - KLARA HOLWEIN
-  - GEB. WANNER
   - ''
+  - GEB. WANNER
   - JG. 1889
   - AUS ANSTALT WEINSBERG
   - 1940 NACH
   - GRAFENECK
   - ERMORDET 8.5.1940
+  - ''
 audio: http://stolpersteine-heilbronn.de/audio/allee-9.mp3
 images: []
 x: 49.1411033

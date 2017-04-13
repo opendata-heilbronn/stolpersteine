@@ -13,6 +13,7 @@ steine:
   - ALTERSHEIM
   - DELLMENSINGEN
   - TOT 21.3.1942
+  - ''
 - - HIER WOHNTE
   - REBEKKA SIMSOHN
   - ''
@@ -21,6 +22,7 @@ steine:
   - DEPORTIERT 1941
   - ERMORDET IN
   - RIGA
+  - ''
   - ''
 images: []
 x: 49.1434651

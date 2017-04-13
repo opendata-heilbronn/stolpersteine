@@ -13,6 +13,7 @@ steine:
   - THERESIENSTADT
   - ERMORDET 21.4.1943
   - ''
+  - ''
 - - HIER WOHNTE
   - HERMANN
   - ROSENTHAL
@@ -22,9 +23,10 @@ steine:
   - THERESIENSTADT
   - ERMORDET 8.12.1943
   - ''
+  - ''
 images: []
-x: 49.0827
-y: 9.19731999999999
+x: 49.1388024
+y: 9.216561299999967
 ---
 
 „Dabei müssen wir sicherstellen, dass dieses Gedenken nicht zu einem kalten Ritual verkümmert, sondern die Herzen der Menschen und der zukünftigen Generationen erreicht.“ 

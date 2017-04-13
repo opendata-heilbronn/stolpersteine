@@ -5,13 +5,14 @@ address: Allerheiligenstraße (früher Haus Nr. 32)
 steine:
 - - HIER WOHNTE
   - FRIDA LEDERMANN
+  - ''
   - GEB. LINDAUER
-  - 
   - JG. 1887
   - DEPORTIERT 1941
   - ERMORDET IN
   - RIGA
-  - 
+  - ''
+  - ''
 audio: 
 images:
 - "/uploads/43-allerheiligenstrasse-ledermann.jpg"

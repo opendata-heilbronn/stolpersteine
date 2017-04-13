@@ -1,17 +1,18 @@
 ---
 title: Emma Vogel
-date: 2010-04-27 00:00:00 Z
+date: 2014-06-24 00:00:00 Z
 layout: item
 address: Bahnhofstraße 11
 steine:
 - - HIER WOHNTE
   - EMMA VOGEL
-  - GEB. SAUER
   - ''
+  - GEB. SAUER
   - JG. 1869
   - DEPORTIERT 1942
   - THERESIENSTADT
   - ERMORDET 4.9.1942
+  - ''
   - ''
 audio: http://stolpersteine-heilbronn.de/audio/bahnhofstrasse-11.mp3
 images: []

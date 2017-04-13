@@ -13,6 +13,7 @@ steine:
   - THERESIENSTADT
   - 1944 AUSCHWITZ
   - ERMORDET
+  - ''
 - - HIER WOHNTE
   - MARGARETE
   - VOLLWEILER
@@ -22,6 +23,7 @@ steine:
   - THERESIENSTADT
   - 1944 AUSCHWITZ
   - ERMORDET
+  - ''
 images: []
 audio: http://stolpersteine-heilbronn.de/audio/bahnhofstrasse-5.mp3
 x: 49.1423982

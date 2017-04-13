@@ -13,6 +13,7 @@ steine:
   - THERESIENSTADT
   - AUSCHWITZ
   - ERMORDET 1944
+  - ''
 - - HIER WOHNTE
   - KURT ASCH
   - ''
@@ -20,6 +21,7 @@ steine:
   - JG. 1912
   - FLUCHT 1939
   - USA
+  - ''
   - ''
   - ''
 images: []
