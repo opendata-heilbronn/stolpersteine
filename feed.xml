@@ -12,9 +12,8 @@ title: News Feed
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
-    
-    <description>{{ post.content | xml_escape }}</description>
-{% assign sorted = site.list %}{% assign last = sorted.first.date %}
+
+{% assign sorted = site.list | reverse %}{% assign last = sorted.first.date %}
 <item>
 <title>{{ "Aktion vom " | xml_escape }}{{ last | date: "%-d. %B %Y" | xml_escape }}</title>
 <pubDate>{{ last | date_to_rfc822 }}</pubDate>
@@ -22,7 +21,8 @@ title: News Feed
 <guid isPermaLink="true">{{ "/aktionen.html" | prepend: site.baseurl | prepend: site.url }}</guid>
 <description>
 {% for page in sorted %}{% if page.date == last %}
-<a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">{{ page.title | xml_escape }}</a><br />
+{{ page.title | prepend: '<h1>' | append: '</h1>' |xml_escape }}
+{{ page.content | xml_escape }}
 {% else %}
 </description>
 </item>
@@ -33,7 +33,8 @@ title: News Feed
 <link>{{ "/aktionen.html" | prepend: site.baseurl | prepend: site.url }}</link>
 <guid isPermaLink="true">{{ "/aktionen.html" | prepend: site.baseurl | prepend: site.url }}</guid>
 <description>
-<a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">{{ page.title | xml_escape }}</a><br />
+{{ page.title | prepend: '<h1>' | append: '</h1>' |xml_escape }}
+{{ page.content | xml_escape }}
 {% endif %}{% endfor %}
 </description>
 </item>
