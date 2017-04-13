@@ -14,7 +14,6 @@ title: News Feed
     <generator>Jekyll v{{ jekyll.version }}</generator>
     
     <description>{{ post.content | xml_escape }}</description>
-<channel>
 {% assign sorted = site.list %}{% assign last = sorted.first.date %}
 <item>
 <title>{{ "Aktion vom " | xml_escape }}{{ last | date: "%-d. %B %Y" | xml_escape }}</title>
@@ -23,7 +22,7 @@ title: News Feed
 <guid isPermaLink="true">{{ "/aktionen.html" | prepend: site.baseurl | prepend: site.url }}</guid>
 <description>
 {% for page in sorted %}{% if page.date == last %}
-<a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a><br />
+<a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">{{ page.title | xml_escape }}</a><br />
 {% else %}
 </description>
 </item>
@@ -34,9 +33,10 @@ title: News Feed
 <link>{{ "/aktionen.html" | prepend: site.baseurl | prepend: site.url }}</link>
 <guid isPermaLink="true">{{ "/aktionen.html" | prepend: site.baseurl | prepend: site.url }}</guid>
 <description>
-<a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a><br />
+<a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">{{ page.title | xml_escape }}</a><br />
 {% endif %}{% endfor %}
 </description>
 </item>
+
 </channel>
 </rss>
