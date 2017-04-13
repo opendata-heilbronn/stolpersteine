@@ -35,6 +35,16 @@ steine:
   - RIGA
   - ''
   - ''
+- - HIER WOHNTE
+  - FRIDA STEIN
+  - ''
+  - GEB. WOLLENBERGER
+  - JG. 1869
+  - DEPORTIERT 1942
+  - ERMORDET IN
+  - MALY TROSTINEC
+  - ''
+  - ''
 audio: http://stolpersteine-heilbronn.de/audio/innsbrucker-strasse-31.mp3
 x: 49.13623829999999
 y: 9.220121199999994

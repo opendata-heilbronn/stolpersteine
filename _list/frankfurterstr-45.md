@@ -1,5 +1,5 @@
 ---
-title: Resi, Leopold, Alfred und Bertha Traub
+title: Resi, Leopold, Alfred und Berta Traub
 date: 2015-09-17 00:00:00 Z
 layout: item
 address: Frankfurter Str. 45
