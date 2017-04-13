@@ -1,23 +1,23 @@
 ---
 title: Frida Ledermann
 date: 2016-06-29 00:00:00 Z
-layout: item
 address: Allerheiligenstraße (früher Haus Nr. 32)
 steine:
 - - HIER WOHNTE
   - FRIDA LEDERMANN
   - GEB. LINDAUER
-  - ''
+  - 
   - JG. 1887
   - DEPORTIERT 1941
   - ERMORDET IN
   - RIGA
-  - ''
+  - 
 audio: 
 images:
-- http://stolpersteine-heilbronn.de/43-allerheiligenstrasse-ledermann.jpg
+- "/uploads/43-allerheiligenstrasse-ledermann.jpg"
 x: 49.1399708
 y: 9.216302600000063
+layout: item
 ---
 
 Frida Ledermann kam am 30. April 1887 in Menzingen (heute Stadt Kraichtal im Landkreis Sinsheim) als Frida Lindauer zur Welt. Sie heiratete jung ihren Gatten Felix Ledermann, der ebenfalls aus Menzingen stammte.
