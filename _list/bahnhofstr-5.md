@@ -1,10 +1,9 @@
 ---
-title:  Margarete Vollweiler, geborene Tannhauser, und David Vollweiler
+title: Margarete Vollweiler, geborene Tannhauser, und David Vollweiler
 date: 2014-06-24 00:00:00 Z
 layout: item
 address: Bahnhofstraße 5
 steine:
-
 - - HIER WOHNTE
   - DAVID VOLLWEILER
   - ''
@@ -24,7 +23,7 @@ steine:
   - 1944 AUSCHWITZ
   - ERMORDET
 images: []
-audio: "http://stolpersteine-heilbronn.de/audio/bahnhofstrasse-5.mp3"
+audio: http://stolpersteine-heilbronn.de/audio/bahnhofstrasse-5.mp3
 x: 49.1423982
 y: 9.214038399999936
 ---

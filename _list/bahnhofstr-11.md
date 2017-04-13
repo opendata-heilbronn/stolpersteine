@@ -9,7 +9,7 @@ steine:
   - GEB. SAUER
   - ''
   - JG. 1869
-  - DEPORTIERT 1942 
+  - DEPORTIERT 1942
   - THERESIENSTADT
   - ERMORDET 4.9.1942
   - ''

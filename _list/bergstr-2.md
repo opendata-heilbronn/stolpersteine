@@ -6,9 +6,9 @@ address: Bergstr. 2 (heute Haus Rollwagstr. 6)
 steine:
 - - HIER WOHNTE
   - CLEMENTINE
-  - ROSENTHAL 
-  - GEB. BAMBERGER 
-  - JG. 1889 
+  - ROSENTHAL
+  - GEB. BAMBERGER
+  - JG. 1889
   - DEPORTIERT 1942
   - THERESIENSTADT
   - ERMORDET 21.4.1943
