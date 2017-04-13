@@ -540,10 +540,24 @@ margin-right:0
 line-height:4rem;
 margin-right:1rem
 }
+
+input[type="search"]{
+width:100%
+}
+}
+
+@media (min-width: 550px) {
+.hide-on-bigger {
+display: none;
+}
+
+input[type="search"]{
+width:50%
+}
 }
 
 svg {
-zoom:40%;
+zoom:45%;
 text-transform:uppercase;
-font-family: 'Roboto Mono', monospace;
+font-family:'Roboto Mono',monospace
 }

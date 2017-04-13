@@ -37,6 +37,17 @@ layout: default
 <div class="row">
 <div class="twelve columns">
     <h2>Über das Projekt</h2>
+    <p>
+        {{ site.description }}
+    </p>
+</div>
+<div class="twelve columns">
+    <h2>Neuigkeiten</h2>
+     <ul>
+    {% for post in site.posts %}
+        <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+    </ul>
 </div>
 </div>
 </div>

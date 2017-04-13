@@ -10,7 +10,7 @@ L.control.fullscreen({
 }).addTo(map);
 
 var options = {
-    valueNames: ['item-title', 'item-content'],
+    valueNames: ['card-content'],
     fuzzySearch: {
         searchClass: "fuzzy-search",
         location: 0,

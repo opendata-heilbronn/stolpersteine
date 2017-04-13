@@ -2,12 +2,27 @@
     <div class="container">
         <ul class="footer-list">
             <li class="footer-item">
-            <a href="https://github.com/opendata-heilbronn" class="footer-link">Made /w <i class="icon ion-heart"></i> by OK Lab Heilbronn</a>
-    </li>
+                <a href="https://github.com/opendata-heilbronn" class="footer-link">Made by OK Lab Heilbronn</a>
+            </li>
             <li class="footer-item"><a href="{{ site.baseurl }}/impressum.html" class="footer-link">Impressum</a></li>
             <li class="footer-item"><a href="http://creativecommons.org/licenses/by-sa/4.0/" class="footer-link">Lizenz 
     <img src="https://licensebuttons.net/l/by-sa/4.0/80x15.png" alt="License: CC BY-SA 4.0" />
     </a></li>
+    <li class="footer-item hide-on-small">
+                <a class="footer-link" href="https://twitter.com/intent/tweet?text={{ site.title | cgi_escape }}{% if page.title %}{{ page.title | prepend: ': ' | cgi_escape }}{% endif %}&url={{ page.url | prepend: site.baseurl | prepend: site.url | cgi_escape }}" target="_blank"><i class="icon ion-social-twitter"></i> TWEET</a>
+            </li>
+            <li class="footer-item hide-on-small">
+                <a class="footer-link" href="https://www.facebook.com/share.php?u={{ page.url | prepend: site.baseurl | prepend: site.url | cgi_escape }}&title={{ site.title | cgi_escape }}{% if page.title %}{{ page.title | prepend: ': ' | cgi_escape }}{% endif %}" target="_blank"><i class="icon ion-social-facebook"></i> SHARE</a>
+            </li>
+        </ul>
+    </div><div class="container hide-on-bigger">
+        <ul class="footer-list">
+            <li class="footer-item">
+                <a class="footer-link" href="https://twitter.com/intent/tweet?text={{ site.title | cgi_escape }}{% if page.title %}{{ page.title | prepend: ': ' | cgi_escape }}{% endif %}&url={{ page.url | prepend: site.baseurl | prepend: site.url | cgi_escape }}" target="_blank"><i class="icon ion-social-twitter"></i> TWEET</a>
+            </li>
+            <li class="footer-item">
+                <a class="footer-link" href="https://www.facebook.com/share.php?u={{ page.url | prepend: site.baseurl | prepend: site.url | cgi_escape }}&title={{ site.title | cgi_escape }}{% if page.title %}{{ page.title | prepend: ': ' | cgi_escape }}{% endif %}" target="_blank"><i class="icon ion-social-facebook"></i> SHARE</a>
+            </li>
         </ul>
     </div>
     </div>

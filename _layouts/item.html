@@ -2,23 +2,38 @@
 layout: page
 ---
 
+<div class="center-align">
 {% assign this = page %}
 {% assign steine = page.steine %}
 {% for page in steine %}
 {% include stolperstein.svg %}
 {% endfor %}
+</div>
 
 {{ this.content }}
 
 {% if this.audio %}
+<div class="center-align">
 <audio controls>
   <source src="{{ this.audio }}" type="audio/mpeg">
   Ihr Browser unterstützt kein HTML5 Audio
 </audio>
+<style>
+audio::-webkit-media-controls-enclosure {
+overflow:hidden;
+}
+audio::-webkit-media-controls-panel {
+width: calc(100% + 30px);
+}
+</style>
+</div>
 {% endif %}
 
+
 {% if this.images %}
+<div class="center-align">
 {% for image in this.images %}
 <img src="{{ site.baseurl }}{{ image }}">
 {% endfor %}
+</div>
 {% endif %}
