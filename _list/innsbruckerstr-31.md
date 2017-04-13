@@ -1,18 +1,19 @@
 ---
-title: Frida Stein, geborene Wollenberger, Sofie Flora Henle, geborene Stein, Moritz und Julius Henle
+title: Frida Stein, geborene Wollenberger, Sofie Flora Henle, geborene Stein, Moritz
+  und Julius Henle
 date: 2010-04-27 00:00:00 Z
 layout: item
-address: Innsbrucker Straße 31 
+address: Innsbrucker Straße 31
 steine:
 - - HIER WOHNTE
   - MORITZ HENLE
   - ''
   - ''
-  - JG. 1885 
+  - JG. 1885
   - DEPORTIERT 1941
   - RIGA
   - ERMORDET
-  - '26.3.1942'
+  - 26.3.1942
   - ''
 - - HIER WOHNTE
   - SOFIE FLORA HENLE

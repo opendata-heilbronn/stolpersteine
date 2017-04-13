@@ -1,5 +1,5 @@
 ---
-title:  Rosa und Max Pincus
+title: Rosa und Max Pincus
 date: 2014-06-24 00:00:00 Z
 layout: item
 address: Gymnasiumstraße 31
@@ -21,12 +21,12 @@ steine:
   - JG. 1868
   - ZWANGSUMZUG 1941
   - ALTENHEIM HERRLINGEN
-  - „EINGEWIESEN“
+  - "„EINGEWIESEN“"
   - HEILANSTALT ZWIEFALTEN
   - ERMORDET 26.3.1942
-
 audio: http://stolpersteine-heilbronn.de/audio/gymnasiumstrasse-31.mp3
-images: ["/uploads/pincus-max.jpg"]
+images:
+- "/uploads/pincus-max.jpg"
 x: 49.13974109999999
 y: 9.222949200000016
 ---

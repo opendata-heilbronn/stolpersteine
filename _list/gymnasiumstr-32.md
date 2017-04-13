@@ -18,13 +18,12 @@ steine:
   - HERMINE STRAUSS
   - ''
   - GEB. ROTHSCHILD
-  - JG. 1886 
+  - JG. 1886
   - DEPORTIERT 1942
   - THERESIENSTADT
   - ERMORDET 1944
   - AUSCHWITZ
   - ''
-
 audio: http://stolpersteine-heilbronn.de/audio/gymnasiumstrasse-32.mp3
 x: 49.1396114
 y: 9.223289000000022

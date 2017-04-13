@@ -1,5 +1,5 @@
 ---
-title:  Adolf, Pauline und Heinz Einstein
+title: Adolf, Pauline und Heinz Einstein
 date: 2015-05-20 00:00:00 Z
 layout: item
 address: Cäcilienstr. 60

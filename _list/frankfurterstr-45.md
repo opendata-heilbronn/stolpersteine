@@ -15,7 +15,7 @@ steine:
   - ''
   - ''
 - - HIER WOHNTE
-  - LEOPOLD TRAUB 
+  - LEOPOLD TRAUB
   - ''
   - ''
   - JG. 1879
@@ -24,7 +24,7 @@ steine:
   - RIGA
   - ''
   - ''
-- - HIER WOHNTE 
+- - HIER WOHNTE
   - RESI TRAUB
   - ''
   - ''
@@ -35,16 +35,16 @@ steine:
   - ''
   - ''
 - - HIER WOHNTE
-  - ALFRED TRAUB 
+  - ALFRED TRAUB
   - ''
   - JG. 1909
   - EINGEWIESEN 6.6.1940
   - HEILANSTALT ZWIEFALTEN
-  - '„VERLEGT“ 31.3.1941'
+  - "„VERLEGT“ 31.3.1941"
   - HADAMAR
   - ERMORDET 31.3.1941
   - AKTION T4
-images:
+images: 
 x: 49.14097
 y: 9.20873000000006
 ---

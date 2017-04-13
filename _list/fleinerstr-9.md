@@ -11,10 +11,12 @@ steine:
   - JG. 1876
   - DIFFAMIERT / GEDEMÜTIGT
   - ENTRECHTET
-  - FLUCHT IN DEN TOD 
-  - '18.6.1933'
+  - FLUCHT IN DEN TOD
+  - 18.6.1933
   - ''
-images: ["/uploads/elsner-adolf.jpg", "/uploads/elsner-adolf-1933-04-01.jpg"]
+images:
+- "/uploads/elsner-adolf.jpg"
+- "/uploads/elsner-adolf-1933-04-01.jpg"
 x: 49.1403635
 y: 9.218732799999998
 ---
