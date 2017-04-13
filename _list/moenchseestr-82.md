@@ -8,7 +8,7 @@ steine:
   - BERTHA EISENMANN
   - ''
   - GEB. KIEFE
-  - JG. 1870 
+  - JG. 1870
   - DEPORTIERT 1942
   - THERESIENSTADT
   - ERMORDET IN
@@ -29,9 +29,9 @@ steine:
   - EISENMANN
   - ''
   - JG. 1895
-  - VERHAFTET 1938 
+  - VERHAFTET 1938
   - DACHAU
-  - DEPORTIERT 1941 
+  - DEPORTIERT 1941
   - ERMORDET IN
   - RIGA
 audio: http://stolpersteine-heilbronn.de/audio/moenchseestrasse-82.mp3

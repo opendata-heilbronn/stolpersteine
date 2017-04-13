@@ -17,11 +17,11 @@ steine:
 - - HIER WOHNTE
   - META STERN
   - ''
-  - GEB. GUNZENHAUSEN 
+  - GEB. GUNZENHAUSEN
   - JG. 1878
   - DEPORTIERT 1942
   - THERESIENSTADT
-  - ERMORDET 8.9.1942 
+  - ERMORDET 8.9.1942
   - ''
   - ''
 - - HIER WOHNTE
@@ -31,7 +31,7 @@ steine:
   - JG. 1910
   - DEPORTIERT 1943
   - ERMORDET IN
-  - AUSCHWITZ 
+  - AUSCHWITZ
   - ''
   - ''
 - - HIER WOHNTE
@@ -51,7 +51,7 @@ steine:
   - JG. 1898
   - DEPORTIERT 1941
   - LODZ / LITZMANNSTADT
-  - ERMORDET 5.4.1942 
+  - ERMORDET 5.4.1942
   - ''
   - ''
 x: 49.1415426

@@ -31,7 +31,7 @@ steine:
   - JG. 1923
   - DEPORTIERT 1943
   - ERMORDET IN
-  - AUSCHWITZ 
+  - AUSCHWITZ
   - ''
   - ''
 x: 49.14132360000001

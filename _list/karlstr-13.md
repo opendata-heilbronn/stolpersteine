@@ -1,5 +1,5 @@
 ---
-title:  Elsa Schloss, geborene Lemberger, und Siegfried Schloss
+title: Elsa Schloss, geborene Lemberger, und Siegfried Schloss
 date: 2011-04-15 00:00:00 Z
 layout: item
 address: Karlstraße 13 (heute Glockengießerhof)
@@ -15,7 +15,7 @@ steine:
   - ''
   - ''
 - - HIER WOHNTE
-  - SIEGFRIED SCHLOSS 
+  - SIEGFRIED SCHLOSS
   - ''
   - ''
   - JG. 1882

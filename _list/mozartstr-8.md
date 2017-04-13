@@ -8,7 +8,7 @@ steine:
   - SALOMON
   - VOLLWEILER
   - ''
-  - JG. 1875 
+  - JG. 1875
   - DEPORTIERT 1942
   - IZBICA
   - ERMORDET

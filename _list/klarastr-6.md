@@ -1,5 +1,5 @@
 ---
-title: Max und Eugenie Luise Rosenthal 
+title: Max und Eugenie Luise Rosenthal
 date: 2015-05-20 00:00:00 Z
 layout: item
 address: Klarastr. 6
@@ -15,7 +15,7 @@ steine:
   - ERMORDET
   - ''
 - - HIER WOHNTE
-  - EUGENIE LUISE 
+  - EUGENIE LUISE
   - ROSENTHAL
   - ''
   - JG. 1905
