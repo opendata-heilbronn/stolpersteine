@@ -1,5 +1,5 @@
 ---
-title:  Gottlob Feidengruber
+title: Gottlob Feidengruber
 date: 2011-04-15 00:00:00 Z
 layout: item
 address: Herbststraße 30
@@ -15,7 +15,8 @@ steine:
   - HINGERICHTET 26.1.1944
   - BEI PARIS
 audio: http://stolpersteine-heilbronn.de/audio/herbststrasse-30.mp3
-images: ["/uploads/feidengruber-gottlob.jpg"]
+images:
+- "/uploads/feidengruber-gottlob.jpg"
 x: 49.1381995
 y: 9.225244999999973
 ---

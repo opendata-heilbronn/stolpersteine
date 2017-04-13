@@ -9,7 +9,7 @@ steine:
   - ''
   - ''
   - JG. 1915
-  - „EINGEWIESEN“ 30.11.1942
+  - "„EINGEWIESEN“ 30.11.1942"
   - HEILANSTALT ZWIEFALTEN
   - ERMORDET 10.10.1943
   - ''

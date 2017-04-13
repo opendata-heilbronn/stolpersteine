@@ -24,7 +24,7 @@ steine:
   - RIGA
   - ''
   - ''
-- - HIER WOHNTE 
+- - HIER WOHNTE
   - LINA
   - OPPENHEIMER
   - GEB. FALK
@@ -44,7 +44,7 @@ steine:
   - ''
   - ''
   - ''
-images:
+images: 
 x: 49.1415377
 y: 9.21375420000004
 ---
