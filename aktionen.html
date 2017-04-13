@@ -13,11 +13,11 @@ layout: page
 {% assign a = action.date | date: "%B%Y" %}
 {% assign b = last  | date: "%B%Y" %}
 {% if a == b %}
-<a href="{{ site.baseurl }}{% if action.pdf_url %}{{ action.pdf_url }}{% else %}{{ action.url }}{% endif %}" class="button">Als Druckdatei</a><br>
-Verlegte Stolpersteine:
-</p>
+<a href="{{ site.baseurl }}{{ action.url }}" class="button">Als Druckdatei</a><br>
 {% endif %}
 {% endfor %}
+Verlegte Stolpersteine:
+</p>
 <ul>
 {% for page in sorted %}
 {% if page.date == last %}
@@ -31,13 +31,15 @@ Verlegte Stolpersteine:
 {% assign a = action.date | date: "%B%Y" %}
 {% assign b = last  | date: "%B%Y" %}
 {% if a == b %}
-<a href="{{ site.baseurl }}{% if action.pdf_url %}{{ action.pdf_url }}{% else %}{{ action.url }}{% endif %}" class="button">Als Druckdatei</a><br>
-Verlegte Stolpersteine:
-</p>
+<a href="{{ site.baseurl }}{{ action.url }}" class="button">Als Druckdatei</a><br>
 {% endif %}
 {% endfor %}
+Verlegte Stolpersteine:
+</p>
 <ul>
 <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
 {% endif %}
 {% endfor %}
 </ul>
+<hr>
+<a href="{{ site.baseurl }}/feed.xml" class="button"><i class="icon ion-social-rss"></i> Aktionen RSS</a>

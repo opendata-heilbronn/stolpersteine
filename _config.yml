@@ -22,7 +22,6 @@ defaults:
     type: actions
   values:
     layout: action
-    pdf: true
 - scope:
     path: ''
     type: item
@@ -48,6 +47,3 @@ permalink: pretty
 exclude:
 - _data/test.json
 - _data/data.json
-gems:
-- jekyll-assets
-- jekyll-pdf
