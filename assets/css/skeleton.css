@@ -7,7 +7,7 @@
 * 12/29/2014
 */
 
-@import url('https://fonts.googleapis.com/css?family=Lato');
+@import url('https://fonts.googleapis.com/css?family=Lato|Roboto+Mono');
 
 .container {
 position:relative;
@@ -544,5 +544,6 @@ margin-right:1rem
 
 svg {
 zoom:40%;
-text-transform:uppercase
+text-transform:uppercase;
+font-family: 'Roboto Mono', monospace;
 }
