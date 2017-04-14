@@ -102,3 +102,4 @@ Arthur Reis (geb. 25.03.1904) war der Sohn von Sofie und Baruch Reis. Er wurde A
 Arthur Reis hatte sich zunächst geschworen, nie mehr deutschen Boden zu betreten; dennoch kam er nach dem Krieg mehrfach nach Heilbronn und nahm wieder Kontakt zu früheren Freunden auf. Er verstarb 1994 in Israel.
 
 Carola Reis (geb. 1909) ist zusammen mit ihrem Bruder Arthur im Jahr 1933 nach Palästina ausgewandert. Sie heiratete Prof. David Shapiro und war wie er an der Universität in Jerusalem tätig. Sie hatte eine Tochter. Carola Shapiro verstarb in den 1980er Jahren.
+[https://stadtarchiv.heilbronn.de/stadtgeschichte/geschichte-a-z/r/reis-sofie.html](https://stadtarchiv.heilbronn.de/stadtgeschichte/geschichte-a-z/r/reis-sofie.html)
