@@ -11,7 +11,7 @@ steine:
   - JG. 1863
   - DEPORTIERT 1942
   - THERESIENSTADT
-  - TOT 22.9.1942 
+  - TOT 22.9.1942
   - ''
   - ''
 - - HIER WOHNTE

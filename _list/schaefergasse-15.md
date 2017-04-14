@@ -17,7 +17,7 @@ steine:
 - - HIER WOHNTE
   - SOFIE STERN
   - ''
-  - GEB. WEBER 
+  - GEB. WEBER
   - JG. 1901
   - GEDEMÜTIGT / ENTRECHTET
   - FLUCHT IN DEN TOD

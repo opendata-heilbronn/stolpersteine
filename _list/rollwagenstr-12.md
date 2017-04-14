@@ -5,9 +5,9 @@ layout: item
 address: Rollwagstraße 12 (früher Innere Rosenbergstraße)
 steine:
 - - HIER WOHNTE
-  - JOHANNA ADLER 
+  - JOHANNA ADLER
   - ''
-  - GEB. WEIL 
+  - GEB. WEIL
   - JG. 1871
   - DEPORTIERT 1942
   - THERESIENSTADT
@@ -15,8 +15,8 @@ steine:
   - ERMORDET
   - ''
 - - HIER WOHNTE
-  - ROBERT ADLER 
-  - '' 
+  - ROBERT ADLER
+  - ''
   - ''
   - JG. 1895
   - FLUCHT 1939

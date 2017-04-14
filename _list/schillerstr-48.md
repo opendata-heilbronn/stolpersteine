@@ -1,5 +1,6 @@
 ---
-title: Franziska Heilbronner, geborene Rosenstein, Berthold Heilbronner und Friederike Heilbronner, geborene Elsass
+title: Franziska Heilbronner, geborene Rosenstein, Berthold Heilbronner und Friederike
+  Heilbronner, geborene Elsass
 date: 2010-04-27 00:00:00 Z
 layout: item
 address: Schillerstraße 48
@@ -11,7 +12,7 @@ steine:
   - JG. 1872
   - DEPORTIERT 1942
   - THERESIENSTADT
-  - ERMORDET 28.9.1942 
+  - ERMORDET 28.9.1942
   - ''
   - ''
 - - HIER WOHNTE
@@ -35,7 +36,8 @@ steine:
   - ''
   - ''
 audio: http://stolpersteine-heilbronn.de/audio/schillerstrasse-48.mp3
-images: ["/uploads/heilbronner-berthold-franziska.jpg"]
+images:
+- "/uploads/heilbronner-berthold-franziska.jpg"
 x: 49.1436992
 y: 9.229267899999968
 ---

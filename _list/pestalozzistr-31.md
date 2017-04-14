@@ -8,14 +8,15 @@ steine:
   - WILLI FRÖHLE
   - JG. 1898
   - VERHAFTET 1943
-  - ’WEHRKRAFTZERSETZUNG’
+  - "’WEHRKRAFTZERSETZUNG’"
   - GERICHTSGEFÄNGNIS
   - HEILBRONN
   - TODESURTEIL 17.3.1944
   - HINGERICHTET 22.6.1944
-  - GEFÄNGNIS STUTTGART 
+  - GEFÄNGNIS STUTTGART
 audio: http://stolpersteine-heilbronn.de/audio/pestalozzistrasse-31.mp3
-images: ["/uploads/froehle-willi.jpg"]
+images:
+- "/uploads/froehle-willi.jpg"
 x: 49.1495347
 y: 9.226326400000062
 ---

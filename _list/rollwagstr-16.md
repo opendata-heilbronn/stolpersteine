@@ -1,13 +1,14 @@
 ---
-title: Sofie Reis, geborene Kahn, Margarete Reis, geborene Ettlinger, Hans David und Walter Emil Reis, Max Reis, Arthur und Carola Reis
+title: Sofie Reis, geborene Kahn, Margarete Reis, geborene Ettlinger, Hans David und
+  Walter Emil Reis, Max Reis, Arthur und Carola Reis
 date: 2015-09-17 00:00:00 Z
 layout: item
 address: Rollwagstraße 16
 steine:
-- - HIER WOHNTE 
+- - HIER WOHNTE
   - SOFIE REIS
   - ''
-  - GEB. KAHN 
+  - GEB. KAHN
   - JG. 1876
   - DEPORTIERT 1942
   - THERESIENSTADT
@@ -34,7 +35,7 @@ steine:
   - ''
   - ''
   - ''
-- - HIER WOHNTE 
+- - HIER WOHNTE
   - MAX REIS
   - ''
   - ''
