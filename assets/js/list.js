@@ -9,8 +9,20 @@ L.control.fullscreen({
     position: 'topleft'
 }).addTo(map);
 
+coordinates.forEach(function (a) {
+    markers.push(L.marker([a.x, a.y]).addTo(map).on("click", function () {
+        document.location = a.url
+    }).on("mouseover", function(e){
+          this.bindPopup(a.title, {closeButton: false}).openPopup();
+    }).on('mouseout', function (e) {
+          this.closePopup();
+    }));
+});
+
+$("form").bind("keypress", function (a) { return 13 == a.keyCode ? !1 : void 0 });
+
 var options = {
-    valueNames: ['card-content'],
+    valueNames: ['names', 'address'],
     fuzzySearch: {
         searchClass: "fuzzy-search",
         location: 0,
@@ -30,13 +42,3 @@ function showList() {
     $('#map').hide();
     $('#list-id').show();
 };
-coordinates.forEach(function (a) {
-    markers.push(L.marker([a.x, a.y]).addTo(map).on("click", function () {
-        document.location = a.url
-    }).on("mouseover", function(e){
-          this.bindPopup(a.title, {closeButton: false}).openPopup();
-    }).on('mouseout', function (e) {
-          this.closePopup();
-    }));
-});
-$("form").bind("keypress", function (a) { return 13 == a.keyCode ? !1 : void 0 });

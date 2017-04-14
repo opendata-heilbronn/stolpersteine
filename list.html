@@ -43,7 +43,7 @@ var coordinates = [
     {% for item in site.list %}
     <li class="card">
         <div class="card-content">
-        <h2><i class="icon ion-android-list"></i> {{ item.title }}<br><small>{{ item.address }}</small></h2>
+        <h2><i class="icon ion-android-list"></i> <span class="names">{{ item.title }}</span><br><small class="address">{{ item.address }}</small></h2>
         </div>
         <div class="card-action">
         <a class="button" href="{{ site.baseurl }}{{ item.url }}">MEHR <i class="icon ion-plus"></i></a>
