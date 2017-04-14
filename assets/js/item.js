@@ -7,4 +7,4 @@ L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 L.control.fullscreen({
     position: 'topleft'
 }).addTo(map);
-var marker = L.marker([place.x, place.y]).addTo(map).bindPopup(place.title, {closeButton: false, closePopupOnClick: false}).openPopup();
+var marker = L.marker([place.x, place.y]).addTo(map).bindPopup(place.title + "<br>" + place.address, {closeButton: false, closePopupOnClick: false}).openPopup();

@@ -21,7 +21,7 @@ Verlegte Stolpersteine:
 <ul>
 {% for page in sorted %}
 {% if page.date == last %}
-    <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+    <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}<br>&emsp;&emsp;{{ page.address }}</a></li>
 {% else %}
 </ul>
 {% assign last = page.date %}
