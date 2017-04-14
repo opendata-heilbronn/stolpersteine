@@ -37,14 +37,14 @@ steine:
 - - HIER WOHNTE
   - HELENE KÜNSTLER
   - ''
-  - GEB. MAIER 
+  - GEB. MAIER
   - JG. 1908
   - DEPORTIERT 1942
   - THERESIENSTADT
   - 1943 AUSCHWITZ
   - ERMORDET
 - - HIER WOHNTE
-  - MARGOT MAIER 
+  - MARGOT MAIER
   - ''
   - ''
   - JG. 1935

@@ -14,7 +14,8 @@ steine:
   - ZWANGSARBEIT
   - OSSOWA
   - ERMORDET 15.9.1942
-images: ["/uploads/47-suelmerstrasse-59-12-1926-sm.jpg"]
+images:
+- "/uploads/47-suelmerstrasse-59-12-1926-sm.jpg"
 x: 49.1485272
 y: 9.220687099999964
 ---

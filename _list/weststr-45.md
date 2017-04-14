@@ -35,7 +35,8 @@ steine:
   - ERMORDET 24.9.1942
   - ''
 audio: http://stolpersteine-heilbronn.de/audio/weststrasse-45.mp3
-images: ["/uploads/reuter-hochzeitsfoto.jpg"]
+images:
+- "/uploads/reuter-hochzeitsfoto.jpg"
 x: 49.1412389
 y: 9.207954200000017
 ---

@@ -11,7 +11,7 @@ steine:
   - JG. 1881
   - GEDEMÜTIGT / ENTRECHTET
   - FLUCHT IN DEN TOD
-  - "5.4.1942"
+  - 5.4.1942
   - ''
   - ''
 audio: http://stolpersteine-heilbronn.de/audio/boeckingen-klingenberger-strasse-74.mp3

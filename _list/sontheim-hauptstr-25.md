@@ -20,11 +20,10 @@ steine:
   - ''
   - JG. 1873
   - DEPORTIERT 1942
-  - THERESIENSTADT 
+  - THERESIENSTADT
   - ERMORDET IN
   - TREBLINKA
   - ''
-
 audio: http://stolpersteine-heilbronn.de/audio/sontheim-hauptstrasse-25.mp3
 x: 49.1182579
 y: 9.189847800000052

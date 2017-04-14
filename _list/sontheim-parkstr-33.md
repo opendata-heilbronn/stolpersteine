@@ -25,7 +25,8 @@ steine:
   - ''
   - ''
 audio: http://stolpersteine-heilbronn.de/audio/sontheim-parkstrasse-33.mp3
-images: ["/uploads/israel-sontheim-parkstrasse-33.jpg"]
+images:
+- "/uploads/israel-sontheim-parkstrasse-33.jpg"
 x: 49.1167966
 y: 9.189911299999949
 ---

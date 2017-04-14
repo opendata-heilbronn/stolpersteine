@@ -22,7 +22,7 @@ steine:
   - DEPORTIERT 1942
   - THERESIENSTADT
   - AUSCHWITZ
-  - ERMORDET 6.10.1944 
+  - ERMORDET 6.10.1944
   - ''
 audio: http://stolpersteine-heilbronn.de/audio/wollhausstrasse-40.mp3
 x: 49.13887159999999

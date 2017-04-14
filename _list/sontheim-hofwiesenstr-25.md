@@ -9,7 +9,7 @@ steine:
   - KIRCHHEIMER
   - ''
   - JG. 1890
-  - „SCHUTZHAFT“ 1938
+  - "„SCHUTZHAFT“ 1938"
   - DACHAU
   - DEPORTIERT 1941
   - ERMORDET IN
