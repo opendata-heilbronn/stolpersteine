@@ -45,5 +45,4 @@ url: https://opendata-heilbronn.github.io
 markdown: kramdown
 permalink: pretty
 exclude:
-- _data/test.json
-- _data/data.json
+- scripts/
