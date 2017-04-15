@@ -1,0 +1,26 @@
+---
+---
+{
+  "type": "FeatureCollection",
+  "features": [
+{% for item in site.list %}
+{
+    "type": "Feature",
+    "geometry":{
+        "type": "Point",
+        "coordinates": [{{ item.x }}, {{ item.y }}]
+    },
+    "properties": {
+        "name": "{{ item.title }}",
+        "address": "{{ item.address }}",
+        "names": [
+            {% for s in item.steine %}
+            "{{ s[1] }}{% assign l = s[2].size %}{% if l > 0 %} {{ s[2] }}{% endif %}"
+            {% if forloop.last %}{% else %},{% endif %}
+            {% endfor %}
+        ]
+    }
+} {% if forloop.last %}{% else %},{% endif %}
+{% endfor %}
+  ]
+}
