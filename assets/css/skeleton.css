@@ -383,9 +383,7 @@ clear:both
 }
 
 .navbar,.navbar-spacer {
-display:block;
 width:100%;
-height:6.5rem;
 background:#fff;
 z-index:9999;
 border-bottom:1px solid #bec2cb;
@@ -422,8 +420,20 @@ color:#222
 margin-right:0
 }
 
-.navbar-link.active {
+.navbar-link.active, .navbar-title a.active{
 color:#33C3F0
+}
+
+.navbar-title{
+padding-top:calc(5.6rem / 2 - 1.07rem);
+}
+.navbar-title a{
+text-transform:uppercase;
+font-size:15px;
+font-weight:600;
+letter-spacing:.2rem;
+text-decoration:none;
+color:#222
 }
 
 footer {
@@ -540,7 +550,7 @@ display:none
 margin-right:.4rem
 }
 
-.navbar-link:nth-child(1),.footer-link {
+.navbar-link:nth-child(1),.footer-link, .navbar-title a {
 margin-left:.58rem
 }
 
