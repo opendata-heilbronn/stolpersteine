@@ -1,5 +1,5 @@
 var markers = [];
-var map = L.map('map', { closePopupOnClick: false }).setView([49.1426929, 9.210878999999977], 13);
+var map = L.map('map', { closePopupOnClick: false }).setView(map_coord, 13);
 L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="http://www.openstreetmap.org/">OSM</a>',
     minZoom: 10

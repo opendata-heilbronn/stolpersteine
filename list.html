@@ -29,6 +29,7 @@ var coordinates = [
     {% unless forloop.last %},{% endunless %}
     {% endfor %}
 ];
+var map_coord = [{{ site.lat }}, {{ site.long }}];
 </script>
 <a class="button button-primary map-btn" onclick="showMap();"><i class="icon ion-android-map"></i> KARTE</a>
 <a class="button button-primary list-btn" onclick="showList();"><i class="icon ion-android-list"></i> LISTE</a>

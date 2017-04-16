@@ -46,3 +46,10 @@ markdown: kramdown
 permalink: pretty
 exclude:
 - scripts/
+
+# lat. and long. coordinates for the map in list.html
+lat: 49.1426929
+long: 9.210878999999977
+
+# blog posts shown in index.hmtl
+blog: false

@@ -41,13 +41,15 @@ layout: default
         {{ site.description }}
     </p>
 </div>
-<!--<div class="twelve columns">
+{% if site.blog == true %}
+<div class="twelve columns">
     <h2>Neuigkeiten</h2>
      <ul>
     {% for post in site.posts %}
         <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
     </ul>
-</div>-->
+</div>
+{% endif %}
 </div>
 </div>
