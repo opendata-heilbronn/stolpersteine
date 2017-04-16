@@ -1,13 +1,12 @@
 <footer>
     <div class="container">
         <ul class="footer-list">
+            {% for i in site.data.footer %}
             <li class="footer-item">
-                <a href="https://github.com/opendata-heilbronn" class="footer-link">Made by OK Lab Heilbronn</a>
+                {% assign first = i.link | truncate: 1,"" %}
+                <a href="{% if first == "/" %}{{ site.baseurl }}{{ i.link }}{% else %}{{ i.link }}{% endif %}" class="footer-link">{{ i.title }}</a>
             </li>
-            <li class="footer-item"><a href="{{ site.baseurl }}/impressum.html" class="footer-link">Impressum</a></li>
-            <li class="footer-item"><a href="http://creativecommons.org/licenses/by-sa/4.0/" class="footer-link">Lizenz 
-    <img src="https://licensebuttons.net/l/by-sa/4.0/80x15.png" alt="License: CC BY-SA 4.0" />
-    </a></li>
+            {% endfor %}
     <li class="footer-item hide-on-small">
                 <a class="footer-link" href="https://twitter.com/intent/tweet?text={{ site.title | cgi_escape }}{% if page.title %}{{ page.title | prepend: ': ' | cgi_escape }}{% endif %}&url={{ page.url | prepend: site.baseurl | prepend: site.url | cgi_escape }}" target="_blank"><i class="icon ion-social-twitter"></i> TWEET</a>
             </li>

@@ -5,10 +5,12 @@
   </div>
   <div class="container">
     <ul class="navbar-list">
-      <li class="navbar-item"><a class="navbar-link" href="{{ site.baseurl }}/index.html">Home</a></li>
-      <li class="navbar-item"><a class="navbar-link" href="{{ site.baseurl }}/aktionen.html">Aktionen</a></li>
-      <li class="navbar-item"><a class="navbar-link" href="{{ site.baseurl }}/list.html">Liste<span class="hide-on-small"> & Karte</span></a></li>
-      <li class="navbar-item"><a class="navbar-link" href="{{ site.baseurl }}/info.html">Infos</a></li>
+      {% for i in site.data.header %}
+        <li class="navbar-item">
+          {% assign first = i.link | truncate: 1,"" %}
+          <a href="{% if first == "/" %}{{ site.baseurl }}{{ i.link }}{% else %}{{ i.link }}{% endif %}" class="navbar-link">{{ i.title }}</a>
+        </li>
+      {% endfor %}
     </ul>
   </div>
 </nav>

@@ -1,0 +1,8 @@
+- title: HOME
+  link: /index.html
+- title: AKTIONEN
+  link: /aktionen.html
+- title: 'Liste<span class="hide-on-small"> &amp; Karte</span>'
+  link: /list.html
+- title: INFOS
+  link: /info.html

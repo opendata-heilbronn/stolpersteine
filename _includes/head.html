@@ -4,10 +4,49 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
 
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-    <meta name="viewport" content="width=device-width">
-    <meta name="description" content="{{ site.description }}">
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-    <link rel="stylesheet" href="{{ "/assets/css/skeleton.css" | prepend: site.baseurl }}">
-    <link rel="stylesheet" href="{{ "/assets/css/ionicons.min.css" | prepend: site.baseurl }}">
-    <script src="{{ site.baseurl }}/assets/js/jquery-2.1.1.min.js"></script>
+    
+    <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" />
+
+    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.title }}: {{ site.description }}{% endif %}">
+    <meta name="robots" content="index,follow">
+    {% if page.}
+    {% if page.author %}
+        <meta name="author" content="{{ page.author }}">
+    {% endif %}
+    <meta itemprop="name" content="{{ site.title }}">
+    <meta name="theme-color" content="#FFFFFF">
+
+    <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %} - Wob Mototrade" />
+    <meta property="og:description" content="{{ site.title }}: {{ site.description }}" />
+    <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/images/logo_s.png" />
+    <meta property="og:image:type" content="image/png" />
+
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="{% if site.twitter_username %}@{{ site.twitter_username }}{% else %} "lukashimsel" {% endif %}" />
+    <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %} - Wob Mototrade" />
+    <meta name="twitter:description" content="{{ site.title }}: {{ site.description }}" />
+    <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}/images/logo_s.png" />
+    
+    <link href="{{ "/feed.xml" | prepend: site.baseurl }}" type="application/rss+xml" rel="alternate" title="RSS feed">
+
+<script type="application/ld+json">
+{"@context": "http://schema.org",
+"@type": "WebSite",
+"name": "{{ site.title }}",
+"headline": "{{ site.description }}",
+"image": "{{ site.url }}{{ site.baseurl }}/images/logo.png",
+"description": "",
+"publisher": {"@type": "Organization",
+"logo": {"@type": "ImageObject",
+"url": "{{ site.url }}{{ site.baseurl }}/images/logo.png"}},
+"url": "{{ site.url }}"}
+</script>
+
+<link rel="shortcut icon" href="{{ "/images/icon.png" | prepend: site.baseurl }}">
+<link rel="stylesheet" href="{{ "/assets/css/skeleton.css" | prepend: site.baseurl }}">
+<link rel="stylesheet" href="{{ "/assets/css/ionicons.min.css" | prepend: site.baseurl }}">
+<script src="{{ site.baseurl }}/assets/js/jquery-2.1.1.min.js"></script>
+
 </head>
