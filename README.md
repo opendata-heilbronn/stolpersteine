@@ -1,2 +1,3 @@
 # stolpersteine
-mit Javascript, im Hauptbranch mit Jekyll
+- kleiner PROTOTYP
+- mit Javascript, im Hauptbranch (`master` und `heilbronn`) mit Jekyll
