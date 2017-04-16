@@ -1,3 +1,3 @@
 # stolpersteine
 - kleiner PROTOTYP
-- mit Javascript, im Hauptbranch (`master` und `heilbronn`) mit Jekyll
+- mit Javascript, im Hauptbranch (`master` und `gh-pages`) mit Jekyll
