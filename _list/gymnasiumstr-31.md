@@ -27,8 +27,8 @@ steine:
 audio: http://stolpersteine-heilbronn.de/audio/gymnasiumstrasse-31.mp3
 images:
 - "/uploads/pincus-max.jpg"
-x: 49.13974109999999
-y: 9.222949200000016
+x: 49.139778371058306
+y: 9.222848787903786
 ---
 
 Max Pincus wurde 1869 in Posen (Polen) geboren, seine Frau Rosa, geborene Eichenberg, 1868 in Gießen. Zusammen zogen sie nach St. Johann an der Saar (heute Saarbrücken), wo 1895 ihr erstes Kind Ludwig zur Welt kam. Es folgten 1897 die Tochter Margarethe (verheiratete Rothschild) und 1901 ihr zweiter Sohn Walter.
