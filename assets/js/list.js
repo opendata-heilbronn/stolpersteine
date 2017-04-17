@@ -1,4 +1,3 @@
-var markers = [];
 var map = L.map('map', { closePopupOnClick: false }).setView(map_coord, 13);
 L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="http://www.openstreetmap.org/">OSM</a>',
@@ -9,8 +8,13 @@ L.control.fullscreen({
     position: 'topleft'
 }).addTo(map);
 
+var markers = L.markerClusterGroup({
+    spiderfyOnMaxZoom: true,
+	showCoverageOnHover: false,
+	zoomToBoundsOnClick: true
+});
 coordinates.forEach(function (a) {
-    markers.push(L.marker([a.x, a.y]).addTo(map).on("click", function () {
+    markers.addLayer(L.marker([a.x, a.y]).on("click", function () {
         document.location = a.url
     }).on("mouseover", function(e){
           this.bindPopup(a.title, {closeButton: false}).openPopup();
@@ -18,6 +22,8 @@ coordinates.forEach(function (a) {
           this.closePopup();
     }));
 });
+map.addLayer(markers);
+
 
 $("form").bind("keypress", function (a) { return 13 == a.keyCode ? !1 : void 0 });
 
