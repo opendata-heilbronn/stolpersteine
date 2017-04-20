@@ -36,10 +36,12 @@ layout: default
 </div>
 <div class="row">
 <div class="twelve columns">
-    <h2>Über das Projekt</h2>
-    <p>
-        {{ site.description }}
-    </p>
+{% for page in site.pages %}
+{% if page.title == 'Infos' %}
+{% assign excerpt = page.content | split: '---' %}
+{{ excerpt[0] | replace: 'Awesome', 'Mega' | replace: 'Awesome', 'Mega'}}
+{% endif %}
+{% endfor %}
 </div>
 {% if site.blog == true %}
 <div class="twelve columns">

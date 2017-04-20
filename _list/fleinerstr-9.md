@@ -17,8 +17,8 @@ steine:
 images:
 - "/uploads/elsner-adolf.jpg"
 - "/uploads/elsner-adolf-1933-04-01.jpg"
-x: 49.1403635
-y: 9.218732799999998
+x: 49.13988390000001
+y: 9.218782099999999
 ---
 
 Aron Eliaschow wurde am 12. August 1876 als Sohn des Holzhändlers und Geschäftsmanns Salomon Eliaschow und seiner Frau Rebekka, geborene Frohmann, in Königsberg in Preußen geboren; er kam in den Jahren vor dem Ersten Weltkrieg nach Heilbronn, wo er als Textilkaufmann im Kaufhaus Landauer arbeitete und schließlich württembergischer Staatsbürger wurde. Eliaschow nannte sich seit etwa 1914 Adolf Elsner, ohne die Namensänderung jemals formal anerkennen zu lassen.
