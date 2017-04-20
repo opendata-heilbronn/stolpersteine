@@ -4,10 +4,10 @@ permalink: aktionen.html
 layout: page
 ---
 
-{% assign sorted = site.list %}
+{% assign sorted = site.list | reverse %}
 {% assign last = sorted.first.date %}
 
-<h2>Aktion vom {{ last | date: "%-d. %B %Y" }}</h2>
+<h2>Aktion vom {{ last | date: "%-d. %-m. %Y" }}</h2>
 <p>
 {% for action in site.actions %}
 {% assign a = action.date | date: "%B%Y" %}
@@ -25,7 +25,7 @@ Verlegte Stolpersteine:
 {% else %}
 </ul>
 {% assign last = page.date %}
-<h2>Aktion vom {{ last | date: "%-d. %B %Y" }}</h2>
+<h2>Aktion vom {{ last | date: "%-d. %-m. %Y" }}</h2>
 <p>
 {% for action in site.actions %}
 {% assign a = action.date | date: "%B%Y" %}
