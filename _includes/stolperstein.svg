@@ -1,4 +1,4 @@
-<svg version="1.2" width="744.09448" height="744.09448" id="svg8733">
+<svg version="1.2" width="100%" id="svg8733" viewBox="0 0 744 744" style="max-width: 300px">
   <defs id="defs8735">
     <filter x="-0.084067799" y="-1.2610168" width="1.1681356" height="3.5220337" color-interpolation-filters="sRGB" id="filter5444-9-59-8-2-2">
       <feGaussianBlur id="feGaussianBlur5446-4-3-1-6-5" stdDeviation="22.518159" />
@@ -47,7 +47,7 @@
     <rect width="642.85712" height="42.857143" rx="15.439546" ry="15.021718" x="62.857136" y="132.3622" transform="matrix(1.0051567,0,0,0.51816012,-11.98163,633.88832)"
       id="rect5438-5-5-2-4-2" style="opacity:0.30603446;fill:#502d16;fill-opacity:0.95265958;filter:url(#filter5444-9-59-8-2-2)"
     />
-    
+
     <text xml:space="preserve" style="alignment-baseline:middle;font-family:'Roboto Mono',monospace;text-anchor:middle;font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;"
       x="352.04724" y="145.83678" id="text3652">
       {{ page[0] }}
