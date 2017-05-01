@@ -580,7 +580,7 @@ width:50%
 }
 
 svg {
-zoom:38%;
+max-width: 270px !important;
 text-transform:uppercase;
 font-family:'Roboto Mono',monospace
 }
