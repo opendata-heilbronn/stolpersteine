@@ -35,6 +35,9 @@
     <linearGradient x1="694.28571" y1="755.2193" x2="134.28572" y2="-273.35211" id="linearGradient8731" xlink:href="#linearGradient3761-7"
       gradientUnits="userSpaceOnUse" gradientTransform="translate(2.8570704,-56.563085)" />
   </defs>
+  <g id="bgd">
+    <image x="30" y="40" width="93%" height="93%" xlink:href="{{ site.baseurl }}/images/logo_big.png">
+  </g>
   <g id="layer1">
     <rect width="674.28571" height="674.28571" rx="40" ry="40" x="37.142761" y="61.513374" id="rect2991-5" style="fill:url(#linearGradient8731);"
     />
@@ -88,6 +91,5 @@
       x="352.04724" y="657.86738" id="text3616">
       {{ page[9] }}
     </text>
-
   </g>
 </svg>
