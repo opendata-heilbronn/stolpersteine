@@ -5,6 +5,10 @@ Website für Stolperstein-Projekte.
 Gemacht von OK Lab Heilbronn, für andere OK Labs und Organisationen auch nutzbar.  
 [Anleitung zum erstellen eines eigenen Exemplars der Website.](https://opendata-heilbronn.github.io/stolpersteine-docs/docs/index.html)
 
+## Waffle Board - Projektmanagement
+[![Stories in Ready](https://badge.waffle.io/opendata-heilbronn/stolpersteine.png?label=ready&title=Ready)](http://waffle.io/opendata-heilbronn/stolpersteine)  
+[WAFFLE.IO](https://waffle.io/opendata-heilbronn/stolpersteine)
+
 ## Features
 - Visualisierung der verlegten Stolpersteine auf einer Karte
 - [uvm.](https://opendata-heilbronn.github.io/stolpersteine-docs/docs/2-features.html)
