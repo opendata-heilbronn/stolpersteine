@@ -44,7 +44,8 @@ var map_coord = [{{ site.lat }}, {{ site.long }}];
         </div>
       </form>
 <ul class="list">
-    {% for item in site.list %}
+    {% assign list = site.list | sort: 'address' %}
+    {% for item in list %}
     <li class="card">
         <div class="card-content">
         <h2><i class="icon ion-android-list"></i> <span class="names">{{ item.title }}</span><br><small class="address">{{ item.address }}</small></h2>
