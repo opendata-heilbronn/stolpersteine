@@ -3,7 +3,7 @@ title: Vorname Nachname, Vorname, Nachname
 date: 2010-04-27 00:00:00 Z
 layout: item
 address: Straßenname Hausnummer
-steine: # befüllt mit Beispieldaten
+steine:
 - - HIER WOHNTE
   - MORITZ HENLE
   - ''
@@ -44,8 +44,11 @@ steine: # befüllt mit Beispieldaten
   - MALY TROSTINEC
   - ''
   - ''
-audio: /audio/example.mp3
-images: ["http://lorempixel.com/output/nature-q-g-500-500-2.jpg", "http://lorempixel.com/output/nature-q-g-500-500-2.jpg", "http://lorempixel.com/output/nature-q-g-500-500-2.jpg"]
+audio: "/audio/example.mp3"
+images:
+- http://lorempixel.com/output/nature-q-g-500-500-2.jpg
+- http://lorempixel.com/output/nature-q-g-500-500-2.jpg
+- http://lorempixel.com/output/nature-q-g-500-500-2.jpg
 x: 49.13623829999999
 y: 9.220121199999994
 ---

@@ -40,17 +40,13 @@ defaults:
       - ''
       - ''
 email: lukas@himsel.me
-description: 'Noch keine Daten'
+description: Noch keine Daten
 baseurl: "/stolpersteine-kt"
 url: http://himsel.me
 markdown: kramdown
 permalink: pretty
 exclude:
 - scripts/
-
-# lat. and long. coordinates for the map in list.html
 lat: 49.7340805
 long: 10.147377699999993
-
-# blog posts shown in index.html
 blog: false
