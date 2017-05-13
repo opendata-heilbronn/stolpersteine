@@ -27,12 +27,12 @@ layout: page
 
 {% if this.audio %}
 <div>
-<audio id="player" controls>
+<audio id="player" class="no-print" controls>
   <source src="{{ this.audio }}" type="audio/mpeg">
   Ihr Browser unterstützt kein HTML5 Audio
 </audio><br>
-<button class="audio-ctrl play" tabindex="1">Artikel vorlesen</button>  
-<button class="audio-ctrl pause" tabindex="2">Pause</button>
+<button class="audio-ctrl play no-print" tabindex="1">Artikel vorlesen</button>  
+<button class="audio-ctrl pause no-print" tabindex="2">Pause</button>
 </div>
 {% endif %}
 
@@ -49,7 +49,7 @@ layout: page
 </div>
 {% endif %}
 
-<h2>Standort des Denkmals</h2>
+<h2 class="no-print">Standort des Denkmals</h2>
 <script>
 var place = {
   "x": {{ this.x }},
