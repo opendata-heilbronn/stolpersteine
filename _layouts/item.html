@@ -27,15 +27,18 @@ layout: page
 
 {% if this.audio %}
 <div>
-<span>Artikel vorlesen lassen</span><br>
-<audio controls>
+<audio id="player" controls>
   <source src="{{ this.audio }}" type="audio/mpeg">
   Ihr Browser unterstützt kein HTML5 Audio
-</audio>
+</audio><br>
+<button class="audio-ctrl play" tabindex="1">Artikel vorlesen</button>  
+<button class="audio-ctrl pause" tabindex="2">Pause</button>
 </div>
 {% endif %}
 
+<article role="article">
 {{ this.content }}
+</article>
 
 {% if this.images %}
 <h2>Bilder</h2>
