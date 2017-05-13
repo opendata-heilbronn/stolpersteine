@@ -44,8 +44,8 @@ steine: # befüllt mit Beispieldaten
   - MALY TROSTINEC
   - ''
   - ''
-audio: /audio/example.mp3
-images: ["http://lorempixel.com/output/nature-q-g-500-500-2.jpg", "http://lorempixel.com/output/nature-q-g-500-500-2.jpg", "http://lorempixel.com/output/nature-q-g-500-500-2.jpg"]
+audio: https://upload.wikimedia.org/wikipedia/commons/e/eb/Beethoven_Moonlight_1st_movement.ogg
+images: ["/images/logo_big.png"]
 x: 49.13623829999999
 y: 9.220121199999994
 ---
