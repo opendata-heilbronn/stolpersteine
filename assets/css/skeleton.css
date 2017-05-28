@@ -181,12 +181,16 @@ margin-top:0
 }
 
 a {
-text-decoration:none;
+text-decoration: none;
 color:#1EAEDB
 }
 
 a:hover {
 color:#0FA0CE
+}
+
+a:visited {
+text-decoration: underline
 }
 
 .button,button,input[type="submit"],input[type="reset"],input[type="button"] {
