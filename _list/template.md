@@ -3,7 +3,7 @@ title: Vorname Nachname, Vorname, Nachname
 date: 2010-04-27 00:00:00 Z
 layout: item
 address: Straßenname Hausnummer
-steine: # befüllt mit Beispieldaten
+steine:
 - - HIER WOHNTE
   - MORITZ HENLE
   - ''
