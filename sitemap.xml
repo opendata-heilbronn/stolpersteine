@@ -1,0 +1,28 @@
+---
+title: Fehler 404
+---
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {% for post in site.posts %}
+  <url>
+    <loc>{{ site.url }}{{ site.baseurl }}{{ post.url }}</loc>
+    {% if post.lastmod == null %}
+    <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+    {% else %}
+    <lastmod>{{ post.lastmod | date_to_xmlschema }}</lastmod>
+    {% endif %}
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  {% endfor %}
+{% for p in site.pages %}{% if p.title != 'Fehler 404' %}{% assign u = p.url %}{% assign usize = u | size | minus: 1 %}
+{% assign u =  u | slice: usize %}{% if u != '/' and u != 'l' %}{% assign x = p.url | append: '.html' %}{% else %}{% assign x = p.url %}{% endif %}
+  <url>
+    <loc>{{ site.url }}{{ site.baseurl }}{{ x }}</loc>
+    <lastmod>{% if page.lastmod %}{{ page.lastmod | date_to_xmlschema }}{% endif %}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+{% endif %}{% endfor %}
+</urlset>
