@@ -1,49 +1,48 @@
 ---
 title: Meta, Max und Hermann Stern | Nanny und Siegfried Steigerwald
 date: 2016-06-29 00:00:00 Z
-layout: item
 address: Moltkestraße 23
 steine:
 - - HIER WOHNTE
   - MAX STERN
-  - ''
-  - ''
+  - 
+  - 
   - JG. 1867
   - DEPORTIERT 1942
   - THERESIENSTADT
   - ERMORDET 5.9.1942
-  - ''
-  - ''
+  - 
+  - 
 - - HIER WOHNTE
   - META STERN
-  - ''
+  - 
   - GEB. GUNZENHAUSEN
   - JG. 1878
   - DEPORTIERT 1942
   - THERESIENSTADT
   - ERMORDET 8.9.1942
-  - ''
-  - ''
+  - 
+  - 
 - - HIER WOHNTE
-  - HERRMANN
+  - HERMANN
   - STERN
-  - ''
+  - 
   - JG. 1910
   - DEPORTIERT 1943
   - ERMORDET IN
   - AUSCHWITZ
-  - ''
-  - ''
+  - 
+  - 
 - - HIER WOHNTE
   - SIEGFRIED
   - STEIGERWALD
-  - ''
+  - 
   - JG. 1881
   - DEPORTIERT 1941
   - LODZ / LITZMANNSTADT
   - ERMORDET 27.2.1942
-  - ''
-  - ''
+  - 
+  - 
 - - HIER WOHNTE
   - NANNY
   - STEIGERWALD
@@ -52,10 +51,11 @@ steine:
   - DEPORTIERT 1941
   - LODZ / LITZMANNSTADT
   - ERMORDET 5.4.1942
-  - ''
-  - ''
+  - 
+  - 
 x: 49.1415426
 y: 9.226045900000031
+layout: item
 ---
 
 Max Stern wurde am 29. April 1867 in Heilbronn geboren. Seine Eltern waren Samuel Simon und Wilhelmine Stern geb. Kirchheimer. Er war der dritte von vier Söhnen: Der erstgeborene Louis Stern starb schon ein halbes Jahr nach seiner Geburt 1862; Moritz Stern, geboren 1864, starb 1933 in Heilbronn; der dritte Bruder Richard, geboren 1871, war „durch allgemeine Körperschwäche“ behindert – er starb am 5. September 1942 in Theresienstadt.
