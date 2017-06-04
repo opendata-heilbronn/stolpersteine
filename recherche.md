@@ -1,21 +1,10 @@
 ---
-title: Infos
-permalink: "/info.html"
+title: Recherche
+permalink: "/recherche.html"
 layout: page
 ---
 
-<h2>Über das Heilbronner Stolperstein-Projekt</h2>
-<p>
-Mehr als 400 Namen umfasst die Liste der Opfer des NS-Terrors in Heilbronn. Das Stolperstein-Projekt verfolgt das Ziel, diesen Menschen ihren Namen wieder zurückzugeben, ihn im Stadtraum sichtbar zu machen, vor den Häusern, in denen sie ihre letzte frei gewählte Wohnung hatten.
-</p><p>
-Die Opfer stammten aus allen Gesellschaftsschichten; sie waren in der Mehrzahl jüdischen Glaubens, aber der Terror des Naziregimes machte auch vor behinderten Menschen, politischen Gegnern und anderen Bevölkerungsgruppen wie Sinti und Roma nicht halt.
-</p><p>
-Das Stolperstein-Projekt wird in Heilbronn von einem Runden Tisch begleitet, der die Aktion koordiniert und der gemeinsam mit dem Stadtarchiv Heilbronn die Forschungen zu den Wegen und Schicksalen der ermordeten Menschen begleitet.
-</p>
-
----
-
-## Links und Materialien für die Recherche
+## Links und Materialien
 
 [Checkliste für die Stolperstein-Recherche]({{ site.baseurl }}/uploads/checkliste-stolperstein-recherchen.pdf)
 
