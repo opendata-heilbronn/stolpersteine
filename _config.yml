@@ -39,6 +39,11 @@ defaults:
       - ERMORDET IN
       - ORT
       - ''
+    x:
+    y:
+    audio:
+    images: []
+
 email: lukas@himsel.me
 description: ''
 baseurl: "/stolpersteine"
