@@ -28,7 +28,7 @@ defaults:
   values:
     layout: item
     title: 
-    paten: "Name Nachname"
+    paten: Name Nachname
     steine:
     - - HIER WOHNTE
       - VORNAME NACHNAME
