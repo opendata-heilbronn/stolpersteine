@@ -44,7 +44,7 @@ layout: page
 <h2>Bilder</h2>
 <div class="center-align">
 {% for image in this.images %}
-<img src="{{ site.baseurl }}{{ image }}"><br>
+<img src="{{ site.baseurl }}{{ image }}" alt="Bilder: {{ page.title }}"><br>
 {% endfor %}
 </div>
 {% endif %}

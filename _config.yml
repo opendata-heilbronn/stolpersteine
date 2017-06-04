@@ -1,5 +1,5 @@
 ---
-title: SEITENTITEL
+title: Stolpersteine Kitzingen
 timezone: UTC
 collections:
   actions:
@@ -40,6 +40,7 @@ defaults:
       - ORT
       - ''
       - ''
+
 email: info@example.com
 description: 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.'
 baseurl: "/pfad"
@@ -48,10 +49,9 @@ markdown: kramdown
 permalink: pretty
 exclude:
 - scripts/
-
 # lat. and long. coordinates for the map in list.html
 lat: 49.1426929
 long: 9.210878999999977
 
 # blog posts shown in index.html
-blog: true
+blog: true 
