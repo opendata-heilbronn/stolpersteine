@@ -24,7 +24,7 @@ defaults:
     layout: action
 - scope:
     path: ''
-    type: item
+    type: list
   values:
     layout: item
     title: 
