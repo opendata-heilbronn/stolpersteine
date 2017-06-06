@@ -14,7 +14,7 @@ steine:
   - VERURTEILT 1938
   - 1939 SACHSENHAUSEN
   - TOT 23.5.1940
-audio: /audio/boeckingen-teichstrasse-8.mp3
+audio: "/audio/boeckingen-teichstrasse-8.mp3"
 x: 49.13815
 y: 9.193099999999959
 ---

@@ -14,7 +14,7 @@ steine:
   - VERHAFTET 1943
   - HINGERICHTET 26.1.1944
   - BEI PARIS
-audio: /audio/herbststrasse-30.mp3
+audio: "/audio/herbststrasse-30.mp3"
 images:
 - "/uploads/feidengruber-gottlob.jpg"
 x: 49.1381995

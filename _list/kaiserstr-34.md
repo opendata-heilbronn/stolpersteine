@@ -14,7 +14,7 @@ steine:
   - AUSCHWITZ
   - ''
   - ''
-audio: /audio/kaiserstrasse-34.mp3
+audio: "/audio/kaiserstrasse-34.mp3"
 x: 49.1418274
 y: 9.218842600000016
 ---

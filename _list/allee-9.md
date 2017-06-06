@@ -14,7 +14,7 @@ steine:
   - GRAFENECK
   - ERMORDET 8.5.1940
   - ''
-audio: /audio/allee-9.mp3
+audio: "/audio/allee-9.mp3"
 images: []
 x: 49.1411033
 y: 9.221647100000041

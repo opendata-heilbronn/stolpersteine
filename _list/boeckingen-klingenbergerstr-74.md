@@ -14,7 +14,7 @@ steine:
   - 5.4.1942
   - ''
   - ''
-audio: /audio/boeckingen-klingenberger-strasse-74.mp3
+audio: "/audio/boeckingen-klingenberger-strasse-74.mp3"
 x: 49.1334981
 y: 9.191456199999948
 ---

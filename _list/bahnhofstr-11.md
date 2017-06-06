@@ -14,7 +14,7 @@ steine:
   - ERMORDET 4.9.1942
   - ''
   - ''
-audio: /audio/bahnhofstrasse-11.mp3
+audio: "/audio/bahnhofstrasse-11.mp3"
 images: []
 x: 49.1425686
 y: 9.212060899999983

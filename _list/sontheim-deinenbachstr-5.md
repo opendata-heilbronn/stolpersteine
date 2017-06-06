@@ -43,7 +43,7 @@ steine:
   - ERMORDET IN
   - RIGA
   - ''
-audio: /audio/sontheim-deinenbachstrasse-5.mp3
+audio: "/audio/sontheim-deinenbachstrasse-5.mp3"
 x: 49.118051
 y: 9.188736400000039
 ---

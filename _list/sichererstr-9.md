@@ -44,7 +44,7 @@ steine:
   - RIGA
   - ''
   - ''
-audio: /audio/sichererstrasse-9.mp3
+audio: "/audio/sichererstrasse-9.mp3"
 x: 49.1485272
 y: 9.220687099999964
 ---

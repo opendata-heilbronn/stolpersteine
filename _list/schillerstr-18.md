@@ -34,7 +34,7 @@ steine:
   - ÜBERLEBT
   - ''
   - ''
-audio: /audio/schillerstrasse-18.mp3
+audio: "/audio/schillerstrasse-18.mp3"
 x: 49.1439522
 y: 9.22582060000002
 ---
