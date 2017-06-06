@@ -28,7 +28,7 @@ layout: page
 {% if this.audio %}
 <div>
 <audio id="player" class="no-print" controls>
-  <source src="{{ this.audio }}" type="audio/mpeg">
+  <source src="{{ site.baseurl }}{{ this.audio }}" type="audio/mpeg">
   Ihr Browser unterstützt kein HTML5 Audio
 </audio><br>
 <button class="audio-ctrl play no-print" tabindex="1">Artikel vorlesen</button>  

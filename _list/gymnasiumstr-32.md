@@ -24,7 +24,7 @@ steine:
   - ERMORDET 1944
   - AUSCHWITZ
   - ''
-audio: http://stolpersteine-heilbronn.de/audio/gymnasiumstrasse-32.mp3
+audio: /audio/gymnasiumstrasse-32.mp3
 x: 49.13956429185605
 y: 9.223326221108437
 ---

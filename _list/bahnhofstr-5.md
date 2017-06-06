@@ -25,7 +25,7 @@ steine:
   - ERMORDET
   - ''
 images: []
-audio: http://stolpersteine-heilbronn.de/audio/bahnhofstrasse-5.mp3
+audio: /audio/bahnhofstrasse-5.mp3
 x: 49.1423982
 y: 9.214038399999936
 ---

@@ -24,7 +24,7 @@ steine:
   - 24.6.1938
   - ''
   - ''
-audio: http://stolpersteine-heilbronn.de/audio/schaefergasse-15.mp3
+audio: /audio/schaefergasse-15.mp3
 x: 49.1453076
 y: 9.219133100000022
 ---

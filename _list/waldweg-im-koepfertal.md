@@ -4,7 +4,7 @@ date: 2010-04-27 00:00:00 Z
 layout: item
 address: Waldweg am Schießstand im Köpfertal
 steine: 
-audio: http://stolpersteine-heilbronn.de/audio/waldweg-koepfertal.mp3
+audio: /audio/waldweg-koepfertal.mp3
 images:
 - "/uploads/waldweg-koepfertal-jjws.jpg"
 x: 49.12783

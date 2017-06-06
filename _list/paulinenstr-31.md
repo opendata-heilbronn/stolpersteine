@@ -34,7 +34,7 @@ steine:
   - RIGA
   - ''
   - ''
-audio: http://stolpersteine-heilbronn.de/audio/paulinenstrasse-31.mp3
+audio: /audio/paulinenstrasse-31.mp3
 x: 49.1481485
 y: 9.221269799999959
 ---

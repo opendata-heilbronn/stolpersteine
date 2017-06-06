@@ -14,7 +14,7 @@ steine:
   - BUCHENWALD
   - DACHAU
   - TOT 1945
-audio: http://stolpersteine-heilbronn.de/audio/sichererstrasse-22.mp3
+audio: /audio/sichererstrasse-22.mp3
 x: 49.1483534
 y: 9.22026059999996
 ---

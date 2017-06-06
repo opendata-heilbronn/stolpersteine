@@ -14,7 +14,7 @@ steine:
   - TODESURTEIL 17.3.1944
   - HINGERICHTET 22.6.1944
   - GEFÄNGNIS STUTTGART
-audio: http://stolpersteine-heilbronn.de/audio/pestalozzistrasse-31.mp3
+audio: /audio/pestalozzistrasse-31.mp3
 images:
 - "/uploads/froehle-willi.jpg"
 x: 49.1495347

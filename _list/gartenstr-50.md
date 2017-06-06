@@ -16,7 +16,7 @@ steine:
   - ''
 images:
 - "/uploads/gumbel-siegfried-1925.jpg"
-audio: http://stolpersteine-heilbronn.de/audio/gartenstrasse-50.mp3
+audio: /audio/gartenstrasse-50.mp3
 x: 49.14461
 y: 9.225599999999986
 ---

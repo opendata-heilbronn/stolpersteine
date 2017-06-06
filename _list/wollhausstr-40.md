@@ -24,7 +24,7 @@ steine:
   - AUSCHWITZ
   - ERMORDET 6.10.1944
   - ''
-audio: http://stolpersteine-heilbronn.de/audio/wollhausstrasse-40.mp3
+audio: /audio/wollhausstrasse-40.mp3
 x: 49.13887159999999
 y: 9.225582099999997
 ---

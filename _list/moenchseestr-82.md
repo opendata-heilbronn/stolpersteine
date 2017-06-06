@@ -34,7 +34,7 @@ steine:
   - DEPORTIERT 1941
   - ERMORDET IN
   - RIGA
-audio: http://stolpersteine-heilbronn.de/audio/moenchseestrasse-82.mp3
+audio: /audio/moenchseestrasse-82.mp3
 x: 49.1394392
 y: 9.227637500000014
 ---

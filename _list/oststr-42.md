@@ -14,7 +14,7 @@ steine:
   - RIGA
   - ''
   - ''
-audio: http://stolpersteine-heilbronn.de/audio/oststrasse-42.mp3
+audio: /audio/oststrasse-42.mp3
 x: 49.1393741
 y: 9.229847599999971
 ---

@@ -35,7 +35,7 @@ steine:
   - ERMORDET 10.9.1942
   - ''
   - ''
-audio: http://stolpersteine-heilbronn.de/audio/schillerstrasse-48.mp3
+audio: /audio/schillerstrasse-48.mp3
 images:
 - "/uploads/heilbronner-berthold-franziska.jpg"
 x: 49.1436992

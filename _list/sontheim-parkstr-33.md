@@ -24,7 +24,7 @@ steine:
   - TOT 27.11.1942
   - ''
   - ''
-audio: http://stolpersteine-heilbronn.de/audio/sontheim-parkstrasse-33.mp3
+audio: /audio/sontheim-parkstrasse-33.mp3
 images:
 - "/uploads/israel-sontheim-parkstrasse-33.jpg"
 x: 49.1167966

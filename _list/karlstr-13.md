@@ -24,7 +24,7 @@ steine:
   - RIGA
   - ''
   - ''
-audio: http://stolpersteine-heilbronn.de/audio/karlstrasse-13.mp3
+audio: /audio/karlstrasse-13.mp3
 x: 49.1422646
 y: 9.217727200000013
 ---

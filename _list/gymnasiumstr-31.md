@@ -24,7 +24,7 @@ steine:
   - "„EINGEWIESEN“"
   - HEILANSTALT ZWIEFALTEN
   - ERMORDET 26.3.1942
-audio: http://stolpersteine-heilbronn.de/audio/gymnasiumstrasse-31.mp3
+audio: /audio/gymnasiumstrasse-31.mp3
 images:
 - "/uploads/pincus-max.jpg"
 x: 49.139778371058306

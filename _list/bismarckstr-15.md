@@ -24,7 +24,7 @@ steine:
   - DEPORTIERT
   - BERGEN-BELSEN
   - ERMORDET 15 .1.1945
-audio: http://stolpersteine-heilbronn.de/audio/bismarckstrasse-15.mp3
+audio: /audio/bismarckstrasse-15.mp3
 images: []
 x: 49.1402914
 y: 9.22615970000004
