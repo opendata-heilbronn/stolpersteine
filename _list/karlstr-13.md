@@ -1,32 +1,32 @@
 ---
 title: Elsa Schloss, geborene Lemberger, und Siegfried Schloss
 date: 2011-04-15 00:00:00 Z
-layout: item
-address: Karlstraße 13 (heute Glockengießerhof)
 steine:
 - - HIER WOHNTE
   - ELSA SCHLOSS
-  - ''
+  - 
   - GEB. LEMBERGER
   - JG. 1891
   - DEPORTIERT 1941
   - ERMORDET IN
   - RIGA
-  - ''
-  - ''
+  - 
+  - 
 - - HIER WOHNTE
   - SIEGFRIED SCHLOSS
-  - ''
-  - ''
+  - 
+  - 
   - JG. 1882
   - DEPORTIERT 1941
   - ERMORDET IN
   - RIGA
-  - ''
-  - ''
+  - 
+  - 
+x: 49.14353
+y: 9.221717
 audio: "/audio/karlstrasse-13.mp3"
-x: 49.1422646
-y: 9.217727200000013
+address: Karlstraße 13 (heute Glockengießerhof)
+layout: item
 ---
 
 Siegfried Schloss kam mit seiner Familie 1921 aus Oberfranken nach Heilbronn. Nach dem Tod seiner ersten Frau heiratete er 1930 Elsa Lemberger. Schloss war bis zur Zerschlagung der Israelitischen Kultusgemeinde im November 1939 Synagogen-Verwalter, Religionslehrer und Schächter.
