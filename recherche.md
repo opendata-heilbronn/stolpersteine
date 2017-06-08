@@ -20,8 +20,6 @@ Vom Mittelalter bis zur Zeit der nationalsozialistischen Verfolgungen (1050-1945
 
 [HEUSS - Datenbank des Stadtarchivs Heilbronn](http://heuss.stadtarchiv-heilbronn.de/)
 
-Test: [_blank](http://p-wanner.de)
-  
 Stadtarchiv Heilbronn: [Opfer des Nationalsozialismus in Heilbronn]({{ site.baseurl }}/uploads/2017-01-25-datenbank-opfer-ns.pdf) (Stand: 25.01.2017)
  
 Stadtarchiv Heilbronn B011-73: [Auszug aus der Lohnsteuerkartei 1940](http://www.stolpersteine-heilbronn.de/stadtarchiv-heilbronn-b011-73.pdf)
