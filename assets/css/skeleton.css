@@ -583,6 +583,17 @@ width:50%
 }
 }
 
+@media (max-width: 383px){
+.navbar-link:nth-child(1), .footer-link, .navbar-title a {
+    margin-left: .3rem;
+}
+.navbar-link {
+margin-right:.3rem;
+font-size: 13.5px;
+letter-spacing:.1rem;
+}
+}
+
 svg {
 max-width: 270px !important;
 text-transform:uppercase;
