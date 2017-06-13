@@ -1,8 +1,8 @@
 ---
-names: Klara Holwein
-date: 2010-04-27 00:00:00 Z
-layout: item
 title: Allee 9
+date: 2010-04-27 00:00:00 Z
+names: Klara Holwein
+layout: item
 steine:
 - - HIER WOHNTE
   - KLARA HOLWEIN

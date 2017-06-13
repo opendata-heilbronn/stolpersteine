@@ -1,8 +1,8 @@
 ---
-names: Otto Igersheimer
-date: 2009-01-01 00:00:00 Z
-layout: item
 title: Kaiserstraße 34
+date: 2009-01-01 00:00:00 Z
+names: Otto Igersheimer
+layout: item
 steine:
 - - HIER WIRKTE
   - OTTO IGERSHEIMER

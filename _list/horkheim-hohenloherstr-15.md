@@ -1,8 +1,8 @@
 ---
-names: Max, Selma, Margot und Johanna Maier, Helene Künstler
-date: 2015-09-17 00:00:00 Z
-layout: item
 title: Heilbronn-Horkheim, Hohenloher Straße 15
+date: 2015-09-17 00:00:00 Z
+names: Max, Selma, Margot und Johanna Maier, Helene Künstler
+layout: item
 steine:
 - - HIER WOHNTE
   - SELMA MAIER

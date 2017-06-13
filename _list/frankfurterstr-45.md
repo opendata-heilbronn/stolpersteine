@@ -1,8 +1,8 @@
 ---
-names: Resi, Leopold, Alfred und Berta Traub
-date: 2015-09-17 00:00:00 Z
-layout: item
 title: Frankfurter Str. 45
+date: 2015-09-17 00:00:00 Z
+names: Resi, Leopold, Alfred und Berta Traub
+layout: item
 steine:
 - - HIER WOHNTE
   - BERTA TRAUB

@@ -1,8 +1,8 @@
 ---
-names: Bertha Eisenmann, geborene Kiefe, Stefanie und Fritz Bernhard Eisenmann
-date: 2012-04-17 00:00:00 Z
-layout: item
 title: Mönchseestraße 82
+date: 2012-04-17 00:00:00 Z
+names: Bertha Eisenmann, geborene Kiefe, Stefanie und Fritz Bernhard Eisenmann
+layout: item
 steine:
 - - HIER WOHNTE
   - BERTHA EISENMANN

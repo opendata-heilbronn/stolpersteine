@@ -1,9 +1,9 @@
 ---
+title: Rollwagstraße 16
+date: 2015-09-17 00:00:00 Z
 names: Sofie Reis, geborene Kahn, Margarete Reis, geborene Ettlinger, Hans David und
   Walter Emil Reis, Max Reis, Arthur und Carola Reis
-date: 2015-09-17 00:00:00 Z
 layout: item
-title: Rollwagstraße 16
 steine:
 - - HIER WOHNTE
   - SOFIE REIS

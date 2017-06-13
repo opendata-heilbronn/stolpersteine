@@ -1,8 +1,8 @@
 ---
-names: Salomon, Klara, Martha, Heinz und Herbert Vollweiler
-date: 2015-05-20 00:00:00 Z
-layout: item
 title: Mozartstr. 8
+date: 2015-05-20 00:00:00 Z
+names: Salomon, Klara, Martha, Heinz und Herbert Vollweiler
+layout: item
 steine:
 - - HIER WOHNTE
   - SALOMON

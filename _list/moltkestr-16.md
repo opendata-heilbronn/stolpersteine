@@ -1,8 +1,8 @@
 ---
-names: Melitta, Hermann und Hans Eduard Eisig
-date: 2016-06-29 00:00:00 Z
-layout: item
 title: Moltkestraße 16
+date: 2016-06-29 00:00:00 Z
+names: Melitta, Hermann und Hans Eduard Eisig
+layout: item
 steine:
 - - HIER WOHNTE
   - HERMANN EISIG

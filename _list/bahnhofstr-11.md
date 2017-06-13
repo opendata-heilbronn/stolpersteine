@@ -1,8 +1,8 @@
 ---
-names: Emma Vogel
-date: 2014-06-24 00:00:00 Z
-layout: item
 title: Bahnhofstraße 11
+date: 2014-06-24 00:00:00 Z
+names: Emma Vogel
+layout: item
 steine:
 - - HIER WOHNTE
   - EMMA VOGEL

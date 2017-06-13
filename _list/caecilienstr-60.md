@@ -1,8 +1,8 @@
 ---
-names: Adolf, Pauline und Heinz Einstein
-date: 2015-05-20 00:00:00 Z
-layout: item
 title: Cäcilienstr. 60
+date: 2015-05-20 00:00:00 Z
+names: Adolf, Pauline und Heinz Einstein
+layout: item
 steine:
 - - HIER WOHNTE
   - ADOLF EINSTEIN

@@ -1,8 +1,8 @@
 ---
-names: Max und Eugenie Luise Rosenthal
-date: 2015-05-20 00:00:00 Z
-layout: item
 title: Klarastr. 6
+date: 2015-05-20 00:00:00 Z
+names: Max und Eugenie Luise Rosenthal
+layout: item
 steine:
 - - HIER WOHNTE
   - MAX ROSENTHAL

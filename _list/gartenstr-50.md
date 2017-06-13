@@ -1,8 +1,8 @@
 ---
-names: Siegfried Gumbel
-date: 2009-01-01 00:00:00 Z
-layout: item
 title: Gartenstraße 50
+date: 2009-01-01 00:00:00 Z
+names: Siegfried Gumbel
+layout: item
 steine:
 - - HIER WOHNTE
   - DR. SIEGFRIED

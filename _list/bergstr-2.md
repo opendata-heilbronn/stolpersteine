@@ -1,8 +1,8 @@
 ---
-names: Clementine und Hermann Rosenthal
-date: 2015-09-17 00:00:00 Z
-layout: item
 title: Bergstr. 2 (heute Haus Rollwagstr. 6)
+date: 2015-09-17 00:00:00 Z
+names: Clementine und Hermann Rosenthal
+layout: item
 steine:
 - - HIER WOHNTE
   - CLEMENTINE

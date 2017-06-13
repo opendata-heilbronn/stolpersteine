@@ -1,8 +1,8 @@
 ---
-names: Gitta Strauß, geborene Hermann, Emil, Julius und Selma Strauß
-date: 2012-04-17 00:00:00 Z
-layout: item
 title: Heilbronn-Sontheim, Deinenbachstraße 5
+date: 2012-04-17 00:00:00 Z
+names: Gitta Strauß, geborene Hermann, Emil, Julius und Selma Strauß
+layout: item
 steine:
 - - HIER WOHNTE
   - GITTA STRAUSS

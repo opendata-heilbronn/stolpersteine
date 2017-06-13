@@ -1,8 +1,8 @@
 ---
-names: Julie Herz
-date: 2015-05-20 00:00:00 Z
-layout: item
 title: Sichererstr. 30
+date: 2015-05-20 00:00:00 Z
+names: Julie Herz
+layout: item
 steine:
 - - HIER WOHNTE
   - JULIE HERZ
