@@ -1,8 +1,8 @@
 ---
-title: Mina Maier, geborene Sicherer, und Ludwig Maier
+names: Mina Maier, geborene Sicherer, und Ludwig Maier
 date: 2012-04-17 00:00:00 Z
 layout: item
-address: Heilbronn-Sontheim, Hauptstraße 25
+title: Heilbronn-Sontheim, Hauptstraße 25
 steine:
 - - HIER WOHNTE
   - MINA MAIER

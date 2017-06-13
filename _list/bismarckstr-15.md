@@ -1,8 +1,8 @@
 ---
-title: Anna Wolf, geborene Eisig, und Hermann Wolf
+names: Anna Wolf, geborene Eisig, und Hermann Wolf
 date: 2012-04-17 00:00:00 Z
 layout: item
-address: Bismarckstraße 15
+title: Bismarckstraße 15
 steine:
 - - HIER WOHNTE
   - HERMANN WOLF

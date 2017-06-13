@@ -1,8 +1,8 @@
 ---
-title: Klara und Kurt Asch
+names: Klara und Kurt Asch
 date: 2015-05-20 00:00:00 Z
 layout: item
-address: Allee 57
+title: Allee 57
 steine:
 - - HIER WOHNTE
   - KLARA ASCH

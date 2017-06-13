@@ -1,8 +1,8 @@
 ---
-title: Margarete Vollweiler, geborene Tannhauser, und David Vollweiler
+names: Margarete Vollweiler, geborene Tannhauser, und David Vollweiler
 date: 2014-06-24 00:00:00 Z
 layout: item
-address: Bahnhofstraße 5
+title: Bahnhofstraße 5
 steine:
 - - HIER WOHNTE
   - DAVID VOLLWEILER

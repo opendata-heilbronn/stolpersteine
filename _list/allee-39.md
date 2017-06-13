@@ -1,8 +1,8 @@
 ---
-title: Rebekka Simsohn und Hermann Grünebaum
+names: Rebekka Simsohn und Hermann Grünebaum
 date: 2015-05-20 00:00:00 Z
 layout: item
-address: Allee 39
+title: Allee 39
 steine:
 - - HIER WOHNTE
   - HERMANN

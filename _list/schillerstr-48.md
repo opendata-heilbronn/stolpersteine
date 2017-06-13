@@ -1,9 +1,9 @@
 ---
-title: Franziska Heilbronner, geborene Rosenstein, Berthold Heilbronner und Friederike
+names: Franziska Heilbronner, geborene Rosenstein, Berthold Heilbronner und Friederike
   Heilbronner, geborene Elsass
 date: 2010-04-27 00:00:00 Z
 layout: item
-address: Schillerstraße 48
+title: Schillerstraße 48
 steine:
 - - HIER WOHNTE
   - BERTHOLD

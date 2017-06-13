@@ -1,8 +1,8 @@
 ---
-title: Elsa Scheufler
+names: Elsa Scheufler
 date: 2016-06-29 00:00:00 Z
 layout: item
-address: Große Bahngasse (früher Große Nägelinsgasse 9)
+title: Große Bahngasse (früher Große Nägelinsgasse 9)
 steine:
 - - HIER WOHNTE
   - ELSA SCHEUFLER

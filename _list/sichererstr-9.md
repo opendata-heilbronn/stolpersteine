@@ -1,8 +1,8 @@
 ---
-title: Mina Hahn, geborene Seligmann, Albert, Artur und Hans Jakob Hahn
+names: Mina Hahn, geborene Seligmann, Albert, Artur und Hans Jakob Hahn
 date: 2013-04-12 00:00:00 Z
 layout: item
-address: Sichererstraße 9
+title: Sichererstraße 9
 steine:
 - - HIER WOHNTE
   - ALBERT HAHN

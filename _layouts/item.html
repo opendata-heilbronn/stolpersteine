@@ -15,7 +15,7 @@ layout: page
 #map{height: 300px;}
 </style>
 
-<h2>{{ page.address }}</h2>
+<h2>{{ page.names }}</h2>
 
 <div class="center-align">
 {% assign this = page %}
@@ -41,7 +41,7 @@ layout: page
 </article>
 
 {% if this.images %}
-<h2>Bilder</h2>
+<!-- OH WIE SCHLIMM EINE ÜBERSCHRIFT<h2>Bilder</h2>-->
 <div class="center-align">
 {% for image in this.images %}
 <img src="{{ site.baseurl }}{{ image }}" alt="Bilder: {{ page.title }}"><br>
@@ -49,7 +49,7 @@ layout: page
 </div>
 {% endif %}
 
-<h2 class="no-print">Standort des Denkmals</h2>
+<h2 class="no-print">Lage der Stolpersteine</h2>
 <script>
 var place = {
   "x": {{ this.x }},

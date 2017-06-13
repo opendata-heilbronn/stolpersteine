@@ -1,8 +1,8 @@
 ---
-title: Flora Rosa, Arthur und Erich Kirchheimer
+names: Flora Rosa, Arthur und Erich Kirchheimer
 date: 2016-06-29 00:00:00 Z
 layout: item
-address: Heilbronn-Sontheim, Hofwiesenstraße 25
+title: Heilbronn-Sontheim, Hofwiesenstraße 25
 steine:
 - - HIER WOHNTE
   - ARTHUR

@@ -1,8 +1,8 @@
 ---
-title: Johanna und Robert Adler
+names: Johanna und Robert Adler
 date: 2016-06-29 00:00:00 Z
 layout: item
-address: Rollwagstraße 12 (früher Innere Rosenbergstraße)
+title: Rollwagstraße 12 (früher Innere Rosenbergstraße)
 steine:
 - - HIER WOHNTE
   - JOHANNA ADLER

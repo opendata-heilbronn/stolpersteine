@@ -1,8 +1,8 @@
 ---
-title: Therese Böhm
+names: Therese Böhm
 date: 2016-06-29 00:00:00 Z
 layout: item
-address: Sichererstraße 11 (heute Sichererstr. 9)
+title: Sichererstraße 11 (heute Sichererstr. 9)
 steine:
 - - HIER WOHNTE
   - THERESE BÖHM

@@ -1,8 +1,8 @@
 ---
-title: Julie und Rosalie Israel
+names: Julie und Rosalie Israel
 date: 2012-04-17 00:00:00 Z
 layout: item
-address: Heilbronn-Sontheim, Parkstraße 33
+title: Heilbronn-Sontheim, Parkstraße 33
 steine:
 - - HIER WOHNTE
   - JULIE ISRAEL

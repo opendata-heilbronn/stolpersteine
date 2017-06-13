@@ -1,8 +1,8 @@
 ---
-title: Aron Eliaschow
+names: Aron Eliaschow
 date: 2015-05-20 00:00:00 Z
 layout: item
-address: Fleiner Str. 9
+title: Fleiner Str. 9
 steine:
 - - HIER WIRKTE
   - ARON ELIASCHOW

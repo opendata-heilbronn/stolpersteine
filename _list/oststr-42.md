@@ -1,8 +1,8 @@
 ---
-title: Hedwig Eisig, geborene Strauss
+names: Hedwig Eisig, geborene Strauss
 date: 2013-04-12 00:00:00 Z
 layout: item
-address: Oststraße 42
+title: Oststraße 42
 steine:
 - - HIER WOHNTE
   - HEDWIG EISIG

@@ -1,8 +1,8 @@
 ---
-title: Babette Baer, Sofie Falk, Lina und Kurt Oppenheimer
+names: Babette Baer, Sofie Falk, Lina und Kurt Oppenheimer
 date: 2015-09-17 00:00:00 Z
 layout: item
-address: Frankfurter Str. 9
+title: Frankfurter Str. 9
 steine:
 - - HIER WOHNTE
   - BABETTE BAER

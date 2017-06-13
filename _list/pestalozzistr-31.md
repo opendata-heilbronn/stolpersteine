@@ -1,8 +1,8 @@
 ---
-title: Willi Fröhle
+names: Willi Fröhle
 date: 2012-04-17 00:00:00 Z
 layout: item
-address: Pestalozzistraße 31
+title: Pestalozzistraße 31
 steine:
 - - HIER WOHNTE
   - WILLI FRÖHLE

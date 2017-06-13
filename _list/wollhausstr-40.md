@@ -1,8 +1,8 @@
 ---
-title: Rita Kahn, geborene Meyer, und Karl Kahn
+names: Rita Kahn, geborene Meyer, und Karl Kahn
 date: 2011-04-15 00:00:00 Z
 layout: item
-address: Wollhausstraße 40
+title: Wollhausstraße 40
 steine:
 - - HIER WOHNTE
   - RITA KAHN

@@ -1,7 +1,7 @@
 ---
-title: Meta, Max und Hermann Stern | Nanny und Siegfried Steigerwald
+names: Meta, Max und Hermann Stern | Nanny und Siegfried Steigerwald
 date: 2016-06-29 00:00:00 Z
-address: Moltkestraße 23
+title: Moltkestraße 23
 steine:
 - - HIER WOHNTE
   - MAX STERN

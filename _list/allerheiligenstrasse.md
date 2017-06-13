@@ -1,7 +1,7 @@
 ---
-title: Frida Ledermann
+names: Frida Ledermann
 date: 2016-06-29 00:00:00 Z
-address: Allerheiligenstraße (früher Haus Nr. 32)
+title: Allerheiligenstraße (früher Haus Nr. 32)
 steine:
 - - HIER WOHNTE
   - FRIDA LEDERMANN

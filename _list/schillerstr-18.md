@@ -1,8 +1,8 @@
 ---
-title: Friederike Kern, geborene Reis, Aron und Hugo Kern
+names: Friederike Kern, geborene Reis, Aron und Hugo Kern
 date: 2013-04-12 00:00:00 Z
 layout: item
-address: Schillerstraße 18
+title: Schillerstraße 18
 steine:
 - - HIER WOHNTE
   - ARON KERN

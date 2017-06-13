@@ -1,8 +1,8 @@
 ---
-title: Hermann Baden
+names: Hermann Baden
 date: 2011-04-15 00:00:00 Z
 layout: item
-address: Sichererstraße 22
+title: Sichererstraße 22
 steine:
 - - HIER WOHNTE
   - HERMANN BADEN

@@ -1,8 +1,8 @@
 ---
-title: Rosa und Max Pincus
+names: Rosa und Max Pincus
 date: 2014-06-24 00:00:00 Z
 layout: item
-address: Gymnasiumstraße 31
+title: Gymnasiumstraße 31
 steine:
 - - HIER WOHNTE
   - MAX PINCUS

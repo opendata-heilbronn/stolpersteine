@@ -1,8 +1,8 @@
 ---
-title: Julius und Eugenie Reuter, geborene Sinsheimer, und Moritz Reuter
+names: Julius und Eugenie Reuter, geborene Sinsheimer, und Moritz Reuter
 date: 2014-06-24 00:00:00 Z
 layout: item
-address: Weststraße 45
+title: Weststraße 45
 steine:
 - - HIER WOHNTE
   - MORITZ REUTER

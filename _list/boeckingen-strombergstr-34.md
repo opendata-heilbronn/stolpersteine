@@ -1,8 +1,8 @@
 ---
-title: Lina Arnold
+names: Lina Arnold
 date: 2016-06-29 00:00:00 Z
 layout: item
-address: Heilbronn-Böckingen, Strombergstraße 34 (früher Kurze Straße)
+title: Heilbronn-Böckingen, Strombergstraße 34 (früher Kurze Straße)
 steine:
 - - HIER WOHNTE
   - LINA ARNOLD

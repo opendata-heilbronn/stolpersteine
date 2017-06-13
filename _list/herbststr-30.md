@@ -1,8 +1,8 @@
 ---
-title: Gottlob Feidengruber
+names: Gottlob Feidengruber
 date: 2011-04-15 00:00:00 Z
 layout: item
-address: Herbststraße 30
+title: Herbststraße 30
 steine:
 - - HIER WOHNTE
   - GOTTLOB&ensp;FEIDENGRUBER

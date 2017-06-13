@@ -1,8 +1,8 @@
 ---
-title: Sofie Stern, geborene Weber, und Julius Stern
+names: Sofie Stern, geborene Weber, und Julius Stern
 date: 2014-06-24 00:00:00 Z
 layout: item
-address: Schäfergasse 15 (früher Lammgasse 39)
+title: Schäfergasse 15 (früher Lammgasse 39)
 steine:
 - - HIER WOHNTE
   - JULIUS STERN

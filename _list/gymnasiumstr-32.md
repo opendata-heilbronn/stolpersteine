@@ -1,8 +1,8 @@
 ---
-title: Hermine Strauss, geborene Rothschild, und Max Strauss
+names: Hermine Strauss, geborene Rothschild, und Max Strauss
 date: 2014-06-24 00:00:00 Z
 layout: item
-address: Gymnasiumstraße 32
+title: Gymnasiumstraße 32
 steine:
 - - HIER WOHNTE
   - MAX STRAUSS

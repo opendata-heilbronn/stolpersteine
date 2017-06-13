@@ -1,8 +1,8 @@
 ---
-title: Bertha Sternfeld
+names: Bertha Sternfeld
 date: 2015-05-20 00:00:00 Z
 layout: item
-address: Gymnasiumstr. 48
+title: Gymnasiumstr. 48
 steine:
 - - HIER WOHNTE
   - BERTHA STERNFELD

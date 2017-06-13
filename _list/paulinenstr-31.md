@@ -1,8 +1,8 @@
 ---
-title: Fanny, Max und Sally Kirchhausen
+names: Fanny, Max und Sally Kirchhausen
 date: 2014-06-24 00:00:00 Z
 layout: item
-address: Paulinenstraße 31
+title: Paulinenstraße 31
 steine:
 - - HIER WOHNTE
   - SALLY KIRCHHAUSEN

@@ -1,8 +1,8 @@
 ---
-title: Emil Bauer
+names: Emil Bauer
 date: 2013-04-12 00:00:00 Z
 layout: item
-address: Heilbronn-Böckingen, Teichstraße 8
+title: Heilbronn-Böckingen, Teichstraße 8
 steine:
 - - HIER WOHNTE
   - EMIL BAUER
