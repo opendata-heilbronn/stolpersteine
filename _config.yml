@@ -27,7 +27,7 @@ defaults:
     type: list
   values:
     layout: item
-    title:
+    title: 
     names: Name Nachname
     paten: Name Nachname
     steine:
