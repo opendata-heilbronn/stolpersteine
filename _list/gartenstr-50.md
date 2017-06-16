@@ -1,24 +1,24 @@
 ---
 title: Gartenstraße 50
-date: 2009-01-01 00:00:00 Z
+date: 2009-05-27 00:00:00 Z
 names: Siegfried Gumbel
-layout: item
 steine:
 - - HIER WOHNTE
   - DR. SIEGFRIED
   - GUMBEL
-  - ''
+  - 
   - JG. 1874
   - VERHAFTET 1942
   - DACHAU
   - ERMORDET 27.1.1942
-  - ''
-  - ''
-images:
-- "/uploads/gumbel-siegfried-1925.jpg"
-audio: "/audio/gartenstrasse-50.mp3"
+  - 
+  - 
 x: 49.14461
 y: 9.225599999999986
+audio: "/audio/gartenstrasse-50.mp3"
+images:
+- "/uploads/gumbel-siegfried-1925.jpg"
+layout: item
 ---
 
 Der 1874 als Sohn eines Bankiers geborene Siegfried Gumbel machte am Heilbronner Karlsgymnasium Abitur und studierte Jura in Tübingen. 1901 ließ er sich in Heilbronn als Rechtsanwalt nieder und leitete ab 1923 die Anwaltskanzlei Dr. Gumbel, Koch und Dr. Scheuer.
