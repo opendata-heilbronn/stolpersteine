@@ -1,22 +1,22 @@
 ---
 title: Kaiserstraße 34
-date: 2009-01-01 00:00:00 Z
+date: 2009-05-27 00:00:00 Z
 names: Otto Igersheimer
-layout: item
 steine:
 - - HIER WIRKTE
   - OTTO IGERSHEIMER
-  - ''
-  - ''
+  - 
+  - 
   - JG. 1879
   - DEPORTIERT 1942
   - ERMORDET IN
   - AUSCHWITZ
-  - ''
-  - ''
-audio: "/audio/kaiserstrasse-34.mp3"
+  - 
+  - 
 x: 49.1418274
 y: 9.218842600000016
+audio: "/audio/kaiserstrasse-34.mp3"
+layout: item
 ---
 
 Der Heilbronner Otto Igersheimer war in der Stadt sehr angesehen. Sein Vater hatte eine Modewaren-Handlung, Otto Igersheimer arbeitete an der Seite von Abraham Gumbel als Bankkaufmann, seit 1909 beim neu gegründeten Heilbronner Bankverein. Beide führten ihn in die genossenschaftliche Struktur über, die als Volksbank Heilbronn heute noch besteht.
