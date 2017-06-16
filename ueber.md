@@ -11,6 +11,7 @@ Die Opfer stammten aus allen Gesellschaftsschichten; sie waren in der Mehrzahl j
 
 Das Stolperstein-Projekt wird in Heilbronn von einem Runden Tisch begleitet, der die Aktion koordiniert und der gemeinsam mit dem Stadtarchiv Heilbronn die Forschungen zu den Wegen und Schicksalen der ermordeten Menschen begleitet.
 
+
 <h2>Spendenkonto</h2>
 
 Stadtkasse Heilbronn <br>
@@ -19,6 +20,7 @@ IBAN: DE51 6205 0000 0000 0008 59 <br>
 BIC: HEISDE66 <br>
 Verwendungszweck: Spende Stolpersteine - Sachkonto 31480000 Stadtarchiv Heilbronn <br>
 Bitte geben Sie Ihre vollständige Adresse an!
+
 
 <h2>Unterstützer</h2>
 
