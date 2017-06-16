@@ -14,14 +14,14 @@ Das Stolperstein-Projekt wird in Heilbronn von einem Runden Tisch begleitet, der
 
 <h2>Spendenkonto</h2>
 
-Stadtkasse Heilbronn <br>
+<p>Stadtkasse Heilbronn <br>
 Konto 859 Kreissparkasse Heilbronn <br>(Bankleitzahl 620 500 00) <br>
 IBAN: DE51 6205 0000 0000 0008 59 <br>
 BIC: HEISDE66 <br>
 Verwendungszweck: Spende Stolpersteine - Sachkonto 31480000 Stadtarchiv Heilbronn <br>
-Bitte geben Sie Ihre vollständige Adresse an!<br>
+Bitte geben Sie Ihre vollständige Adresse an!</p>
 
 
 <h2>Unterstützer</h2>
 
-Das Heilbronner Stolperstein-Projekt dankt allen Unterstützern der Stolperstein-Aktion, besonders der Volksbank Heilbronn.
+<p>Das Heilbronner Stolperstein-Projekt dankt allen Unterstützern der Stolperstein-Aktion, besonders der Volksbank Heilbronn.</p>
