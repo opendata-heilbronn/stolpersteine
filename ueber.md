@@ -16,8 +16,9 @@ Spendenkonto
 
 </h2><p>
 
-Stadtkasse Heilbronn / Konto 859 - Kreissparkasse Heilbronn (Bankleitzahl 620 500 00) |
-IBAN: DE51 6205 0000 0000 0008 59 |
+Stadtkasse Heilbronn 
+Konto 859 - Kreissparkasse Heilbronn (Bankleitzahl 620 500 00) 
+IBAN: DE51 6205 0000 0000 0008 59 
 BIC: HEISDE66
 
 </p>
