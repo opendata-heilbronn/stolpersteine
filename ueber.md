@@ -3,7 +3,7 @@ title: Ueber
 output: false
 ---
 
-## Über das Heilbronner Stolperstein-Projekt
+<h2>Über das Heilbronner Stolperstein-Projekt</h2>
 
 Mehr als 400 Namen umfasst die Liste der Opfer des NS-Terrors in Heilbronn. Das Stolperstein-Projekt verfolgt das Ziel, diesen Menschen ihren Namen wieder zurückzugeben, ihn im Stadtraum sichtbar zu machen, vor den Häusern, in denen sie ihre letzte frei gewählte Wohnung hatten.
 
