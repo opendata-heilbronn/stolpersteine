@@ -19,6 +19,6 @@ Spendenkonto
 Stadtkasse Heilbronn <br>
 Konto 859 Kreissparkasse Heilbronn <br>(Bankleitzahl 620 500 00) <br>
 IBAN: DE51 6205 0000 0000 0008 59 <br>
-BIC: HEISDE66
-
-</p>
+BIC: HEISDE66 <br>
+Verwendungszweck: Spende Stolpersteine - Sachkonto 31480000 Stadtarchiv Heilbronn <br>
+Bitte geben Sie Ihre vollständige Adresse an!</p>
