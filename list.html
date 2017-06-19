@@ -24,9 +24,9 @@ layout: page
 var coordinates = [
     {% for page in site.list %}
     {
-        "x": {{ page.x }},
-        "y": {{ page.y }},
-        "title": "{{ page.title }}",
+        "x": {% if page.x %}{{ page.x }}{% else %}{{ site.lat }}{% endif %},
+        "y": {% if page.y %}{{ page.y }}{% else %}{{ site.long }}{% endif %},
+        "title": "{% if page.x and page.y %}{{ page.names }}{% else %}{{ page.names }}<br>Keine Koordinaten angegeben{% endif %}",
         "url": "{{ site.baseurl }}{{ page.url }}"
     }
     {% unless forloop.last %},{% endunless %}

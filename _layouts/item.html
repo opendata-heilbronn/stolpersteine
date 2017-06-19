@@ -44,7 +44,7 @@ layout: page
 <h2>Bilder</h2>
 <div class="center-align">
 {% for image in this.images %}
-<img src="{{ site.baseurl }}{{ image }}" alt="Bilder: {{ page.title }}"><br>
+<img src="{{ site.baseurl }}{{ image }}" alt="Bilder: {{ this.title }}"><br>
 {% endfor %}
 </div>
 {% endif %}
@@ -52,9 +52,9 @@ layout: page
 <h2 class="no-print">Standort des Denkmals</h2>
 <script>
 var place = {
-  "x": {{ this.x }},
-  "y": {{ this.y }},
-  "title": "{{ this.title}} ",
+  "x": {% if this.x %}{{ this.x }}{% else %}{{ site.lat }}{% endif %},
+  "y": {% if this.y %}{{ this.y }}{% else %}{{ site.long }}{% endif %},
+  "title": "{% if this.x and this.y %}{{ this.names }}{% else %}{{ this.names }}<br>Keine Koordinaten angegeben{% endif %}",
   "address": "{{ this.address }}"
 };
 </script>
