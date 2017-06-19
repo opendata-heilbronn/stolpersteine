@@ -54,7 +54,7 @@ layout: page
 var place = {
   "x": {% if this.x %}{{ this.x }}{% else %}{{ site.lat }}{% endif %},
   "y": {% if this.y %}{{ this.y }}{% else %}{{ site.long }}{% endif %},
-  "title": "{% if this.x and this.y %}{{ this.names }}{% else %}{{ this.names }}<br>Keine Koordinaten angegeben{% endif %}",
+  "title": "{% if this.x and this.y %}{{ this.title }}{% else %}{{ this.title }}<br>Keine Koordinaten angegeben{% endif %}",
   "address": "{{ this.address }}"
 };
 </script>
