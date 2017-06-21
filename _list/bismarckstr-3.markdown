@@ -7,8 +7,8 @@ steine:
 - - Hier wohnte
   - Regine Krips
   - JG. 1883
-  - 1900
-  - ERMORDET
+  - " "
+  - " "
   - DEPORTIERT 1942
   - IZBICA
   - ERMORDET
