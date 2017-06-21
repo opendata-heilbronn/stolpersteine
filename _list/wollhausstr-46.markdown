@@ -12,5 +12,7 @@ steine:
   - ALTERSHEIM HERRLINGEN
   - TOT 27.3.1940
   - "   "
+x: 49.138962
+y: 9.224935
 ---
 
