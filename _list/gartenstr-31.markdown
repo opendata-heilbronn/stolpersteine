@@ -8,7 +8,7 @@ steine:
   - 'CLOTHILDE '
   - SCHLESINGER
   - GEB. GUMBEL
-  - JG 1864
+  - JG. 1864
   - DEPORTIERT 1942
   - THERESIENSTADT
   - ERMORDET 2.9.1942
@@ -22,6 +22,24 @@ steine:
   - IZBICA
   - ERMORDET
   - "  "
+- - HIER WOHNTE
+  - 'SIMON '
+  - SCHLESINGER
+  - 
+  - JG. 1876
+  - DEPORTIERT 1942
+  - IZBICA
+  - ERMORDET
+  - 
+- - 'null'
+  - 'null'
+  - 
+  - 
+  - 'null'
+  - 'null'
+  - 'null'
+  - 'null'
+  - 
 x: 49.143348
 y: 9.224821
 ---
