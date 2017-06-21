@@ -12,5 +12,7 @@ steine:
   - THERESIENSTADT
   - ERMORDET 2.9.1942
   - " "
+x: 49.143348
+y: 9.224821
 ---
 
