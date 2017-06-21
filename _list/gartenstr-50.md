@@ -13,8 +13,8 @@ steine:
   - ERMORDET 27.1.1942
   - 
   - 
-x: 49.14461
-y: 9.225599999999986
+x: 49.144752
+y: 9.225188
 audio: "/audio/gartenstrasse-50.mp3"
 images:
 - "/uploads/gumbel-siegfried-1925.jpg"
