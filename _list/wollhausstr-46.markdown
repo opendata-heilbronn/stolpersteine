@@ -7,6 +7,7 @@ paten: Betreut von Helena Holzmeier-Kasperski, Sarwar Mustafa und Raham Naderi (
 steine:
 - - LINA WOLLENBERGER
   - GEB. STEIN
+  - "    "
   - JG. 1866
   - ZWANGSEINGEWIESEN 1939
   - ALTERSHEIM HERRLINGEN
