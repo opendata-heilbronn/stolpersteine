@@ -6,11 +6,12 @@ paten: Heidi Brett und Julian Schiebener
 steine:
 - - Hier wohnte
   - Regine Krips
-  - JG. 1883
-  - " "
-  - " "
+  - "''"
+  - " ''"
+  - " JG. 1883"
   - DEPORTIERT 1942
   - IZBICA
   - ERMORDET
+  - "''"
 ---
 
