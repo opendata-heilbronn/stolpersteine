@@ -13,6 +13,17 @@ steine:
   - IZBICA
   - ERMORDET
   - "  "
+  - 
+- - HIER WOHNTE
+  - FLORA REIS
+  - GEB. ARON
+  - "  "
+  - JG. 1877
+  - FLUCHT 1939
+  - ENGLAND
+  - 'null'
+  - 
+  - 
 x: 49.140274
 y: 9.2249
 ---
