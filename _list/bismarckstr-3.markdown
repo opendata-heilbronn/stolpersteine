@@ -13,5 +13,7 @@ steine:
   - IZBICA
   - ERMORDET
   - "''"
+x: 49.140274
+y: 9.2249
 ---
 
