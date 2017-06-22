@@ -25,4 +25,4 @@ Das Ehepaar lebte in der Wollhausstraße 46; aus der Ehe gingen vier Kinder herv
 
 Hermann Wollenberger starb am 24. März 1932 in Heilbronn; er wurde auf dem jüdischen Friedhof im Breitenloch bestattet. Seine Witwe wurde am 1. August 1939 in das jüdische Altersheim in Herrlingen deportiert, wo sie am 27. März 1940 im Alter von 74 Jahren gestorben ist. Auch sie wurde auf dem jüdischen Friedhof im Breitenloch begraben.
 
-Ihr Sohn Alfred Wollenberger (Jahrgang 1891) ist in Schwandorf geboren; er hatte die Weinbrennerei und Likörfabrik des Vaters übernommen, die im Zuge der „Arisierung“ am 31. März 1937 zwangsweise an den Kaufmann Hans-Ferdinand Homburg überging. Zusammen mit seiner Frau Mata musste Alfred im April 1939 nach Großbritannien auswandern.
+Ihr Sohn Alfred Wollenberger (Jahrgang 1891) hatte die Weinbrennerei und Likörfabrik des Vaters übernommen, die im Zuge der „Arisierung“ am 31. März 1937 zwangsweise an den Kaufmann Hans-Ferdinand Homburg überging. Zusammen mit seiner Frau Meta musste Alfred im April 1939 nach Großbritannien auswandern.
