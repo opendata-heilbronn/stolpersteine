@@ -2,31 +2,31 @@
 title: Gymnasiumstraße 32
 date: 2014-06-24 00:00:00 Z
 names: Hermine Strauss, geborene Rothschild, und Max Strauss
-layout: item
 steine:
 - - HIER WOHNTE
   - MAX STRAUSS
-  - ''
-  - ''
+  - 
+  - 
   - JG. 1874
   - DEPORTIERT 1942
   - THERESIENSTADT
   - TOT 17.6.1944
-  - ''
-  - ''
+  - 
+  - 
 - - HIER WOHNTE
   - HERMINE STRAUSS
-  - ''
+  - 
   - GEB. ROTHSCHILD
   - JG. 1886
   - DEPORTIERT 1942
   - THERESIENSTADT
   - ERMORDET 1944
   - AUSCHWITZ
-  - ''
+  - 
+x: 49.139624
+y: 9.223148
 audio: "/audio/gymnasiumstrasse-32.mp3"
-x: 49.13956429185605
-y: 9.223326221108437
+layout: item
 ---
 
 In der Friedensstraße 32 – der heutigen Gymnasiumstraße – wohnte bis 1938 das Ehepaar Max und Hermine Strauss. Max Strauss, von Beruf Kaufmann, war seit den 1920er Jahren Gesellschafter der Zigarrenfabrik Gustav Adler; sie wurde 1935 aufgelöst. Danach verwaltete Max Strauss den „Adlerkeller“, eine frühere Brauereigaststätte im Besitz der Familie Würzburger. Das Lokal an der Ecke Klara- und Wollhausstraße hatte etwa 250 Plätze. Hier war ab 1936 die Schule für jüdische Kinder eingerichtet, nachdem sie öffentliche Schulen nicht mehr besuchen durften. Außerdem befand sich hier das Gemeindehaus für die immer kleiner werdende israelitische Gemeinde. Am 9. November 1938 wurde das Gebäude von einer Nazibande verwüstet und größere Mengen an Einrichtungsgegenständen, auch Geschirr und Gläser, blindwütig zerschlagen.
