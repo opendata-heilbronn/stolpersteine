@@ -1,22 +1,23 @@
 ---
 title: Sichererstraße 9
 date: 2013-04-12 00:00:00 Z
-names: Mina Hahn, geborene Seligmann, Albert, Artur und Hans Jakob Hahn
-layout: item
+names: |-
+  Mina Hahn, geborene Seligmann, Albert, Artur und Hans Jakob Hahn
+  Adele, Silvia, Simon, Gisela, Markus und Eugen Mandellaub
 steine:
 - - HIER WOHNTE
   - ALBERT HAHN
-  - ''
-  - ''
+  - 
+  - 
   - JG. 1880
   - DEPORTIERT 1941
   - ERMORDET IN
   - RIGA
-  - ''
-  - ''
+  - 
+  - 
 - - HIER WOHNTE
   - ARTUR NATHAN HAHN
-  - ''
+  - 
   - JG. 1913
   - UNFREIWILLIG VERZOGEN
   - 1939 GUT WINKEL
@@ -26,7 +27,7 @@ steine:
   - AUSCHWITZ
 - - HIER WOHNTE
   - HANS JAKOB HAHN
-  - ''
+  - 
   - JG. 1923
   - FLUCHT 1939
   - LUXEMBURG
@@ -36,17 +37,18 @@ steine:
   - AUSCHWITZ
 - - HIER WOHNTE
   - MINA HAHN
-  - ''
+  - 
   - GEB. SELIGMANN
   - JG. 1889
   - DEPORTIERT 1941
   - ERMORDET IN
   - RIGA
-  - ''
-  - ''
-audio: "/audio/sichererstrasse-9.mp3"
+  - 
+  - 
 x: 49.1485272
 y: 9.220687099999964
+audio: "/audio/sichererstrasse-9.mp3"
+layout: item
 ---
 
 Albert Hahn aus Berwangen betrieb eine Handelsagentur für Manufakturwaren, seine Frau Mina, geboren 1889 in Eberbach, war Hausfrau. Nach dem Zwangsverkauf des Hauses in der Sichererstraße erfolgte der erzwungene Umzug in ein sogenanntes „Judenhaus“ in der Frankfurter Straße 46. Von dort wurden Albert und Mina Hahn am 26. November 1941 „nach dem Osten“ deportiert. Beide wurden am 1. Dezember 1942 in Riga ermordet.
