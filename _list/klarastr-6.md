@@ -2,30 +2,30 @@
 title: Klarastr. 6
 date: 2015-05-20 00:00:00 Z
 names: Max und Eugenie Luise Rosenthal
-layout: item
 steine:
 - - HIER WOHNTE
   - MAX ROSENTHAL
-  - ''
-  - ''
+  - 
+  - 
   - JG. 1872
   - DEPORTIERT 1942
   - THERESIENSTADT
   - 1942 TREBLINKA
   - ERMORDET
-  - ''
+  - 
 - - HIER WOHNTE
   - EUGENIE LUISE
   - ROSENTHAL
-  - ''
+  - 
   - JG. 1905
   - DEPORTIERT 1941
   - ERMORDET IN
   - RIGA
-  - ''
-  - ''
-x: 49.1407244
-y: 9.220265199999972
+  - 
+  - 
+x: 49.140744
+y: '9,220386'
+layout: item
 ---
 
 Max Rosenthal wurde am 26. September 1872 als Sohn von Jacob und Betty Rosenthal in Heilbronn geboren. Mit seiner Frau Emma Schloss und seiner Tochter Eugenie Luise, die am 1. November 1905 geboren wurde, lebte er im Haus Klarastrasse 6. Max Rosenthal war Weinhändler und unter anderem an der Wein-Großhandlung Max Rosenthal und Josef Dornacher beteiligt. Die Geschäftsräume befanden sich im Haus Götzenturmstr. 43, das der Familie gehörte.
