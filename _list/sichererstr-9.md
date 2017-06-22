@@ -1,9 +1,7 @@
 ---
-title: Sichererstraße 9
+title: Sichererstraße 9 (Hahn)
 date: 2013-04-12 00:00:00 Z
-names: |-
-  Mina Hahn, geborene Seligmann, Albert, Artur und Hans Jakob Hahn
-  Adele, Silvia, Simon, Gisela, Markus und Eugen Mandellaub
+names: Mina Hahn, geborene Seligmann, Albert, Artur und Hans Jakob Hahn
 steine:
 - - HIER WOHNTE
   - ALBERT HAHN
