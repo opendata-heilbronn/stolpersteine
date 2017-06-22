@@ -1,6 +1,6 @@
 ---
 title: Bismarckstr. 3
-date: 2017-06-27 09:00:00 Z
+date: 2017-06-27 21:00:00 Z
 names: Regine Krips und Flora Reis
 paten: Heidi Brett und Julian Schiebener
 steine:
