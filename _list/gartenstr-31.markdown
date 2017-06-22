@@ -43,4 +43,4 @@ Zusammen mit dem Ehepaar Schlesinger lebte Clothilde Schlesinger geb. Gumbel, ge
 
 Das Ehepaar Schlesinger musste aus seiner Wohnung in der Gartenstraße 31 in ein sogenanntes „Judenhaus“ in der Bismarckstr. 3 a ziehen, nachdem wohl das Zigarrengeschäft „arisiert“ worden war. Am 24. April 1942 erfolgte der Transport „nach dem Osten“, nach Izbica, 60 km östlich von Lublin. Beide wurden mit Sicherheit ermordet, ein Todesdatum ist nicht bekannt.
 
-Clothilde Schlesinger wurde am 12. August 1942 über Stuttgart nach Dellmensingen (in der Nähe von Ulm) transportiert und von dort am 22. August 1942 nach Theresienstadt. Als Todesdatum wird der 2.September 1942 angegeben.
+Clothilde Schlesinger wurde am 12. August 1942 über Stuttgart nach Dellmensingen (in der Nähe von Ulm) transportiert und von dort am 22. August 1942 nach Theresienstadt. Als Todesdatum wird der 2. September 1942 angegeben.
