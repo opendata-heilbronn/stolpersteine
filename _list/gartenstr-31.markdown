@@ -4,7 +4,7 @@ date: 2017-06-27 09:00:00 Z
 names: Clothilde, Ida und Simon Schlesinger
 paten: Dr. Gerhard Schneider / Freundeskreis Synagoge Heilbronn e.V.
 steine:
-- - 
+- - HIER WOHNTE
   - 'CLOTHILDE '
   - SCHLESINGER
   - GEB. GUMBEL
@@ -30,15 +30,6 @@ steine:
   - DEPORTIERT 1942
   - IZBICA
   - ERMORDET
-  - 
-- - 'null'
-  - 'null'
-  - 
-  - 
-  - 'null'
-  - 'null'
-  - 'null'
-  - 'null'
   - 
 x: 49.143348
 y: 9.224821
