@@ -2,22 +2,21 @@
 title: Allee 9
 date: 2010-04-27 00:00:00 Z
 names: Klara Holwein
-layout: item
 steine:
 - - HIER WOHNTE
   - KLARA HOLWEIN
-  - ''
+  - 
   - GEB. WANNER
   - JG. 1889
   - AUS ANSTALT WEINSBERG
   - 1940 NACH
   - GRAFENECK
   - ERMORDET 8.5.1940
-  - ''
+  - 
+x: 49.141103
+y: 9.221781
 audio: "/audio/allee-9.mp3"
-images: []
-x: 49.1411033
-y: 9.221647100000041
+layout: item
 ---
 
 Die Heilbronner Geschäftsfrau Klara Holwein, 1889 geboren, führte zusammen mit ihrem Mann ein Reformhaus und gab Kurse für vegetarisches Kochen nach den Grundsätzen der Reformbewegung.
