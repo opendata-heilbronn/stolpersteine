@@ -28,9 +28,9 @@ steine:
   - " "
   - JG.1929
   - "„POLENAKTION“ 1938"
-  - 'null'
-  - 'null'
-  - 
+  - BENTSCHEN / ZBASZYN
+  - 'ERMORDET IM '
+  - "BESETZTEN POLEN\t"
 ---
 
 Simon Mandellaub, von Beruf Kaufmann, ist am 18. Januar 1884 in Kolomea / Polen geboren. Die galizische Stadt Kolomea, gelegen in der heutigen West-Ukraine, war seit dem 14. Jahrhundert ein Teil Polens, gehörte dann vom 18. Jahrhundert an bis 1918 zur Habsburger Monarchie und war später wiederum polnisch.
