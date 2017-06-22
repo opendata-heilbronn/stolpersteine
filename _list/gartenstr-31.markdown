@@ -35,7 +35,7 @@ x: 49.143348
 y: 9.224821
 ---
 
-Simon Schlesinger, geboren am 10. Dezember 1876, entstammte einer Familie aus Bonfeld, wo seit dem 18. Jahrhundert eine jüdische Gemeinde bestand. Einige seiner Verwandten waren bereits 1905 in Heilbronn wohnhaft; so gab es schon damals etwa ein „Zigarrenspezialgeschäft“ in der Lohtorstraße 30, das dann ab 1923 an von Simon Schlesinger geführt wurde. Er wohnte mit seiner Ehefrau von 1920 an im Haus Gartenstraße 31.
+Simon Schlesinger, geboren am 10. Dezember 1876, entstammte einer Familie aus Bonfeld, wo seit dem 18. Jahrhundert eine jüdische Gemeinde bestand. Einige seiner Verwandten waren bereits 1905 in Heilbronn wohnhaft; so gab es schon damals etwa ein „Zigarrenspezialgeschäft“ in der Lohtorstraße 30, das dann ab 1923 von Simon Schlesinger geführt wurde. Er wohnte mit seiner Ehefrau von 1920 an im Haus Gartenstraße 31.
 
 Simon Schlesinger war verheiratet mit Ida geb. Wallerstein, geboren am 31. Oktober 1881, die aus Nürtingen stammte. Ihre Tätigkeit wird beschrieben als „Hausfrau später Verkäuferin“. Offenbar war das Ehepaar kinderlos; weitere Einzelheiten konnten über ihr Leben nicht recherchiert werden – es gibt auch keine Rückerstattungsakten im Staatsarchiv Ludwigsburg.
 
@@ -43,4 +43,4 @@ Zusammen mit dem Ehepaar Schlesinger lebte Clothilde Schlesinger geb. Gumbel, ge
 
 Das Ehepaar Schlesinger musste aus seiner Wohnung in der Gartenstraße 31 in ein sogenanntes „Judenhaus“ in der Bismarckstr. 3 a ziehen, nachdem wohl das Zigarrengeschäft „arisiert“ worden war. Am 24. April 1942 erfolgte der Transport „nach dem Osten“, nach Izbica, 60 km östlich von Lublin. Beide wurden mit Sicherheit ermordet, ein Todesdatum ist nicht bekannt.
 
-Clothilde Schlesinger wurde am 12. August 1942 über Stuttgart nach Dellmensingen (in der Nähe von Ulm) transportiert und von dort am 22. August 1942 nach Theresienstadt. Als Todesdatum wird der 2.September 1942 angegeben.\
+Clothilde Schlesinger wurde am 12. August 1942 über Stuttgart nach Dellmensingen (in der Nähe von Ulm) transportiert und von dort am 22. August 1942 nach Theresienstadt. Als Todesdatum wird der 2.September 1942 angegeben.
