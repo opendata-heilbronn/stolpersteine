@@ -1,6 +1,6 @@
 ---
 title: Hundsbergstr. 41
-date: 2017-06-27 21:00:00 Z
+date: 2017-06-27 09:00:00 Z
 names: Emma Pakscher und Alice Pfleiderer
 paten: Eliane Ponto und Rebecca Keller (Mönchseegymnasium Heilbronn)
 steine:
