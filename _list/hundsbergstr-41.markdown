@@ -22,5 +22,7 @@ steine:
   - VERSTECKT ÜBERLEBT
   - " "
   - " "
+x: 49.14493
+y: 9.239578
 ---
 
