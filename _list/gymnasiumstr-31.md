@@ -2,21 +2,20 @@
 title: Gymnasiumstraße 31
 date: 2014-06-24 00:00:00 Z
 names: Rosa und Max Pincus
-layout: item
 steine:
 - - HIER WOHNTE
   - MAX PINCUS
-  - ''
-  - ''
+  - 
+  - 
   - JG. 1869
   - DEPORTIERT 1942
   - THERESIENSTADT
   - ERMORDET 10.12.1942
-  - ''
-  - ''
+  - 
+  - 
 - - HIER WOHNTE
   - ROSA PINCUS
-  - ''
+  - 
   - GEB. EICHENBERG
   - JG. 1868
   - ZWANGSUMZUG 1941
@@ -24,11 +23,12 @@ steine:
   - "„EINGEWIESEN“"
   - HEILANSTALT ZWIEFALTEN
   - ERMORDET 26.3.1942
+x: 49.139695
+y: 9.222976
 audio: "/audio/gymnasiumstrasse-31.mp3"
 images:
 - "/uploads/pincus-max.jpg"
-x: 49.139778371058306
-y: 9.222848787903786
+layout: item
 ---
 
 Max Pincus wurde 1869 in Posen (Polen) geboren, seine Frau Rosa, geborene Eichenberg, 1868 in Gießen. Zusammen zogen sie nach St. Johann an der Saar (heute Saarbrücken), wo 1895 ihr erstes Kind Ludwig zur Welt kam. Es folgten 1897 die Tochter Margarethe (verheiratete Rothschild) und 1901 ihr zweiter Sohn Walter.
