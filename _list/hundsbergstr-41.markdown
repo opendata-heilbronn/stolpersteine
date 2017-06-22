@@ -13,5 +13,14 @@ steine:
   - FLUCHT IN DEN TOD
   - 14.4.1943
   - " "
+- - HIER WOHNTE
+  - ALICE PFLEIDERER
+  - GEB. PAKSCHER
+  - " "
+  - JG. 1891
+  - SEIT FEB. 1945
+  - VERSTECKT ÜBERLEBT
+  - " "
+  - " "
 ---
 
