@@ -32,7 +32,7 @@ layout: page
 Stadtarchiv Heilbronn B011-73: [Auszug aus der Lohnsteuerkartei 1940](http://projekt.stolpersteine-heilbronn.de/stadtarchiv-heilbronn-b011-73.pdf)
 
 
-Stadtarchiv Heilbronn B019-153: [Ratsschreiberei, "Judenliste" 07-1934/1939](http://projekt.stolpersteine-heilbronn.de/uploads/stadtarchiv-heilbronn-b019-153-ratschreiberei-judenlisten-07-1934-1939.pdf) und die [Erschließung der sogenannten "Judenliste"](http://projekt.stolpersteine-heilbronn.de/B019-153-judenlisten-auswertung.pdf)
+Stadtarchiv Heilbronn B019-153: [Ratsschreiberei, "Judenliste" 07-1934/1939](http://projekt.stolpersteine-heilbronn.de/stadtarchiv-heilbronn-b019-153-ratschreiberei-judenlisten-07-1934-1939.pdf) und die [Erschließung der sogenannten "Judenliste"](http://projekt.stolpersteine-heilbronn.de/B019-153-judenlisten-auswertung.pdf)
 
 
 Text der ["Verordnung über den Einsatz des jüdischen Vermögens"](http://projekt.stolpersteine-heilbronn.de/vo-juedisches-vermoegen.pdf) vom 3. Dezember 1938
