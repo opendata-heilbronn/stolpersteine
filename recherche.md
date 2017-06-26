@@ -22,9 +22,9 @@ Vom Mittelalter bis zur Zeit der nationalsozialistischen Verfolgungen (1050-1945
 
 Stadtarchiv Heilbronn: [Opfer des Nationalsozialismus in Heilbronn]({{ site.baseurl }}/uploads/2017-01-25-datenbank-opfer-ns.pdf) (Stand: 25.01.2017)
  
-Stadtarchiv Heilbronn B011-73: [Auszug aus der Lohnsteuerkartei 1940](http://www.stolpersteine-heilbronn.de/stadtarchiv-heilbronn-b011-73.pdf)
+Stadtarchiv Heilbronn B011-73: [Auszug aus der Lohnsteuerkartei 1940]({{ site.baseurl }}/uploads/stadtarchiv-heilbronn-b011-73.pdf)
  
-Stadtarchiv Heilbronn B019-153: [Ratsschreiberei, "Judenliste" 07-1934/1939](http://stolpersteine-heilbronn.de/stadtarchiv-heilbronn-b019-153-ratschreiberei-judenlisten-07-1934-1939.pdf) und die [Erschließung der sogenannten "Judenliste"](http://stolpersteine-heilbronn.de/B019-153-judenlisten-auswertung.pdf)
+Stadtarchiv Heilbronn B019-153: [Ratsschreiberei, "Judenliste" 07-1934/1939]({{ site.baseurl }}/uploads/stadtarchiv-heilbronn-b019-153-ratschreiberei-judenlisten-07-1934-1939.pdf) und die [Erschließung der sogenannten "Judenliste"](http://stolpersteine-heilbronn.de/B019-153-judenlisten-auswertung.pdf)
 
 Text der ["Verordnung über den Einsatz des jüdischen Vermögens"]({{ site.baseurl }}/uploads/vo-juedisches-vermoegen.pdf) vom 3. Dezember 1938
   
