@@ -46,8 +46,8 @@ defaults:
     images: []
 email: lukas@himsel.me
 description: 
-baseurl: "/stolpersteine"
-url: https://opendata-heilbronn.github.io
+baseurl: 
+url: http://stolpersteine-heilbronn.de/
 markdown: kramdown
 permalink: pretty
 exclude:
