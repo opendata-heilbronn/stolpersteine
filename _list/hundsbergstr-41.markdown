@@ -30,7 +30,7 @@ Emma Pakscher geb. Meyerhof wurde am 23. August 1865 als erstes Kind der Eheleut
 
 Emma Meyerhof hatte ihren Gatten Max Pakscher im Alter von 26 Jahren geheiratet; die gemeinsame Tochter Alice Irene kam am 4. September 1891 zur Welt. Max Pakscher war gelernter Kaufmann.
 
-Nach seinem Tod lebte Emma Pakscher bei ihrer Tochter Alice Irene Pfleiderer geb. Pakscher in der Hundsbergstraße 41/1 in Heilbronn. Sie hatte 1912 den Heilbronner Juristen Hans Pfleiderer geheiratet, mit dem sie zwei Söhne, Gerhard und Hellmut, und eine Tochter Hilde bekam. Hans Pfleiderer war ab 1926 als Amtsgerichtsdirektor in Heilbronn tätig.
+Nach seinem Tod lebte Emma Pakscher bei ihrer Tochter Alice Irene Pfleiderer geb. Pakscher in der Hundsbergstraße 41/1 in Heilbronn. Sie hatte 1912 den Heilbronner Juristen Hans Pfleiderer geheiratet, mit dem sie zwei Söhne, Gerhard und Hellmut, und eine Tochter Hilde bekam. Hans Pfleiderer war ab 1926 als Amtsgerichtsdirektor in Heilbronn tätig. 
 
 Hellmut, der Sohn von Alice und Hans Pfleiderer, machte 1931 sein Abitur, studierte Jura und lebte zeitweise in Heilbronn bei seiner Familie, bevor er als „Halbjude“ gemeinsam mit seinem Bruder Gerhard einen Deportationsbefehl nach Leimbach erhielt. Dort mussten beide in einem Kupferbergwerk arbeiten. In diesem Lager wurden sie von November 1944 bis April 1945 festgehalten, bis sie schließlich von den Amerikanern befreit wurden.
 
