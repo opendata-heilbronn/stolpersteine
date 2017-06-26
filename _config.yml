@@ -47,7 +47,7 @@ defaults:
 email: lukas@himsel.me
 description: 
 baseurl: 
-url: http://stolpersteine-heilbronn.de/
+url: http://stolpersteine-heilbronn.de
 markdown: kramdown
 permalink: pretty
 exclude:
