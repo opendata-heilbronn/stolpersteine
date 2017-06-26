@@ -6,43 +6,59 @@ layout: page
 
 ## Links und Materialien
 
-[Checkliste für die Stolperstein-Recherche](http://projekt.stolpersteine-heilbronn.de/checkliste-stolperstein-recherchen.pdf)
+* [Checkliste für die Stolperstein-Recherche](http://projekt.stolpersteine-heilbronn.de/checkliste-stolperstein-recherchen.pdf)
 
-[Liste der sogenannten "Judenhäuser" in Heilbronn](http://projekt.stolpersteine-heilbronn.de/stadta-heilbronn-liste-judenhaeuser.pdf)
 
-[Hans Franke: Geschichte und Schicksal der Juden in Heilbronn.](https://stadtarchiv.heilbronn.de/fileadmin/daten/stadtarchiv/online-publikationen/03-vr-11-franke-juden-in-heilbronn.pdf)\
-Vom Mittelalter bis zur Zeit der nationalsozialistischen Verfolgungen (1050-1945). 1963.
-\(Veröffentlichungen des Archivs der Stadt Heilbronn 11)
+* [Liste der sogenannten "Judenhäuser" in Heilbronn](http://projekt.stolpersteine-heilbronn.de/stadta-heilbronn-liste-judenhaeuser.pdf)
 
-[Ausgefüllte Fragebögen zum Schicksal der Juden in Heilbronn](http://projekt.stolpersteine-heilbronn.de/stadtarchiv-heilbronn-d009-25-franke-frageboegen.pdf), versandt 1960 von Hans Franke (Stadtarchiv Heilbronn D009-25)
 
-\[Namensregister zu den von Hans Franke erhobenen Fragebögen\]({{ site.baseurl }}/uploads/register-stadtarchiv-heilbronn-d009-25-franke-frageboegen.pdf) (Stadtarchiv Heilbronn D009-25)
+* [Hans Franke: Geschichte und Schicksal der Juden in Heilbronn.](https://stadtarchiv.heilbronn.de/fileadmin/daten/stadtarchiv/online-publikationen/03-vr-11-franke-juden-in-heilbronn.pdf)\
+  Vom Mittelalter bis zur Zeit der nationalsozialistischen Verfolgungen (1050-1945). 1963.
+  \(Veröffentlichungen des Archivs der Stadt Heilbronn 11)
 
-[HEUSS - Datenbank des Stadtarchivs Heilbronn](http://heuss.stadtarchiv-heilbronn.de/)
 
-Stadtarchiv Heilbronn: \[Opfer des Nationalsozialismus in Heilbronn\]({{ site.baseurl }}/uploads/2017-01-25-datenbank-opfer-ns.pdf) (Stand: 25.01.2017)
+* [Ausgefüllte Fragebögen zum Schicksal der Juden in Heilbronn](http://projekt.stolpersteine-heilbronn.de/stadtarchiv-heilbronn-d009-25-franke-frageboegen.pdf), versandt 1960 von Hans Franke (Stadtarchiv Heilbronn D009-25)
 
-Stadtarchiv Heilbronn B011-73: \[Auszug aus der Lohnsteuerkartei 1940\]({{ site.baseurl }}/uploads/stadtarchiv-heilbronn-b011-73.pdf)
 
-Stadtarchiv Heilbronn B019-153: \[Ratsschreiberei, "Judenliste" 07-1934/1939\]({{ site.baseurl }}/uploads/stadtarchiv-heilbronn-b019-153-ratschreiberei-judenlisten-07-1934-1939.pdf) und die [Erschließung der sogenannten "Judenliste"](http://stolpersteine-heilbronn.de/B019-153-judenlisten-auswertung.pdf)
+* [Namensregister zu den von Hans Franke erhobenen Fragebögen](http://projekt.stolpersteine-heilbronn.de/register-stadtarchiv-heilbronn-d009-25-franke-frageboegen.pdf)  (Stadtarchiv Heilbronn D009-25)
 
-Text der \["Verordnung über den Einsatz des jüdischen Vermögens"\]({{ site.baseurl }}/uploads/vo-juedisches-vermoegen.pdf) vom 3. Dezember 1938
 
-Staatsarchiv Ludwigsburg: [Bestand K26 Finanzamt Heilbronn: Steuerakten jüdischer Bürger](https://www2.landesarchiv-bw.de/ofs21/olf/struktur.php?bestand=19302)
+* [HEUSS - Datenbank des Stadtarchivs Heilbronn](http://heuss.stadtarchiv-heilbronn.de/)
 
-Hauptstaatsarchiv Stuttgart - Filme der jüdischen Standesregister:\
-[http://www.landesarchiv-bw.de/plink/?f=1-445312](http://www.landesarchiv-bw.de/plink/?f=1-445312)  (J 386 Bü 257 Heilbronn Familienbuch 1812-1938; Register S. 522-542, 550)\
-[http://www.landesarchiv-bw.de/plink/?f=1-445308](http://www.landesarchiv-bw.de/plink/?f=1-445308) (J 386 Bü 253 Heilbronn Geburtsregister 1863-1927)
 
-Bundesarchiv Berlin, [Gedenkbuch des Bundesarchivs für die Opfer der nationalsozialistischen Judenverfolgung in Deutschland (1933-1945)](http://www.bundesarchiv.de/gedenkbuch/)
+* [Stadtarchiv Heilbronn: Opfer des Nationalsozialismus in Heilbronn](http://projekt.stolpersteine-heilbronn.de/2017-01-25-datenbank-opfer-ns.pdf) (Stand: 25.01.2017)
 
-Internationaler Suchdienst Arolsen, [Datenbank](https://digitalcollections.its-arolsen.org/)
 
-Datenbank zu den Opfern in Theresienstadt: [http://www.holocaust.cz/de/main](http://www.holocaust.cz/de/main)
+* Stadtarchiv Heilbronn B011-73: [Auszug aus der Lohnsteuerkartei 1940](http://projekt.stolpersteine-heilbronn.de/stadtarchiv-heilbronn-b011-73.pdf)
 
-Datenbank der Gedenkstätte Yad Vashem, Israel: [http://db.yadvashem.org/names/search.html?language=de](http://db.yadvashem.org/names/search.html?language=de)
 
-Das Stolperstein-Projekt von Gunter Demnig: [http://www.stolpersteine.com/](http://www.stolpersteine.com/)
+* Stadtarchiv Heilbronn B019-153: [Ratsschreiberei, "Judenliste" 07-1934/1939](http://projekt.stolpersteine-heilbronn.de/uploads/stadtarchiv-heilbronn-b019-153-ratschreiberei-judenlisten-07-1934-1939.pdf) und die [Erschließung der sogenannten "Judenliste"](http://projekt.stolpersteine-heilbronn.de/B019-153-judenlisten-auswertung.pdf)
+
+
+* Text der ["Verordnung über den Einsatz des jüdischen Vermögens"](http://projekt.stolpersteine-heilbronn.de/vo-juedisches-vermoegen.pdf) vom 3. Dezember 1938
+
+
+* Staatsarchiv Ludwigsburg: [Bestand K26 Finanzamt Heilbronn: Steuerakten jüdischer Bürger](https://www2.landesarchiv-bw.de/ofs21/olf/struktur.php?bestand=19302)
+
+
+* Hauptstaatsarchiv Stuttgart - Filme der jüdischen Standesregister:\
+  [http://www.landesarchiv-bw.de/plink/?f=1-445312](http://www.landesarchiv-bw.de/plink/?f=1-445312)  (J 386 Bü 257 Heilbronn Familienbuch 1812-1938; Register S. 522-542, 550)\
+  [http://www.landesarchiv-bw.de/plink/?f=1-445308](http://www.landesarchiv-bw.de/plink/?f=1-445308) (J 386 Bü 253 Heilbronn Geburtsregister 1863-1927)
+
+
+* Bundesarchiv Berlin, [Gedenkbuch des Bundesarchivs für die Opfer der nationalsozialistischen Judenverfolgung in Deutschland (1933-1945)](http://www.bundesarchiv.de/gedenkbuch/)
+
+
+* Internationaler Suchdienst Arolsen, [Datenbank](https://digitalcollections.its-arolsen.org/)
+
+
+* Datenbank zu den Opfern in Theresienstadt: [http://www.holocaust.cz/de/main](http://www.holocaust.cz/de/main)
+
+
+* Datenbank der Gedenkstätte Yad Vashem, Israel: [http://db.yadvashem.org/names/search.html?language=de](http://db.yadvashem.org/names/search.html?language=de)
+
+
+* Das Stolperstein-Projekt von Gunter Demnig: [http://www.stolpersteine.com/](http://www.stolpersteine.com/)
 
 ---
 
