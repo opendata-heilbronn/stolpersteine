@@ -6,9 +6,9 @@ layout: page
 
 ## Links und Materialien
 
-\[Checkliste für die Stolperstein-Recherche\](http://projekt.stolpersteine-heilbronn.de/checkliste-stolperstein-recherchen.pdf)
+[Checkliste für die Stolperstein-Recherche](http://projekt.stolpersteine-heilbronn.de/checkliste-stolperstein-recherchen.pdf)
 
-\[Liste der sogenannten "Judenhäuser" in Heilbronn\](http://projekt.stolpersteine-heilbronn.de/stadta-heilbronn-liste-judenhaeuser.pdf)
+[Liste der sogenannten "Judenhäuser" in Heilbronn](http://projekt.stolpersteine-heilbronn.de/stadta-heilbronn-liste-judenhaeuser.pdf)
 
 [Hans Franke: Geschichte und Schicksal der Juden in Heilbronn.](https://stadtarchiv.heilbronn.de/fileadmin/daten/stadtarchiv/online-publikationen/03-vr-11-franke-juden-in-heilbronn.pdf)\
 Vom Mittelalter bis zur Zeit der nationalsozialistischen Verfolgungen (1050-1945). 1963.
