@@ -7,11 +7,11 @@ steine:
 - - HIER WAR
   - HINRICHTUNGSORT
   - SCHIESSTAND KÖPFERTAL
-  - FÜR 24 MITGLIEDER DER
+  - FÜR 24 MITGLIEDER
+  - " DER"
   - 'FRANZÖSISCHEN '
   - WIDERSTANDSGRUPPE
-  - "'RESEAU ALLIANCE'"
-  - " "
+  - "   'RESEAU ALLIANCE'"
 x: 49.12783
 y: 9.25698
 audio: "/audio/waldweg-koepfertal.mp3"
