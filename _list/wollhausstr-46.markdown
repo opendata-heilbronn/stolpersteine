@@ -5,14 +5,13 @@ names: Lina Wollenberger
 paten: Helena Holzmeier-Kasperski, Sarwar Mustafa und Raham Naderi (Robert-Mayer-Gymnasium
   Heilbronn)
 steine:
-- - LINA WOLLENBERGER
-  - GEB. STEIN
-  - "    "
+- - HIER WOHNTE
+  - LINA WOLLENBERGER
+  - "    GEB. STEIN"
   - JG. 1866
   - ZWANGSEINGEWIESEN 1939
   - ALTERSHEIM HERRLINGEN
-  - TOT 27.3.1940
-  - "   "
+  - 'TOT 27.3.1940   '
 x: 49.138877
 y: 9.226311
 ---
