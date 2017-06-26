@@ -11,7 +11,7 @@ steine:
   - 'FRANZÖSISCHEN '
   - WIDERSTANDSGRUPPE
   - "'RESEAU ALLIANCE'"
-  - ORT
+  - " "
 x: 49.12783
 y: 9.25698
 audio: "/audio/waldweg-koepfertal.mp3"
