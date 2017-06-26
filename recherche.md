@@ -12,9 +12,9 @@ layout: page
 [Liste der sogenannten "Judenhäuser" in Heilbronn](http://projekt.stolpersteine-heilbronn.de/stadta-heilbronn-liste-judenhaeuser.pdf)
 
 
-[Hans Franke: Geschichte und Schicksal der Juden in Heilbronn.](https://stadtarchiv.heilbronn.de/fileadmin/daten/stadtarchiv/online-publikationen/03-vr-11-franke-juden-in-heilbronn.pdf)\
-  Vom Mittelalter bis zur Zeit der nationalsozialistischen Verfolgungen (1050-1945). 1963.
-  \(Veröffentlichungen des Archivs der Stadt Heilbronn 11)
+[Hans Franke: Geschichte und Schicksal der Juden in Heilbronn.](https://stadtarchiv.heilbronn.de/fileadmin/daten/stadtarchiv/online-publikationen/03-vr-11-franke-juden-in-heilbronn.pdf)  
+  Vom Mittelalter bis zur Zeit der nationalsozialistischen Verfolgungen (1050-1945). 1963.  
+  (Veröffentlichungen des Archivs der Stadt Heilbronn 11)
 
 
 [Ausgefüllte Fragebögen zum Schicksal der Juden in Heilbronn](http://projekt.stolpersteine-heilbronn.de/stadtarchiv-heilbronn-d009-25-franke-frageboegen.pdf), versandt 1960 von Hans Franke (Stadtarchiv Heilbronn D009-25)
@@ -41,8 +41,8 @@ Text der ["Verordnung über den Einsatz des jüdischen Vermögens"](http://proje
 Staatsarchiv Ludwigsburg: [Bestand K26 Finanzamt Heilbronn: Steuerakten jüdischer Bürger](https://www2.landesarchiv-bw.de/ofs21/olf/struktur.php?bestand=19302)
 
 
-Hauptstaatsarchiv Stuttgart - Filme der jüdischen Standesregister:\
-  [http://www.landesarchiv-bw.de/plink/?f=1-445312](http://www.landesarchiv-bw.de/plink/?f=1-445312)  (J 386 Bü 257 Heilbronn Familienbuch 1812-1938; Register S. 522-542, 550)\
+Hauptstaatsarchiv Stuttgart - Filme der jüdischen Standesregister:  
+  [http://www.landesarchiv-bw.de/plink/?f=1-445312](http://www.landesarchiv-bw.de/plink/?f=1-445312)  (J 386 Bü 257 Heilbronn Familienbuch 1812-1938; Register S. 522-542, 550)  
   [http://www.landesarchiv-bw.de/plink/?f=1-445308](http://www.landesarchiv-bw.de/plink/?f=1-445308) (J 386 Bü 253 Heilbronn Geburtsregister 1863-1927)
 
 
