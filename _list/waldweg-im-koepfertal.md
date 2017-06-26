@@ -2,13 +2,20 @@
 title: Waldweg am Schießstand im Köpfertal
 date: 2010-04-27 00:00:00 Z
 names: 24 französische Widerstandskämpfer
-layout: item
-steine: 
+steine:
+- HIER WAR
+- HINRICHTUNGSORT
+- SCHIESSTAND KÖPFERTAL
+- FÜR 24 MITGLIEDER DER
+- 'FRANZÖSISCHEN '
+- WIDERSTANDSGRUPPE
+- "'RESEAU ALLIANCE'"
+x: 49.12783
+y: 9.25698
 audio: "/audio/waldweg-koepfertal.mp3"
 images:
 - "/uploads/waldweg-koepfertal-jjws.jpg"
-x: 49.12783
-y: 9.25698
+layout: item
 ---
 
 In den Jahren des Zweiten Weltkriegs, als die deutsche Wehrmacht Frankreich besetzte, wurde es für eine Gruppe Franzosen zur Pflicht, sich der Besatzungsmacht entgegenzustellen. Georges Loustaunau-Lacau gründete 1940 ein Netzwerk, das den Besatzern Widerstand leisten sollte. Nicht mit der Waffe in der Hand wurde gekämpft, sondern mittels Informationsbeschaffung für den britischen Geheimdienst half die „Reseau Alliance“ – das Netzwerk Allianz – Einsätze gegen die Wehrmacht vorzubereiten.
