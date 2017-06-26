@@ -17,11 +17,9 @@ x: 49.138877
 y: 9.226311
 ---
 
-Lina Wollenberger (geb. Stein) wurde am 5. Dezember 1866 in Obergimpern, einem damals badischen Dorf, geboren; sie hatte zwei Geschwister.
+Lina Wollenberger (geb. Stein) wurde am 5. Dezember 1866 in Obergimpern, einem damals badischen Dorf, geboren; sie hatte zwei Geschwister. Sie heiratete den 1864 geborenen Hermann Wollenberger, der 1888 eine Weinbrennerei und Likörfabrik in der damaligen Äußeren Rosenbergstraße 17 in Heilbronn gründete (heute Rosenbergstraße). 
 
-Sie heiratete den 1864 geborenen Hermann Wollenberger, der 1888 eine Weinbrennerei und Likörfabrik in der damaligen Äußeren Rosenbergstraße 17 in Heilbronn gründete (heute Rosenbergstraße).
-
-Das Ehepaar lebte in der Wollhausstraße 46; aus der Ehe gingen vier Kinder hervor; ihnen gelang teilweise die Emigration.
+Seit 1930 befand sich die Firma im neu erworbenen Anwesen Wollhausstraße 46, wo die Familie auch wohnte. Aus der Ehe gingen vier Kinder hervor; ihnen gelang teilweise die Emigration. 
 
 Hermann Wollenberger starb am 24. März 1932 in Heilbronn; er wurde auf dem jüdischen Friedhof im Breitenloch bestattet. Seine Witwe wurde am 1. August 1939 in das jüdische Altersheim in Herrlingen deportiert, wo sie am 27. März 1940 im Alter von 74 Jahren gestorben ist. Auch sie wurde auf dem jüdischen Friedhof im Breitenloch begraben.
 
