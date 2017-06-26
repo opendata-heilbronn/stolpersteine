@@ -14,7 +14,7 @@ layout: page
 Vom Mittelalter bis zur Zeit der nationalsozialistischen Verfolgungen (1050-1945). 1963. 
 (Veröffentlichungen des Archivs der Stadt Heilbronn 11)
  
-[Ausgefüllte Fragebögen zum Schicksal der Juden in Heilbronn](http://stolpersteine-heilbronn.de/stadtarchiv-heilbronn-d009-25-franke-frageboegen.pdf), versandt 1960 von Hans Franke (Stadtarchiv Heilbronn D009-25)
+[Ausgefüllte Fragebögen zum Schicksal der Juden in Heilbronn]({{ site.baseurl }}/uploads/stadtarchiv-heilbronn-d009-25-franke-frageboegen.pdf), versandt 1960 von Hans Franke (Stadtarchiv Heilbronn D009-25)
  
 [Namensregister zu den von Hans Franke erhobenen Fragebögen]({{ site.baseurl }}/uploads/register-stadtarchiv-heilbronn-d009-25-franke-frageboegen.pdf) (Stadtarchiv Heilbronn D009-25)
 
