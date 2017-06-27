@@ -1,14 +1,13 @@
 ---
-title: Cäcilienstr. 60
+title: Cäcilienstraße 60
 date: 2015-05-20 00:00:00 Z
 position: 8
 names: Adolf, Pauline und Heinz Einstein
-layout: item
 steine:
 - - HIER WOHNTE
   - ADOLF EINSTEIN
-  - ''
-  - ''
+  - 
+  - 
   - JG. 1875
   - ZWANGSUMZUG 1941
   - ALTENHEIM HEGGBACH
@@ -17,27 +16,27 @@ steine:
   - AUSCHWITZ
 - - HIER WOHNTE
   - PAULINE EINSTEIN
-  - ''
+  - 
   - GEB. DREYFUSS
   - JG. 1884
   - FLUCHT 1939
   - SCHWEIZ
-  - ''
-  - ''
-  - ''
+  - 
+  - 
+  - 
 - - HIER WOHNTE
   - HEINZ EINSTEIN
-  - ''
-  - ''
+  - 
+  - 
   - JG. 1920
   - FLUCHT 1938
   - USA
-  - ''
-  - ''
-  - ''
-images: []
+  - 
+  - 
+  - 
 x: 49.1373803
 y: 9.220194399999968
+layout: item
 ---
 
 Adolf Einstein wurde am 13. April 1875 in Fellheim bei Memmingen geboren. Bevor er nach Heilbronn kam, lebte er in Öhringen, wo er seine Frau Pauline, geb. Dreyfuss, heiratete und wo 1920 ihr Sohn Heinz geboren wurde.
