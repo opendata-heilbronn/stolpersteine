@@ -1,14 +1,13 @@
 ---
-title: Schäfergasse 15 (früher Lammgasse 39)
+title: Schäfergasse 15 (früher Haus Lammgasse 39)
 date: 2014-06-24 00:00:00 Z
 position: 34
 names: Sofie Stern, geborene Weber, und Julius Stern
-layout: item
 steine:
 - - HIER WOHNTE
   - JULIUS STERN
-  - ''
-  - ''
+  - 
+  - 
   - JG. 1900
   - SEIT 1941 VERSCHIEDENE
   - HEILANSTALTEN
@@ -17,17 +16,18 @@ steine:
   - ERMORDET 28.6.1944
 - - HIER WOHNTE
   - SOFIE STERN
-  - ''
+  - 
   - GEB. WEBER
   - JG. 1901
   - GEDEMÜTIGT / ENTRECHTET
   - FLUCHT IN DEN TOD
   - 24.6.1938
-  - ''
-  - ''
-audio: "/audio/schaefergasse-15.mp3"
+  - 
+  - 
 x: 49.1453076
 y: 9.219133100000022
+audio: "/audio/schaefergasse-15.mp3"
+layout: item
 ---
 
 Julius Stern, geboren 1900 in Heilbronn, lebte vor seiner Heirat bei seinen Eltern David und Wilhelmine Laura Stern, geborene Gärttner, in der Karlstraße 85. Er war eines von sechs Kindern des Ehepaars – der Vater war Jude, die Mutter evangelisch.
