@@ -1,7 +1,7 @@
 ---
 title: Sichererstraße 9 (Hahn)
 date: 2013-04-12 00:00:00 Z
-position: 20
+position: 21
 names: Mina Hahn, geborene Seligmann, Albert, Artur und Hans Jakob Hahn
 steine:
 - - HIER WOHNTE
