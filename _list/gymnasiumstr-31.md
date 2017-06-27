@@ -1,7 +1,7 @@
 ---
 title: Gymnasiumstraße 31
 date: 2014-06-24 00:00:00 Z
-position: 6
+position: 7
 names: Rosa und Max Pincus
 steine:
 - - HIER WOHNTE
