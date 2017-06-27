@@ -1,7 +1,7 @@
 ---
 title: Bahnhofstraße 11
 date: 2014-06-24 00:00:00 Z
-position: 1
+position: 2
 names: Emma Vogel
 layout: item
 steine:
