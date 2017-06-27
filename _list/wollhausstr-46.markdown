@@ -1,7 +1,7 @@
 ---
 title: Wollhausstr. 46
 date: 2017-06-27 09:00:00 Z
-position: 50
+position: 51
 names: Lina Wollenberger
 paten: Helena Holzmeier-Kasperski, Sarwar Mustafa und Raham Naderi (Robert-Mayer-Gymnasium
   Heilbronn)
