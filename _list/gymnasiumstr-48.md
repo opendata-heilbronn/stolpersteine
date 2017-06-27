@@ -1,22 +1,22 @@
 ---
-title: Gymnasiumstr. 48
+title: Gymnasiumstraße 48
 date: 2015-05-20 00:00:00 Z
 position: 17
 names: Bertha Sternfeld
-layout: item
 steine:
 - - HIER WOHNTE
   - BERTHA STERNFELD
-  - ''
+  - 
   - GEB. IGERSHEIMER
   - JG. 1877
   - DEPORTIERT 1942
   - ERMORDET IN
   - AUSCHWITZ
-  - ''
-  - ''
+  - 
+  - 
 x: 49.1408135
 y: 9.224754699999949
+layout: item
 ---
 
 Bertha Sternfeld wurde als Bertha Igersheimer am 8. März 1877 als Kind von Hermann Igersheimer und Hanna Levi in Heilbronn geboren. Sie hatte zwei ältere Geschwister, Sigmund und Ida, und einen jüngeren Bruder Otto – er war von 1930 bis zu seiner von den Nazis erzwungenen Absetzung Direktor des Heilbronner Bankvereins.
