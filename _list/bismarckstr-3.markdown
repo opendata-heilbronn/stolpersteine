@@ -31,7 +31,7 @@ y: 9.2249
 
 Die Wurzeln der Familie Krips lassen sich bis in das 18. Jahrhundert zurückverfolgen. Als ältester Verwandter ist Isaak Krips bekannt; er wurde 1793 in Leeuwarden in den Niederlanden geboren.
 
-Der Vater von Regine Krips, Hermann Krips, war der Sohn des Schneiders Moses Elias Krips und seiner Frau Freyda Nass; Regines Mutter Karoline, geborene Westheimer, wurde in Menzingen geboren und stammt aus einer Kaufmannsfamilie. Die Eltern heirateten 1874 in Brüssel.
+Der Vater von Regine Krips, Hermann Krips, war der Sohn des Schneiders Moses Elias Krips und seiner Frau Freyda Nass; Regines Mutter Karoline, geborene Westheimer, wurde in Menzingen geboren und stammt aus einer Kaufmannsfamilie. Die Eltern heirateten 1874 in Bruchsal.
 
 Der Vater Hermann Krips lebte schon seit 1872 in Heilbronn, wo er 1910 verstorben ist. Die Mutter Karoline folgte ihm am 5. September 1922 ebenfalls in Heilbronn.
 
