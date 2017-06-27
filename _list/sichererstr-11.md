@@ -1,7 +1,7 @@
 ---
 title: Sichererstraße 11 (heute Sichererstr. 9)
 date: 2016-06-29 00:00:00 Z
-position: 49
+position: 51
 names: Therese Böhm
 layout: item
 steine:
