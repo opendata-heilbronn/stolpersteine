@@ -1,5 +1,5 @@
 ---
-title: Hundsbergstr. 41
+title: Hundsbergstraße 41/1
 date: 2017-06-27 09:00:00 Z
 position: 20
 names: Emma Pakscher und Alice Pfleiderer
