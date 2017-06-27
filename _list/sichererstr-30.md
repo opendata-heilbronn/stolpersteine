@@ -1,7 +1,7 @@
 ---
 title: Sichererstr. 30
 date: 2015-05-20 00:00:00 Z
-position: 39
+position: 40
 names: Julie Herz
 layout: item
 steine:

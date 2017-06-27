@@ -1,7 +1,7 @@
 ---
 title: Waldweg am Schießstand im Köpfertal
 date: 2010-04-27 00:00:00 Z
-position: 40
+position: 41
 names: 24 französische Widerstandskämpfer
 paten: Schüler der Johann-Jakob-Widmann-Schule Heilbronn
 steine:

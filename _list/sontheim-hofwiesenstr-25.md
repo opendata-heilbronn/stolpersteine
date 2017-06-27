@@ -1,7 +1,7 @@
 ---
 title: Heilbronn-Sontheim, Hofwiesenstraße 25
 date: 2016-06-29 00:00:00 Z
-position: 50
+position: 51
 names: Flora Rosa, Arthur und Erich Kirchheimer
 layout: item
 steine:
