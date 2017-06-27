@@ -1,5 +1,5 @@
 ---
-title: Bismarckstr. 3/1
+title: Bismarckstraße 3/1
 date: 2017-06-27 09:00:00 Z
 position: 6
 names: Regine Krips und Flora Reis
