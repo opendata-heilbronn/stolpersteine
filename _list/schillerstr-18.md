@@ -1,7 +1,7 @@
 ---
 title: Schillerstraße 18
 date: 2013-04-12 00:00:00 Z
-position: 23
+position: 24
 names: Friederike Kern, geborene Reis, Aron und Hugo Kern
 layout: item
 steine:
