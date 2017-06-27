@@ -1,7 +1,7 @@
 ---
 title: Frankfurter Str. 9
 date: 2015-09-17 00:00:00 Z
-position: 11
+position: 10
 names: Babette Baer, Sofie Falk, Lina und Kurt Oppenheimer
 layout: item
 steine:

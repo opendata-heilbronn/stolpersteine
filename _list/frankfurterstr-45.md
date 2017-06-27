@@ -1,7 +1,7 @@
 ---
 title: Frankfurter Str. 45
 date: 2015-09-17 00:00:00 Z
-position: 12
+position: 11
 names: Resi, Leopold, Alfred und Berta Traub
 layout: item
 steine:

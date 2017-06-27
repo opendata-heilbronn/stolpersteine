@@ -1,7 +1,7 @@
 ---
 title: Rollwagstr. 6 (früher Haus Bergstr. 2)
 date: 2015-09-17 00:00:00 Z
-position: 6
+position: 31
 names: Clementine und Hermann Rosenthal
 steine:
 - - HIER WOHNTE
