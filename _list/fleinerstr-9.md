@@ -1,25 +1,25 @@
 ---
-title: Fleiner Str. 9
+title: Fleiner Straße 9
 date: 2015-05-20 00:00:00 Z
 position: 9
 names: Aron Eliaschow
-layout: item
 steine:
 - - HIER WIRKTE
   - ARON ELIASCHOW
-  - ''
+  - 
   - GEN. ADOLF ELSNER
   - JG. 1876
   - DIFFAMIERT / GEDEMÜTIGT
   - ENTRECHTET
   - FLUCHT IN DEN TOD
   - 18.6.1933
-  - ''
+  - 
+x: 49.13988390000001
+y: 9.218782099999999
 images:
 - "/uploads/elsner-adolf.jpg"
 - "/uploads/elsner-adolf-1933-04-01.jpg"
-x: 49.13988390000001
-y: 9.218782099999999
+layout: item
 ---
 
 Aron Eliaschow wurde am 12. August 1876 als Sohn des Holzhändlers und Geschäftsmanns Salomon Eliaschow und seiner Frau Rebekka, geborene Frohmann, in Königsberg in Preußen geboren; er kam in den Jahren vor dem Ersten Weltkrieg nach Heilbronn, wo er als Textilkaufmann im Kaufhaus Landauer arbeitete und schließlich württembergischer Staatsbürger wurde. Eliaschow nannte sich seit etwa 1914 Adolf Elsner, ohne die Namensänderung jemals formal anerkennen zu lassen.
