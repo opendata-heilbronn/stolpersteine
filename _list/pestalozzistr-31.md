@@ -1,7 +1,7 @@
 ---
 title: Pestalozzistraße 31
 date: 2012-04-17 00:00:00 Z
-position: 19
+position: 20
 names: Willi Fröhle
 layout: item
 steine:

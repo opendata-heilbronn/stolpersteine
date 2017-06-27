@@ -1,7 +1,7 @@
 ---
 title: Gymnasiumstr. 48
 date: 2015-05-20 00:00:00 Z
-position: 12
+position: 13
 names: Bertha Sternfeld
 layout: item
 steine:

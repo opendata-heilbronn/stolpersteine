@@ -1,7 +1,7 @@
 ---
 title: Gartenstraße 50
 date: 2009-05-27 00:00:00 Z
-position: 9
+position: 10
 names: Siegfried Gumbel
 steine:
 - - HIER WOHNTE
