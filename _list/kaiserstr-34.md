@@ -1,7 +1,7 @@
 ---
 title: Kaiserstraße 34
 date: 2009-05-27 00:00:00 Z
-position: 12
+position: 13
 names: Otto Igersheimer
 steine:
 - - HIER WIRKTE
