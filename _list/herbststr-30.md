@@ -1,7 +1,7 @@
 ---
 title: Herbststraße 30
 date: 2011-04-15 00:00:00 Z
-position: 16
+position: 17
 names: Gottlob Feidengruber
 layout: item
 steine:
