@@ -1,7 +1,7 @@
 ---
 title: Wollhausstraße 40
 date: 2011-04-15 00:00:00 Z
-position: 31
+position: 32
 names: Rita Kahn, geborene Meyer, und Karl Kahn
 layout: item
 steine:
