@@ -1,7 +1,7 @@
 ---
 title: Sichererstraße 22
 date: 2011-04-15 00:00:00 Z
-position: 34
+position: 35
 names: Hermann Baden
 layout: item
 steine:

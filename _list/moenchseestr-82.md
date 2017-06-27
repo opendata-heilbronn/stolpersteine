@@ -1,7 +1,7 @@
 ---
 title: Mönchseestraße 82
 date: 2012-04-17 00:00:00 Z
-position: 23
+position: 24
 names: Bertha Eisenmann, geborene Kiefe, Stefanie und Fritz Bernhard Eisenmann
 layout: item
 steine:
