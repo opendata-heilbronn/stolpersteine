@@ -1,5 +1,5 @@
 ---
-title: Gartenstr. 31
+title: Gartenstraße 31
 date: 2017-06-27 09:00:00 Z
 position: 12
 names: 'Clothilde, Ida und Simon Schlesinger '
