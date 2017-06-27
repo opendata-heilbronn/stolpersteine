@@ -1,5 +1,5 @@
 ---
-title: Karlstraße / Glockengießerhof (früher Haus Nr. 13)
+title: Karlstraße / Glockengießerhof (früher Karlstraße 13)
 date: 2011-04-15 00:00:00 Z
 position: 22
 names: Elsa Schloss, geborene Lemberger, und Siegfried Schloss
