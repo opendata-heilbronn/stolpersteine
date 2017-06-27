@@ -1,13 +1,12 @@
 ---
-title: Sichererstraße 11 (heute Sichererstr. 9)
+title: Sichererstraße 9 (früher Sichererstraße 11)
 date: 2016-06-29 00:00:00 Z
 position: 39
 names: Therese Böhm
-layout: item
 steine:
 - - HIER WOHNTE
   - THERESE BÖHM
-  - ''
+  - 
   - GEB. SOLINGER
   - JG. 1877
   - DEPORTIERT 1942
@@ -15,10 +14,11 @@ steine:
   - ZWANGSARBEIT
   - OSSOWA
   - ERMORDET 15.9.1942
-images:
-- "/uploads/47-suelmerstrasse-59-12-1926-sm.jpg"
 x: 49.1485272
 y: 9.220687099999964
+images:
+- "/uploads/47-suelmerstrasse-59-12-1926-sm.jpg"
+layout: item
 ---
 
 Therese Böhm wurde in Goldbach bei Aschaffenburg geboren. Ab 1905 ist sie als Besitzerin des Hauses in der Sülmerstraße 59 eingetragen, ihr Mann Eduard war im Jahr 1900 nach Heilbronn gezogen. In der Sülmerstraße befand sich seit dem Jahr 1905 auch das Kleidergeschäft „Süßkinds Kleidermagazin“, welches wohl eine Filiale eines Stuttgarter Herrenausstatter-Geschäfts von Alfred Süßkind war. Ab dem Jahr 1914 wohnte das Ehepaar in der Sichererstraße 11, ihr letzter freiwillig gewählter Wohnsitz.
