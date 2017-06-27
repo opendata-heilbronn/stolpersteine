@@ -1,6 +1,7 @@
 ---
 title: Schillerstraße 48
 date: 2010-04-27 00:00:00 Z
+position: 4
 names: Franziska Heilbronner, geborene Rosenstein, Berthold Heilbronner und Friederike
   Heilbronner, geborene Elsass
 layout: item

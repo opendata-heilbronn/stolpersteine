@@ -1,6 +1,7 @@
 ---
 title: Allee 9
 date: 2010-04-27 00:00:00 Z
+position: 0
 names: Klara Holwein
 steine:
 - - HIER WOHNTE

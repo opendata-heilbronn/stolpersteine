@@ -1,6 +1,7 @@
 ---
 title: Weststraße 45
 date: 2014-06-24 00:00:00 Z
+position: 27
 names: Julius und Eugenie Reuter, geborene Sinsheimer, und Moritz Reuter
 layout: item
 steine:

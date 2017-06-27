@@ -1,6 +1,7 @@
 ---
 title: Sichererstr. 9 (Mandellaub)
 date: 2017-06-27 09:00:00 Z
+position: 52
 names: Adele, Silvia, Simon, Gisela, Markus und Eugen Mandellaub
 paten: Dr. Gerhard Schneider / Freundeskreis Synagoge Heilbronn e.V.
 steine:
