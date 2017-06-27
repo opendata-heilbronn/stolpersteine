@@ -1,7 +1,7 @@
 ---
 title: Innsbrucker Straße 31
 date: 2010-04-27 00:00:00 Z
-position: 10
+position: 11
 names: Frida Stein, geborene Wollenberger, Sofie Flora Henle, geborene Stein, Moritz
   und Julius Henle
 layout: item
