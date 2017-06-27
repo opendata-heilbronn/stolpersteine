@@ -1,7 +1,7 @@
 ---
 title: Cäcilienstr. 60
 date: 2015-05-20 00:00:00 Z
-position: 30
+position: 6
 names: Adolf, Pauline und Heinz Einstein
 layout: item
 steine:
