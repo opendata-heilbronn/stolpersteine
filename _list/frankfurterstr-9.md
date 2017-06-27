@@ -1,30 +1,29 @@
 ---
-title: Frankfurter Str. 9
+title: Frankfurter Straße 9
 date: 2015-09-17 00:00:00 Z
 position: 10
 names: Babette Baer, Sofie Falk, Lina und Kurt Oppenheimer
-layout: item
 steine:
 - - HIER WOHNTE
   - BABETTE BAER
-  - ''
+  - 
   - GEB. ADLER
   - JG. 1860
   - DEPORTIERT 1942
   - THERESIENSTADT
   - ERMORDET 28.4.1943
-  - ''
-  - ''
+  - 
+  - 
 - - HIER WOHNTE
   - SOFIE FALK
-  - ''
-  - ''
+  - 
+  - 
   - JG. 1881
   - DEPORTIERT 1941
   - ERMORDET IN
   - RIGA
-  - ''
-  - ''
+  - 
+  - 
 - - HIER WOHNTE
   - LINA
   - OPPENHEIMER
@@ -33,21 +32,21 @@ steine:
   - DEPORTIERT 1941
   - ERMORDET IN
   - RIGA
-  - ''
-  - ''
+  - 
+  - 
 - - HIER WOHNTE
   - KURT
   - OPPENHEIMER
-  - ''
+  - 
   - JG. 1911
   - FLUCHT 1936
   - USA
-  - ''
-  - ''
-  - ''
-images: 
+  - 
+  - 
+  - 
 x: 49.1415377
 y: 9.21375420000004
+layout: item
 ---
 
 Das Haus Frankfurter Str. 9 gehörte um die Jahrhundertwende dem jüdischen Kaufmann Hermann Baer, der hier die Häute-, Fell- und Lederhandlung Adler & Baer betrieb, die von seinem Schwiegervater gegründet worden war. Auch Schwager Jakob Adler war in der Firma. Seine Ehefrau Babette Baer (oder Bär), geb. Adler, war am 5. Mai 1860 als zweites Kind der jüdischen Eheleute Josef und Hanna (oder Hanchen) Adler in Obergimpern geboren worden. 1868 zog die Familie nach Heilbronn; Babette heiratete am 12. Mai 1880 den 12 Jahre älteren Hermann Baer aus Siegelsbach. Die Ehe wurde in Würzburg geschlossen, das Ehepaar lebte aber in Heilbronn. Babette Baer war Hausfrau, die Ehe blieb kinderlos.
