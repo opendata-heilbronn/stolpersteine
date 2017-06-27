@@ -1,9 +1,8 @@
 ---
-title: Bergstr. 2 (heute Haus Rollwagstr. 6)
+title: Rollwagstr. 6 (früher Haus Bergstr. 2)
 date: 2015-09-17 00:00:00 Z
 position: 6
 names: Clementine und Hermann Rosenthal
-layout: item
 steine:
 - - HIER WOHNTE
   - CLEMENTINE
@@ -13,21 +12,21 @@ steine:
   - DEPORTIERT 1942
   - THERESIENSTADT
   - ERMORDET 21.4.1943
-  - ''
-  - ''
+  - 
+  - 
 - - HIER WOHNTE
   - HERMANN
   - ROSENTHAL
-  - ''
+  - 
   - JG. 1873
   - DEPORTIERT 1942
   - THERESIENSTADT
   - ERMORDET 8.12.1943
-  - ''
-  - ''
-images: []
+  - 
+  - 
 x: 49.1388024
 y: 9.216561299999967
+layout: item
 ---
 
 „Dabei müssen wir sicherstellen, dass dieses Gedenken nicht zu einem kalten Ritual verkümmert, sondern die Herzen der Menschen und der zukünftigen Generationen erreicht.“ 
