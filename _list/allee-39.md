@@ -1,7 +1,7 @@
 ---
 title: Allee 39
 date: 2015-05-20 00:00:00 Z
-position: 28
+position: 29
 names: Rebekka Simsohn und Hermann Grünebaum
 layout: item
 steine:

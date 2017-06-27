@@ -1,7 +1,7 @@
 ---
 title: Allee 57
 date: 2015-05-20 00:00:00 Z
-position: 29
+position: 1
 names: Klara und Kurt Asch
 layout: item
 steine:

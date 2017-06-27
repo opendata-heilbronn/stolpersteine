@@ -1,7 +1,7 @@
 ---
 title: Heilbronn-Sontheim, Deinenbachstraße 5
 date: 2012-04-17 00:00:00 Z
-position: 21
+position: 22
 names: Gitta Strauß, geborene Hermann, Emil, Julius und Selma Strauß
 layout: item
 steine:

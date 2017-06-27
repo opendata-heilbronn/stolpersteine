@@ -1,7 +1,7 @@
 ---
 title: Oststraße 42
 date: 2013-04-12 00:00:00 Z
-position: 11
+position: 12
 names: Hedwig Eisig, geborene Strauss
 layout: item
 steine:
