@@ -1,7 +1,7 @@
 ---
 title: Heilbronn-Böckingen, Klingenberger Straße 74
 date: 2013-04-12 00:00:00 Z
-position: 18
+position: 19
 names: Ludwig Essinger
 layout: item
 steine:
