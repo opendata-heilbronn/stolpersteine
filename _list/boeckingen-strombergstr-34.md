@@ -1,7 +1,7 @@
 ---
 title: Heilbronn-Böckingen, Strombergstraße 34 (früher Kurze Straße)
 date: 2016-06-29 00:00:00 Z
-position: 38
+position: 39
 names: Lina Arnold
 layout: item
 steine:

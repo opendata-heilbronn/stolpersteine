@@ -1,7 +1,7 @@
 ---
 title: Große Bahngasse (früher Große Nägelinsgasse 9)
 date: 2016-06-29 00:00:00 Z
-position: 45
+position: 46
 names: Elsa Scheufler
 layout: item
 steine:

@@ -1,7 +1,7 @@
 ---
 title: Allerheiligenstraße (früher Haus Nr. 32)
 date: 2016-06-29 00:00:00 Z
-position: 44
+position: 45
 names: Frida Ledermann
 steine:
 - - HIER WOHNTE
