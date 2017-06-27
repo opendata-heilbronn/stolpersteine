@@ -1,7 +1,7 @@
 ---
 title: Heilbronn-Böckingen, Teichstraße 8
 date: 2013-04-12 00:00:00 Z
-position: 36
+position: 37
 names: Emil Bauer
 layout: item
 steine:

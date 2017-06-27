@@ -1,7 +1,7 @@
 ---
 title: Schäfergasse 15 (früher Lammgasse 39)
 date: 2014-06-24 00:00:00 Z
-position: 25
+position: 26
 names: Sofie Stern, geborene Weber, und Julius Stern
 layout: item
 steine:
