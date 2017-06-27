@@ -1,5 +1,5 @@
 ---
-title: Sichererstr. 9 (Mandellaub)
+title: Sichererstr. 9 (Familie Mandellaub)
 date: 2017-06-27 09:00:00 Z
 position: 38
 names: Adele, Silvia, Simon, Gisela, Markus und Eugen Mandellaub
