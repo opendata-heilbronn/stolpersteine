@@ -1,7 +1,7 @@
 ---
 title: Bahnhofstraße 5
 date: 2014-06-24 00:00:00 Z
-position: 3
+position: 4
 names: Margarete Vollweiler, geborene Tannhauser, und David Vollweiler
 layout: item
 steine:

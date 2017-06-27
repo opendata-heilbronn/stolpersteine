@@ -1,7 +1,7 @@
 ---
 title: Rollwagstraße 12 (früher Innere Rosenbergstraße)
 date: 2016-06-29 00:00:00 Z
-position: 27
+position: 28
 names: Johanna und Robert Adler
 layout: item
 steine:
