@@ -1,7 +1,7 @@
 ---
 title: Fleiner Str. 9
 date: 2015-05-20 00:00:00 Z
-position: 7
+position: 8
 names: Aron Eliaschow
 layout: item
 steine:

@@ -1,7 +1,7 @@
 ---
 title: Mozartstr. 8
 date: 2015-05-20 00:00:00 Z
-position: 34
+position: 35
 names: Salomon, Klara, Martha, Heinz und Herbert Vollweiler
 layout: item
 steine:

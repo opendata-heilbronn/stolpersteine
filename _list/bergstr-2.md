@@ -1,7 +1,7 @@
 ---
 title: Bergstr. 2 (heute Haus Rollwagstr. 6)
 date: 2015-09-17 00:00:00 Z
-position: 36
+position: 5
 names: Clementine und Hermann Rosenthal
 layout: item
 steine:

@@ -1,7 +1,7 @@
 ---
 title: Paulinenstraße 31
 date: 2014-06-24 00:00:00 Z
-position: 30
+position: 31
 names: Fanny, Max und Sally Kirchhausen
 layout: item
 steine:
