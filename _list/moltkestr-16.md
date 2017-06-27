@@ -1,7 +1,7 @@
 ---
 title: Moltkestraße 16
 date: 2016-06-29 00:00:00 Z
-position: 24
+position: 25
 names: Melitta, Hermann und Hans Eduard Eisig
 layout: item
 steine:
