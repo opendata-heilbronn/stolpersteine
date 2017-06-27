@@ -1,7 +1,7 @@
 ---
 title: Heilbronn-Sontheim, Parkstraße 33
 date: 2012-04-17 00:00:00 Z
-position: 31
+position: 32
 names: Julie und Rosalie Israel
 layout: item
 steine:
