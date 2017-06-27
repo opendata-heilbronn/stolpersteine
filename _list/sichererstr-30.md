@@ -1,22 +1,22 @@
 ---
-title: Sichererstr. 30
+title: Sichererstraße 30
 date: 2015-05-20 00:00:00 Z
 position: 41
 names: Julie Herz
-layout: item
 steine:
 - - HIER WOHNTE
   - JULIE HERZ
-  - ''
-  - ''
+  - 
+  - 
   - JG. 1870
   - DEPORTIERT 1942
   - THERESIENSTADT
   - 1942 TREBLINKA
   - ERMORDET
-  - ''
+  - 
 x: 49.1483005
 y: 9.220919699999968
+layout: item
 ---
 
 Julie Herz wurde am 13. Dezember 1870 in Kochendorf geboren. Ihr Vater Nathan Herz war Handelsmann und wurde am 16. September 1833 in Kochendorf geboren. Er starb am 17. Januar 1905 in Heilbronn und ist dort auf dem jüdischen Friedhof beerdigt. Dort liegt auch Julies Mutter Regine Hirsch, geboren am 5. Juni 1838 in Talheim. Sie hatte Julies Vater am 4. November 1862 in Heilbronn geheiratet und starb am 11. Januar 1916.
