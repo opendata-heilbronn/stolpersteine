@@ -1,20 +1,19 @@
 ---
-title: Mozartstr. 8
+title: Mozartstraße 8
 date: 2015-05-20 00:00:00 Z
 position: 27
 names: Salomon, Klara, Martha, Heinz und Herbert Vollweiler
-layout: item
 steine:
 - - HIER WOHNTE
   - SALOMON
   - VOLLWEILER
-  - ''
+  - 
   - JG. 1875
   - DEPORTIERT 1942
   - IZBICA
   - ERMORDET
-  - ''
-  - ''
+  - 
+  - 
 - - HIER WOHNTE
   - KLARA
   - VOLLWEILER
@@ -23,40 +22,41 @@ steine:
   - DEPORTIERT 1942
   - IZBICA
   - ERMORDET
-  - ''
-  - ''
+  - 
+  - 
 - - HIER WOHNTE
   - MARTHA
   - VOLLWEILER
-  - ''
+  - 
   - JG. 1912
   - FLUCHT 1938
   - SCHWEDEN
   - USA
-  - ''
-  - ''
+  - 
+  - 
 - - HIER WOHNTE
   - HEINZ
   - VOLLWEILER
-  - ''
+  - 
   - JG. 1918
   - FLUCHT 1940
   - ENGLAND
-  - ''
-  - ''
-  - ''
+  - 
+  - 
+  - 
 - - HIER WOHNTE
   - HERBERT
   - VOLLWEILER
-  - ''
+  - 
   - JG. 1920
   - FLUCHT 1938
   - USA
-  - ''
-  - ''
-  - ''
+  - 
+  - 
+  - 
 x: 49.1406235
 y: 9.209714200000008
+layout: item
 ---
 
 Salomon Vollweiler stammte aus dem badischen Dorf Berwangen bei Sinsheim, wo im 18. und 19. Jahrhundert eine große jüdische Gemeinde existierte; um 1860 lebten fast 200 Menschen jüdischen Glaubens dort und stellten damit ein Fünftel der Bevölkerung. Wie die meisten jüdischen Einwohner der Landgemeinden verließ auch der 1875 geborene Salomon Vollweiler das Dorf; spätestens seit 1908 ist er als Kaufmann in Heilbronn nachzuweisen.
