@@ -1,5 +1,5 @@
 ---
-title: Wollhausstr. 46
+title: Wollhausstraße 46
 date: 2017-06-27 09:00:00 Z
 position: 45
 names: Lina Wollenberger
@@ -13,6 +13,7 @@ steine:
   - ZWANGSEINGEWIESEN 1939
   - ALTERSHEIM HERRLINGEN
   - 'TOT 27.3.1940   '
+  - ORT
 x: 49.138877
 y: 9.226311
 ---
