@@ -1,7 +1,7 @@
 ---
 title: Bismarckstraße 15
 date: 2012-04-17 00:00:00 Z
-position: 1
+position: 2
 names: Anna Wolf, geborene Eisig, und Hermann Wolf
 layout: item
 steine:
