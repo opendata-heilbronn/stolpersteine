@@ -1,43 +1,42 @@
 ---
-title: Frankfurter Str. 45
+title: Frankfurter Straße 45
 date: 2015-09-17 00:00:00 Z
 position: 11
 names: Resi, Leopold, Alfred und Berta Traub
-layout: item
 steine:
 - - HIER WOHNTE
   - BERTA TRAUB
-  - ''
+  - 
   - GEB. HAHN
   - JG. 1884
   - DEPORTIERT 1941
   - ERMORDET IN
   - RIGA
-  - ''
-  - ''
+  - 
+  - 
 - - HIER WOHNTE
   - LEOPOLD TRAUB
-  - ''
-  - ''
+  - 
+  - 
   - JG. 1879
   - DEPORTIERT 1941
   - ERMORDET IN
   - RIGA
-  - ''
-  - ''
+  - 
+  - 
 - - HIER WOHNTE
   - RESI TRAUB
-  - ''
-  - ''
+  - 
+  - 
   - JG. 1908
   - DEPORTIERT 1941
   - ERMORDET IN
   - RIGA
-  - ''
-  - ''
+  - 
+  - 
 - - HIER WOHNTE
   - ALFRED TRAUB
-  - ''
+  - 
   - JG. 1909
   - EINGEWIESEN 6.6.1940
   - HEILANSTALT ZWIEFALTEN
@@ -45,9 +44,9 @@ steine:
   - HADAMAR
   - ERMORDET 31.3.1941
   - AKTION T4
-images: 
 x: 49.14097
 y: 9.20873000000006
+layout: item
 ---
 
 In der Frankfurter Straße 45 wohnte die Heilbronner Familie Leopold und Berta Traub mit den beiden Kindern Resi und Alfred Traub. Die Familie gehörte zur Jüdischen Gemeinde Heilbronn.
