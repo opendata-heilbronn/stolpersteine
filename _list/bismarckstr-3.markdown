@@ -22,7 +22,7 @@ steine:
   - JG. 1877
   - FLUCHT 1939
   - ENGLAND
-  - 'null'
+  - "   "
   - 
   - 
 x: 49.140274
