@@ -44,7 +44,7 @@ var map_coord = [{{ site.lat }}, {{ site.long }}];
         </div>
       </form>
 <ul class="list">
-    {% assign list = site.list | sort: 'address' %}
+    {% assign list = site.list | sort: 'title' %}
     {% for item in list %}
     <li class="card">
         <div class="card-content">
