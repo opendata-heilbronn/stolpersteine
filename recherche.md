@@ -6,9 +6,9 @@ layout: page
 
 ## Links und Materialien
 
-[1. Checkliste für die Stolperstein-Recherche](http://projekt.stolpersteine-heilbronn.de/checkliste-stolperstein-recherchen.pdf)
+1. [Checkliste für die Stolperstein-Recherche](http://projekt.stolpersteine-heilbronn.de/checkliste-stolperstein-recherchen.pdf)
 
-2\. Liste der Opfer des Nationalsozialismus in Heilbronn [2017-10-05-datenbank-opfer-ns.pdf](/uploads/2017-10-05-datenbank-opfer-ns.pdf) (Stand: 05.10.2017)
+1. Liste der Opfer des Nationalsozialismus in Heilbronn [2017-10-05-datenbank-opfer-ns.pdf](/uploads/2017-10-05-datenbank-opfer-ns.pdf) (Stand: 05.10.2017)
 
 [3. Hans Franke: Geschichte und Schicksal der Juden in Heilbronn.](https://stadtarchiv.heilbronn.de/fileadmin/daten/stadtarchiv/online-publikationen/03-vr-11-franke-juden-in-heilbronn.pdf)\
 Vom Mittelalter bis zur Zeit der nationalsozialistischen Verfolgungen (1050-1945). 1963.\
@@ -24,7 +24,7 @@ Vom Mittelalter bis zur Zeit der nationalsozialistischen Verfolgungen (1050-1945
 
 8\. [HEUSS - Datenbank des Stadtarchivs Heilbronn](http://heuss.stadtarchiv-heilbronn.de/)
 
-# Quellen aus anderen Archiven 
+### Quellen aus anderen Archiven 
 
 * Text der ["Verordnung über den Einsatz des jüdischen Vermögens"](http://projekt.stolpersteine-heilbronn.de/vo-juedisches-vermoegen.pdf) vom 3. Dezember 1938
 
