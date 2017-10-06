@@ -24,7 +24,7 @@ Vom Mittelalter bis zur Zeit der nationalsozialistischen Verfolgungen (1050-1945
 
 8\. [HEUSS - Datenbank des Stadtarchivs Heilbronn](http://heuss.stadtarchiv-heilbronn.de/)
 
-### Quellen aus anderen Archiven 
+**Quellen aus anderen Archiven: **
 
 Text der ["Verordnung über den Einsatz des jüdischen Vermögens"](http://projekt.stolpersteine-heilbronn.de/vo-juedisches-vermoegen.pdf) vom 3. Dezember 1938
 
