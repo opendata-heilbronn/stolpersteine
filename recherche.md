@@ -10,13 +10,13 @@ layout: page
 
 2\. [Liste der Opfer des Nationalsozialismus in Heilbronn](http://projekt.stolpersteine-heilbronn.de/2017-10-05-datenbank-opfer-ns.pdf)  (Stand: 05.10.2017)
 
-[3. Hans Franke: Geschichte und Schicksal der Juden in Heilbronn.](https://stadtarchiv.heilbronn.de/fileadmin/daten/stadtarchiv/online-publikationen/03-vr-11-franke-juden-in-heilbronn.pdf)\
+3\. [Hans Franke: Geschichte und Schicksal der Juden in Heilbronn.](https://stadtarchiv.heilbronn.de/fileadmin/daten/stadtarchiv/online-publikationen/03-vr-11-franke-juden-in-heilbronn.pdf)\
 Vom Mittelalter bis zur Zeit der nationalsozialistischen Verfolgungen (1050-1945). 1963.\
 \(Veröffentlichungen des Archivs der Stadt Heilbronn 11)
 
-[4. Liste der sogenannten "Judenhäuser" in Heilbronn](http://projekt.stolpersteine-heilbronn.de/stadta-heilbronn-liste-judenhaeuser.pdf)
+4\. [Liste der sogenannten "Judenhäuser" in Heilbronn](http://projekt.stolpersteine-heilbronn.de/stadta-heilbronn-liste-judenhaeuser.pdf)
 
-[5. Ausgefüllte Fragebögen zum Schicksal der Juden in Heilbronn](http://projekt.stolpersteine-heilbronn.de/stadtarchiv-heilbronn-d009-25-franke-frageboegen.pdf), versandt 1960 von Hans Franke (Stadtarchiv Heilbronn D009-25); dazu gibt es das [Namensregister zu den von Hans Franke erhobenen Fragebögen](http://projekt.stolpersteine-heilbronn.de/register-stadtarchiv-heilbronn-d009-25-franke-frageboegen.pdf)  (Stadtarchiv Heilbronn D009-25)
+5\. [Ausgefüllte Fragebögen zum Schicksal der Juden in Heilbronn](http://projekt.stolpersteine-heilbronn.de/stadtarchiv-heilbronn-d009-25-franke-frageboegen.pdf), versandt 1960 von Hans Franke (Stadtarchiv Heilbronn D009-25); dazu gibt es das [Namensregister zu den von Hans Franke erhobenen Fragebögen](http://projekt.stolpersteine-heilbronn.de/register-stadtarchiv-heilbronn-d009-25-franke-frageboegen.pdf)  (Stadtarchiv Heilbronn D009-25)
 
 6\. Stadtarchiv Heilbronn B011-73: [Auszug aus der Lohnsteuerkartei 1940](http://projekt.stolpersteine-heilbronn.de/stadtarchiv-heilbronn-b011-73.pdf)
 
