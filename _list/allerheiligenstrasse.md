@@ -14,8 +14,8 @@ steine:
   - RIGA
   - 
   - 
-x: 49.1399708
-y: 9.216302600000063
+x: 49.140093
+y: 9.217318
 images:
 - "/uploads/43-allerheiligenstrasse-ledermann.jpg"
 layout: item
