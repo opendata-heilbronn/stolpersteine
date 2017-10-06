@@ -26,8 +26,6 @@ Vom Mittelalter bis zur Zeit der nationalsozialistischen Verfolgungen (1050-1945
 
 **Quellen aus anderen Archiven:**
 
-Text der ["Verordnung über den Einsatz des jüdischen Vermögens"](http://projekt.stolpersteine-heilbronn.de/vo-juedisches-vermoegen.pdf) vom 3. Dezember 1938
-
 **Staatsarchiv Ludwigsburg:** [Bestand K26 Finanzamt Heilbronn: Steuerakten jüdischer Bürger](https://www2.landesarchiv-bw.de/ofs21/olf/struktur.php?bestand=19302)
 
 **Hauptstaatsarchiv Stuttgart:** Filme der jüdischen Standesregister:\
@@ -41,6 +39,8 @@ Text der ["Verordnung über den Einsatz des jüdischen Vermögens"](http://proje
 **Datenbank mit den Opfern in Theresienstadt:** [http://www.holocaust.cz/de/main](http://www.holocaust.cz/de/main)
 
 **Datenbank der Gedenkstätte Yad Vashem, Israel:** [http://db.yadvashem.org/names/search.html?language=de](http://db.yadvashem.org/names/search.html?language=de)
+
+Text der ["Verordnung über den Einsatz des jüdischen Vermögens"](http://projekt.stolpersteine-heilbronn.de/vo-juedisches-vermoegen.pdf) vom 3. Dezember 1938
 
 ---
 
