@@ -6,23 +6,22 @@ names: Frida Ledermann
 steine:
 - - HIER WOHNTE
   - FRIDA LEDERMANN
-  - ''
+  - 
   - GEB. LINDAUER
   - JG. 1887
   - DEPORTIERT 1941
   - ERMORDET IN
   - RIGA
-  - ''
-  - ''
-audio: 
-images:
-- "/uploads/43-allerheiligenstrasse-ledermann.jpg"
+  - 
+  - 
 x: 49.1399708
 y: 9.216302600000063
+images:
+- "/uploads/43-allerheiligenstrasse-ledermann.jpg"
 layout: item
 ---
 
-Frida Ledermann kam am 30. April 1887 in Menzingen (heute Stadt Kraichtal im Landkreis Sinsheim) als Frida Lindauer zur Welt. Sie heiratete jung ihren Gatten Felix Ledermann, der ebenfalls aus Menzingen stammte.
+Frida Ledermann kam am 30. April 1887 in Menzingen (heute Stadt Kraichtal, Landkreis Karlsruhe) als Frida Lindauer zur Welt. Sie heiratete jung ihren Gatten Felix Ledermann, der ebenfalls aus Menzingen stammte.
 
 Felix Ledermann kam vor 1908 nach Heilbronn, wo er zusammen mit seinem Vater Ferdinand Ledermann eine Eisenwarenhandlung führte, zuerst in der Deutschhofstraße, später im Haus Allerheiligenstraße 32. Felix Ledermann musste zu Beginn des Ersten Weltkriegs 1914 einrücken; er starb im Juli 1918 in einem Feldlazarett in Frankreich. Er hinterließ zwei kleine Töchter; Lotte war 1912 geboren, Erna 1914.
 
