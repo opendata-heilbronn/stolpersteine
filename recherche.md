@@ -26,23 +26,23 @@ Vom Mittelalter bis zur Zeit der nationalsozialistischen Verfolgungen (1050-1945
 
 # Quellen aus anderen Archiven 
 
-Text der ["Verordnung über den Einsatz des jüdischen Vermögens"](http://projekt.stolpersteine-heilbronn.de/vo-juedisches-vermoegen.pdf) vom 3. Dezember 1938
+* Text der ["Verordnung über den Einsatz des jüdischen Vermögens"](http://projekt.stolpersteine-heilbronn.de/vo-juedisches-vermoegen.pdf) vom 3. Dezember 1938
 
-Staatsarchiv Ludwigsburg: [Bestand K26 Finanzamt Heilbronn: Steuerakten jüdischer Bürger](https://www2.landesarchiv-bw.de/ofs21/olf/struktur.php?bestand=19302)
+* Staatsarchiv Ludwigsburg: [Bestand K26 Finanzamt Heilbronn: Steuerakten jüdischer Bürger](https://www2.landesarchiv-bw.de/ofs21/olf/struktur.php?bestand=19302)
 
-Hauptstaatsarchiv Stuttgart - Filme der jüdischen Standesregister:\
+* Hauptstaatsarchiv Stuttgart - Filme der jüdischen Standesregister:\
 [http://www.landesarchiv-bw.de/plink/?f=1-445312](http://www.landesarchiv-bw.de/plink/?f=1-445312)  (J 386 Bü 257 Heilbronn Familienbuch 1812-1938; Register S. 522-542, 550)\
 [http://www.landesarchiv-bw.de/plink/?f=1-445308](http://www.landesarchiv-bw.de/plink/?f=1-445308) (J 386 Bü 253 Heilbronn Geburtsregister 1863-1927)
 
-Bundesarchiv Berlin, [Gedenkbuch des Bundesarchivs für die Opfer der nationalsozialistischen Judenverfolgung in Deutschland (1933-1945)](http://www.bundesarchiv.de/gedenkbuch/)
+* Bundesarchiv Berlin, [Gedenkbuch des Bundesarchivs für die Opfer der nationalsozialistischen Judenverfolgung in Deutschland (1933-1945)](http://www.bundesarchiv.de/gedenkbuch/)
 
-Internationaler Suchdienst Arolsen, [Datenbank](https://digitalcollections.its-arolsen.org/)
+* Internationaler Suchdienst Arolsen, [Datenbank](https://digitalcollections.its-arolsen.org/)
 
-Datenbank zu den Opfern in Theresienstadt: [http://www.holocaust.cz/de/main](http://www.holocaust.cz/de/main)
+* Datenbank zu den Opfern in Theresienstadt: [http://www.holocaust.cz/de/main](http://www.holocaust.cz/de/main)
 
-Datenbank der Gedenkstätte Yad Vashem, Israel: [http://db.yadvashem.org/names/search.html?language=de](http://db.yadvashem.org/names/search.html?language=de)
+* Datenbank der Gedenkstätte Yad Vashem, Israel: [http://db.yadvashem.org/names/search.html?language=de](http://db.yadvashem.org/names/search.html?language=de)
 
-Das Stolperstein-Projekt von Gunter Demnig: [http://www.stolpersteine.com/](http://www.stolpersteine.com/)
+* Das Stolperstein-Projekt von Gunter Demnig: [http://www.stolpersteine.com/](http://www.stolpersteine.com/)
 
 ---
 
