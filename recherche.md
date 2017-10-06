@@ -6,25 +6,25 @@ layout: page
 
 ## Links und Materialien
 
-[Checkliste für die Stolperstein-Recherche](http://projekt.stolpersteine-heilbronn.de/checkliste-stolperstein-recherchen.pdf)
+[1. Checkliste für die Stolperstein-Recherche](http://projekt.stolpersteine-heilbronn.de/checkliste-stolperstein-recherchen.pdf)
 
-[Liste der sogenannten "Judenhäuser" in Heilbronn](http://projekt.stolpersteine-heilbronn.de/stadta-heilbronn-liste-judenhaeuser.pdf)
+2\. Liste der Opfer des Nationalsozialismus in Heilbronn [2017-10-05-datenbank-opfer-ns.pdf](/uploads/2017-10-05-datenbank-opfer-ns.pdf) (Stand: 05.10.2017)
 
-[Hans Franke: Geschichte und Schicksal der Juden in Heilbronn.](https://stadtarchiv.heilbronn.de/fileadmin/daten/stadtarchiv/online-publikationen/03-vr-11-franke-juden-in-heilbronn.pdf)\
+[3. Hans Franke: Geschichte und Schicksal der Juden in Heilbronn.](https://stadtarchiv.heilbronn.de/fileadmin/daten/stadtarchiv/online-publikationen/03-vr-11-franke-juden-in-heilbronn.pdf)\
 Vom Mittelalter bis zur Zeit der nationalsozialistischen Verfolgungen (1050-1945). 1963.\
 \(Veröffentlichungen des Archivs der Stadt Heilbronn 11)
 
-[Ausgefüllte Fragebögen zum Schicksal der Juden in Heilbronn](http://projekt.stolpersteine-heilbronn.de/stadtarchiv-heilbronn-d009-25-franke-frageboegen.pdf), versandt 1960 von Hans Franke (Stadtarchiv Heilbronn D009-25)
+[4. Liste der sogenannten "Judenhäuser" in Heilbronn](http://projekt.stolpersteine-heilbronn.de/stadta-heilbronn-liste-judenhaeuser.pdf)
 
-[Namensregister zu den von Hans Franke erhobenen Fragebögen](http://projekt.stolpersteine-heilbronn.de/register-stadtarchiv-heilbronn-d009-25-franke-frageboegen.pdf)  (Stadtarchiv Heilbronn D009-25)
+[5. Ausgefüllte Fragebögen zum Schicksal der Juden in Heilbronn](http://projekt.stolpersteine-heilbronn.de/stadtarchiv-heilbronn-d009-25-franke-frageboegen.pdf), versandt 1960 von Hans Franke (Stadtarchiv Heilbronn D009-25); dazu gibt es das [Namensregister zu den von Hans Franke erhobenen Fragebögen](http://projekt.stolpersteine-heilbronn.de/register-stadtarchiv-heilbronn-d009-25-franke-frageboegen.pdf)  (Stadtarchiv Heilbronn D009-25)
 
-[HEUSS - Datenbank des Stadtarchivs Heilbronn](http://heuss.stadtarchiv-heilbronn.de/)
+6\. Stadtarchiv Heilbronn B011-73: [Auszug aus der Lohnsteuerkartei 1940](http://projekt.stolpersteine-heilbronn.de/stadtarchiv-heilbronn-b011-73.pdf)
 
-Liste der Opfer des Nationalsozialismus in Heilbronn [2017-10-05-datenbank-opfer-ns.pdf](/uploads/2017-10-05-datenbank-opfer-ns.pdf) (Stand: 05.10.2017)
+7\. Stadtarchiv Heilbronn B019-153: [Ratsschreiberei, "Judenliste" 07-1934/1939](http://projekt.stolpersteine-heilbronn.de/stadtarchiv-heilbronn-b019-153-ratschreiberei-judenlisten-07-1934-1939.pdf) und die [Erschließung der sogenannten "Judenliste"](http://projekt.stolpersteine-heilbronn.de/B019-153-judenlisten-auswertung.pdf)
 
-Stadtarchiv Heilbronn B011-73: [Auszug aus der Lohnsteuerkartei 1940](http://projekt.stolpersteine-heilbronn.de/stadtarchiv-heilbronn-b011-73.pdf)
+8\. [HEUSS - Datenbank des Stadtarchivs Heilbronn](http://heuss.stadtarchiv-heilbronn.de/)
 
-Stadtarchiv Heilbronn B019-153: [Ratsschreiberei, "Judenliste" 07-1934/1939](http://projekt.stolpersteine-heilbronn.de/stadtarchiv-heilbronn-b019-153-ratschreiberei-judenlisten-07-1934-1939.pdf) und die [Erschließung der sogenannten "Judenliste"](http://projekt.stolpersteine-heilbronn.de/B019-153-judenlisten-auswertung.pdf)
+# Quellen aus anderen Archiven 
 
 Text der ["Verordnung über den Einsatz des jüdischen Vermögens"](http://projekt.stolpersteine-heilbronn.de/vo-juedisches-vermoegen.pdf) vom 3. Dezember 1938
 
