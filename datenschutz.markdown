@@ -1,5 +1,5 @@
 ---
-title: Datenschutzerklärung
+title: Datenschutz
 date: 2018-05-24 21:43:00 Z
 position: 2
 layout: page
