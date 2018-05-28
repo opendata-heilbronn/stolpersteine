@@ -1,6 +1,7 @@
 ---
 title: Recherche
 permalink: "/recherche.html"
+position: 0
 layout: page
 ---
 

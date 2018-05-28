@@ -1,6 +1,7 @@
 ---
 title: Impressum
 permalink: impressum.html
+position: 1
 layout: page
 ---
 
