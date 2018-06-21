@@ -18,3 +18,5 @@ E-Mail: peter.wanner[at]stadt-heilbronn.de
 Mit Urteil vom 12. Mai 1998 hat das Landgericht Hamburg entschieden, dass durch die Anbringung eines Links die Inhalte der verlinkten Seite gegebenenfalls mit zu verantworten sind. Dies kann nur dadurch verhindert werden, dass man sich ausdrücklich von diesen Inhalten distanziert.  
 
 Für alle Links zu Websites der Domain gilt: Das Stadtarchiv Heilbronn hat keinerlei Einfluss auf die Gestaltung und Inhalte der verlinkten Websites. Deshalb distanziert sich das Stadtarchiv Heilbronn hiermit ausdrücklich von allen Inhalten der verlinkten Seiten auf ihrer Website.
+
+## Datenschutz
