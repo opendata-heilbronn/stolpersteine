@@ -24,7 +24,7 @@ Für alle Links zu Websites der Domain gilt: Das Stadtarchiv Heilbronn hat keine
 
 Der Verantwortliche für die Webseite www.stolpersteine-heilbronn.de, Peter Wanner, c/o Stadtarchiv Heilbronn, Eichgasse 1, 74072 Heilbronn, mail[at]p-wanner.de und der Runde Tisch Stolpersteine Heilbronn (im Folgenden "wir/unser(e)"), nehmen den Schutz Ihrer persönlichen Daten sehr ernst und halten uns streng an alle geltenden Gesetze und Vorschriften zum Datenschutz, insbesondere an die Datenschutzgrundverordnung, (DSGVO), das Bundesdatenschutzgesetz (BDSG) und das Telemediengesetz (TMG). Die folgenden Erläuterungen geben Ihnen einen Überblick darüber, wie wir diesen Schutz sicherstellen und welche Daten wir zu welchem Zweck verarbeiten.
 
-###1. Nutzungsdaten
+### 1. Nutzungsdaten
 
 Bei jedem Zugriff auf unsere Webseite und bei jedem Abruf einer Datei, werden automatisch über diesen Vorgang allgemeine Daten in einer Protokolldatei gespeichert. Die Speicherung dient ausschließlich systembezogenen und statistischen Zwecken (auf Grundlage von Art. 6 Abs. 1 Buchst. b) DSGVO), sowie in Ausnahmefällen zur Anzeige von Straftaten (auf Grundlage von Art. 6 Abs. 1 Buchst. e) DSGVO).
 
@@ -42,13 +42,13 @@ Im Einzelnen wird über jeden Abruf folgender Datensatz gespeichert:
     Provider
     Ihre IP-Adresse
 
-###2. Personenbezogene Daten
+### 2. Personenbezogene Daten
 
 Personenbezogene Daten werden von uns nur dann verarbeitet, wenn uns dies gesetzlich gestattet ist, oder Sie uns Ihre Einwilligung erteilt haben.
 
 Wenn Sie mit uns in Kontakt treten, speichern wir Ihre Daten auf Grundlage von Art. 6 Abs. 1 Buchst. b) DSGVO zum Zwecke der Bearbeitung Ihrer Anfrage, sowie für den Fall, dass eine weitere Korrespondenz stattfinden sollte.
 
-###3. Cookies
+### 3. Cookies
 
 Wir setzen in einigen Bereichen unserer Webseite sogenannte Cookies ein. Durch solche Dateielemente kann Ihr Computer als technische Einheit während Ihres Besuchs auf dieser Webseite identifiziert werden, um Ihnen die Verwendung unseres Angebotes - auch bei Wiederholungsbesuchen - zu erleichtern.
 
@@ -62,7 +62,7 @@ Wir stützen den Einsatz von Cookies auf Art. 6 Abs. 1 Buchst. f) DSGVO: die Ver
 
 Sie können die Installation der Cookies durch eine entsprechende Einstellung Ihres Browsers verhindern. Wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht alle Funktionen unserer Webseite vollumfänglich werden nutzen können.
 
-###4. Verwendung von Social Plugins, Querverweise zu externen Anbietern wie Facebook
+### 4. Verwendung von Social Plugins, Querverweise zu externen Anbietern wie Facebook
 
 Der Schutz Ihrer personenbezogenen Daten ist uns sehr wichtig. Deshalb verzichten wir auf die direkte Implementierung von Social Plugins. Unsere Datensätze enthalten allerdings teilweise Links zu Seiten externer Anbieter. Diese Anbieter können, wie folgend am Beispiel von Facebook erläutert, durch Anklicken des Links möglicherweise Daten über Sie erheben.
 
@@ -72,13 +72,13 @@ Wenn Sie nicht möchten, dass Facebook über Ihren Besuch auf unserer Internetse
 
 Wir weisen darauf hin, dass wir als Seitenbetreiber keine Kenntnis vom Inhalt der übermittelten Daten sowie deren Nutzung durch Facebook erhalten. Weitere Informationen hierzu finden Sie in der Datenschutzerklärung von Facebook unter de-de.facebook.com/policy.php.
 
-###5. Dauer der Speicherung
+### 5. Dauer der Speicherung
 
 Wir speichern Ihre Daten so lange, wie es für eine abschließende Bearbeitung Ihres Anliegens notwendig ist.
 
 Ausgenommen hiervon sind Daten, für die gesetzliche oder anderweitig vorgeschriebene Aufbewahrungspflichten bestehen; diese werden für die Dauer der jeweiligen Aufbewahrungsfrist gespeichert und im Anschluss routinemäßig gelöscht.
 
-###6. Betroffenenrechte
+### 6. Betroffenenrechte
 
 a. Auskunftsrecht
 
