@@ -1,6 +1,23 @@
 ---
 title: Herbststr. 14
 date: 2018-07-04 00:00:00 Z
+names: Betty und Frida Kraft
+paten: Léon Fisel und Alina Parthun (Robert-Mayer-Gymnasium Heilbronn)
+steine:
+- - HIER WOHNTE
+  - FRIDA KRAFT
+  - JG. 1865
+  - DEPORTIERT 1942
+  - ERMORDET IN
+  - TREBLINKA
+- - HIER WOHNTE
+  - BETTY KRAFT
+  - JG. 1873
+  - DEPORTIERT 1942
+  - ERMORDET IN
+  - TREBLINKA
+x: 49.139283
+y: 9.224979
 ---
 
 Frida Kraft, geboren am 15. Mai 1865 in Billigheim, kam schon im frühen Kindesalter gemeinsam mit ihrer Familie nach Heilbronn. Ihre Schwester Betty wurde am 7. Februar 1873 in Heilbronn geboren. Gemeinsam lebten die Schwestern bis ins hohe Alter in einer Wohnung in der Herbststraße 14 in Heilbronn. Frida Kraft arbeitete als selbstständige Privatlehrerin und Betty Kraft als Schneiderin. 
