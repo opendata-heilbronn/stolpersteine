@@ -66,3 +66,18 @@ Berthold und Franziska Heilbronner (geborene Rosenstein) hatten vier Kinder, von
 Lotte und Luise versuchten noch 1938 bei einer gemeinsamen Reise in die Schweiz, die Eltern davon zu überzeugen, Nazideutschland zu verlassen. Aber Berthold und Franziska Heilbronner blieben im Wohnhaus in der Schillerstraße 48, wo nach dem Tod von Bertholds Bruder Sigmund auch die Schwägerin Friederike einzog.
 
 Berthold, Franziska und Friederike Heilbronner wurden 1942 deportiert; Berthold und Friederike starben kurz nach ihrer Ankunft in Theresienstadt. Franziska Heilbronner wurde 1944 in Auschwitz ermordet.
+
+Luise Bronner wurde am 22. Dezember 1912 geboren und lebte bis 1938 in Heilbronn. Sie machte 1932 im Alter von zwanzig Jahren an der Vorläuferschule des heutigen Robert-Mayer-Gymnasiums ihr Abitur. Sie hieß damals nicht Bronner, sondern Heilbronner. Das war ein häufig vorkommender jüdischer Nachname. 
+
+Menschen jüdischer Religion mussten zur Zeit des Nationalsozialismus um ihr Leben fürchten. Luise Heilbronner zog deshalb am 6. November 1936 nach Berlin und entschied sich bald für die Emigration. Ihr Plan, nach Palästina auszuwandern, war jedoch nicht realisierbar. Aber sie konnte am 7. Mai 1938 mit Hilfe ihres bereits ausgewanderten Bruders Emil in die USA fliehen, nach New York. Dort änderte sie ihren Nachnamen in Bronner. 
+
+Sie wollte, dass ihre Eltern ebenfalls in die USA kommen, doch diese zögerten. Nach mehreren Gesprächen überzeugte Luise ihre Eltern. Sie hatte alle erforderlichen Dokumente für die Ausreise der Eltern besorgt, doch einen Tag vor der Abholung des Visums griff Deutschlands Kriegsverbündeter Japan die USA an und machte dadurch eine Ausreise unmöglich. Die Eltern wurden deportiert und in Konzentrationslagern ermordet. Zwei Stolpersteine erinnern schon an sie, ebenso an Luises Tante Friederike Heilbronner.
+
+Nach einigen Berufsjahren in einer Chemiefabrik studierte Luise Bronner 1959 Chemie und unterrichtete später Chemie, Biologie und Latein an einer High-School, bevor sie an der Universität in Massachusetts in Amherst Germanistik studierte und ab 1965 an der Universität in Boston deutsche Sprache und Literatur lehrte. Nach der Promotion wurde sie Professorin und lehrte bis zu ihrer Pensionierung 1986 ausschließlich in Boston.
+
+Schon 1958 besuchte Luise Bronner ihre alte Heimat; sie spielte auch später eine zentrale Rolle bei den Begegnungen mit jüdischen Heilbronnern aus aller Welt. 
+Am 10. April 1999 starb Luise Bronner im Alter von 86 Jahren in Brooklyn. Sie vermachte einen Teil ihres Vermögens den Heilbronner Realschulen; 2001 wurde damit ein Programm auf den Weg gebracht, das einen Schüleraustausch zwischen Heilbronn und Baltimore ermöglichen sollte.
+
+Lotte Heilbronner, die Schwester von Luise, war vier Jahre jünger. Sie emigrierte schon 1936 nach Palästina, nachdem sie sich durch ihre Ausbildung darauf vorbereitet hatte – sie wurde zwei Jahre in Gartenbau und ein halbes Jahr in Krankenpflege unterrichtet. Lotte war mit Benjamin Reches aus Siegen verheiratet; sie starb 2009.
+
+Inzwischen wurden eine Straße und eine neu gegründete Realschule in Heilbronn nach Luise Bronner benannt. Eine Würdigung, die dem Leben und Wirken dieser Frau gerecht wird. Luise Bronner galt als sehr zurückhaltend, liebenswert, freundlich, sachlich, sehr auf Versöhnung bedacht, nicht nur zwischen Juden und Christen, sondern allgemein unter den Menschen. Ihr Traum war eine Menschheit, die sich versteht.
