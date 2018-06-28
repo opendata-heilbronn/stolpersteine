@@ -1,6 +1,6 @@
 ---
 title: Uhlandstraße 11
-date: 2018-06-28 15:56:00 Z
+date: 2018-07-04 00:00:00 Z
 names: Emma Gumbel
 paten: Elisa Woerner und Maximilian Bleckmann (Mönchsee-Gymnasium Heilbronn)
 steine:
