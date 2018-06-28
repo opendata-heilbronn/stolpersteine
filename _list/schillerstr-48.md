@@ -4,18 +4,17 @@ date: 2010-04-27 00:00:00 Z
 position: 36
 names: Franziska Heilbronner, geborene Rosenstein, Berthold Heilbronner und Friederike
   Heilbronner, geborene Elsass
-layout: item
 steine:
 - - HIER WOHNTE
   - BERTHOLD
   - HEILBRONNER
-  - ''
+  - 
   - JG. 1872
   - DEPORTIERT 1942
   - THERESIENSTADT
   - ERMORDET 28.9.1942
-  - ''
-  - ''
+  - 
+  - 
 - - HIER WOHNTE
   - FRANZISKA
   - HEILBRONNER
@@ -24,8 +23,8 @@ steine:
   - DEPORTIERT 1942
   - ERMORDET 16.5.1944
   - AUSCHWITZ
-  - ''
-  - ''
+  - 
+  - 
 - - HIER WOHNTE
   - FRIEDERIKE
   - HEILBRONNER
@@ -34,13 +33,12 @@ steine:
   - DEPORTIERT 1942
   - THERESIENSTADT
   - ERMORDET 10.9.1942
-  - ''
-  - ''
+x: 49.1436992
+y: 9.229267899999968
 audio: "/audio/schillerstrasse-48.mp3"
 images:
 - "/uploads/heilbronner-berthold-franziska.jpg"
-x: 49.1436992
-y: 9.229267899999968
+layout: item
 ---
 
 Berthold Heilbronner entstammte einer jüdischen Seifensiederfamilie aus Laupheim, wo er 1872 geboren wurde. Sein Vater gründete in Heilbronn die Seifenfabrik Madaform; sie entwickelte eine der ersten Flüssigseifen und belieferte Kunden in ganz Deutschland. Berthold Heilbronner führte die Firma zusammen mit seinen beiden Brüdern weiter.
