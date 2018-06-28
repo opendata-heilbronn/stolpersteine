@@ -11,6 +11,9 @@ steine:
   - DEPORTIERT 1942
   - THERESIENSTADT
   - ERMORDET 22.6.1943
+  - ORT
+x: 49.138345
+y: 9.222953
 ---
 
 Emma Gumbel (geb. Hirsch) ist am 6. Juli 1874 in Ulm geboren. Sie heiratete den Heilbronner Wilhelm Gumbel, der wie sein Cousin Abraham Gumbel ein erfolgreicher Bankier war. Wilhelms Bruder Siegfried Gumbel war ein angesehener Rechtsanwalt und in vielen Bereichen des öffentlichen Lebens engagiert. 
