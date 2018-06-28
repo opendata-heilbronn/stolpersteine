@@ -1,6 +1,6 @@
 ---
 title: Schillerstr. 34
-date: 2018-06-28 16:13:00 Z
+date: 2018-07-04 00:00:00 Z
 names: Cäcilie Siegler
 paten: Rubini Balakumar, Julian Schieber, Heidi Brett und Albina Kurtaij (Stadtbibliothek
   Heilbronn)
