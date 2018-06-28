@@ -41,6 +41,14 @@ steine:
   - FLUCHT 1938
   - USA
   - 
+- - HIER WOHNTE
+  - 'LOTTE '
+  - HEILBRONNER
+  - VERH. RECHES
+  - JG. 1916
+  - FLUCHT 1936
+  - PALÄSTINA
+  - 
 x: 49.1436992
 y: 9.229267899999968
 audio: "/audio/schillerstrasse-48.mp3"
