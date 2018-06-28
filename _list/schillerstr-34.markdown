@@ -1,5 +1,5 @@
 ---
-title: Schillerstr. 34
+title: Schillerstraße 34
 date: 2018-07-04 00:00:00 Z
 names: Cäcilie Siegler
 paten: Rubini Balakumar, Julian Schieber, Heidi Brett und Albina Kurtaij (Stadtbibliothek
