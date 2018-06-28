@@ -33,6 +33,14 @@ steine:
   - DEPORTIERT 1942
   - THERESIENSTADT
   - ERMORDET 10.9.1942
+- - HIER WOHNTE
+  - LUISE
+  - HEILBRONNER
+  - LUISE BRONNER
+  - JG. 1912
+  - FLUCHT 1938
+  - USA
+  - 
 x: 49.1436992
 y: 9.229267899999968
 audio: "/audio/schillerstrasse-48.mp3"
