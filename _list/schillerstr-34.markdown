@@ -4,6 +4,14 @@ date: 2018-07-04 00:00:00 Z
 names: Cäcilie Siegler
 paten: Rubini Balakumar, Julian Schieber, Heidi Brett und Albina Kurtaij (Stadtbibliothek
   Heilbronn)
+steine:
+- - HIER WOHNTE
+  - CÄCILIE SIEGLER
+  - GEB. STERN
+  - JG. 1872
+  - DEPORTIERT 1942
+  - TREBLINKA
+  - ERMORDET 29.9.1942
 ---
 
 Cäcilie Stern kam am 17. Oktober 1872 in Sontheim zur Welt. Mit 23 Jahren heiratete sie den Witwer und Kolonialwarenhändler Karl Siegler in Heilbronn. Gemeinsam wohnten sie in der Schillerstraße 34.
