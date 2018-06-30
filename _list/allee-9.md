@@ -6,7 +6,6 @@ names: Klara Holwein
 steine:
 - - HIER WOHNTE
   - KLARA HOLWEIN
-  - 
   - GEB. WANNER
   - JG. 1889
   - EINGEWIESEN 1932
