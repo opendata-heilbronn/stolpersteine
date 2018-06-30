@@ -1,6 +1,15 @@
 ---
 title: Sichererstraße 15
 date: 2018-06-30 10:26:00 Z
+names: Selma Mayer
+paten: Annette Geisler (Stadtarchiv Heilbronn)
+steine:
+- - HIER WOHNTE
+  - SELMA MAYER
+  - JG. 1879
+  - DEPORTIERT 1941
+  - ERMORDET IN
+  - RIGA
 ---
 
 Selma Mayer kam am 1. Februar 1879 in Heilbronn zur Welt. Ihre Großeltern stammten aus Horkheim, seit 1871 besaß ihre Familie ein Geschäft für Manufaktur- und Aussteuerwaren in der Gerberstraße 37, ab 1905 in der Gerberstraße 4.
