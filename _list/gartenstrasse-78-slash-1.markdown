@@ -1,6 +1,6 @@
 ---
 title: Gartenstraße 78/1
-date: 2018-06-30 10:20:00 Z
+date: 2018-07-04 00:00:00 Z
 names: Robert Heinrich Hildenbrand
 paten: Julia Kesch und Lea Wonner (Mönchsee-Gymnasium Heilbronn)
 steine:
