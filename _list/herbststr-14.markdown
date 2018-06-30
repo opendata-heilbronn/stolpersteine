@@ -6,12 +6,14 @@ paten: Léon Fisel und Alina Parthun (Robert-Mayer-Gymnasium Heilbronn)
 steine:
 - - HIER WOHNTE
   - FRIDA KRAFT
+  - 
   - JG. 1865
   - DEPORTIERT 1942
   - ERMORDET IN
   - TREBLINKA
 - - HIER WOHNTE
   - BETTY KRAFT
+  - 
   - JG. 1873
   - DEPORTIERT 1942
   - ERMORDET IN
