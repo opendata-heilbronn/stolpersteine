@@ -1,6 +1,6 @@
 ---
 title: Wollhausstraße 46
-date: 2017-06-27 09:00:00 Z
+date: 2018-07-04 00:00:00 Z
 position: 45
 names: Lina Wollenberger; Alfred und Meta Wollenberger, geb. Karl, mit Gert und Lutz
   Wollenberger
