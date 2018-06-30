@@ -14,6 +14,8 @@ steine:
   - ZWANGSEINGEWIESEN 1939
   - ALTERSHEIM HERRLINGEN
   - 'TOT 27.3.1940   '
+  - ORT
+  - 
 - - HIER WOHNTE
   - 'ALFRED '
   - WOLLENBERGER
@@ -54,6 +56,6 @@ Hermann Wollenberger starb am 24. März 1932 in Heilbronn; er wurde auf dem jüd
 
 Ihr Sohn Alfred Wollenberger (Jahrgang 1891) musste Anwesen und Firma im Zuge der „Arisierung“ am 31. März 1937 zwangsweise an den Kaufmann Hans-Ferdinand Homburg verkaufen. 
 
-Im Dezember 1938 – gelang Alfred Wollenberger zusammen mit seinem Sohn Lutz die Emigration nach England. Wollenberger war zu diesem Zeitpunkt 47 Jahre alt, Lutz war sieben. Vier Monate später konnten auch seine Ehefrau Meta Wollenberger und der größere Sohn Gert nach England fliehen. 
+Im Dezember 1938 gelang Alfred Wollenberger zusammen mit seinem Sohn Lutz die Emigration nach England. Wollenberger war zu diesem Zeitpunkt 47 Jahre alt, Lutz war sieben. Vier Monate später konnten auch seine Ehefrau Meta Wollenberger und der größere Sohn Gert nach England fliehen. 
 
 Alfred Wollenberger und seine Familie wanderten von England aus weiter in die USA aus; Wollenberger arbeitete in New York als Fabrikvertreter. Das Anwesen in der Wollhausstraße wurde ihm aufgrund eines Rückerstattungsvergleichs 1950 zurückübertragen. 
