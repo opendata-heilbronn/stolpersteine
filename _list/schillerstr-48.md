@@ -67,7 +67,7 @@ Lotte und Luise versuchten noch 1938 bei einer gemeinsamen Reise in die Schweiz,
 
 Berthold, Franziska und Friederike Heilbronner wurden 1942 deportiert; Berthold und Friederike starben kurz nach ihrer Ankunft in Theresienstadt. Franziska Heilbronner wurde 1944 in Auschwitz ermordet.
 
-Luise Bronner wurde am 22. Dezember 1912 geboren und lebte bis 1938 in Heilbronn. Sie machte 1932 im Alter von zwanzig Jahren an der Vorläuferschule des heutigen Robert-Mayer-Gymnasiums ihr Abitur. Sie hieß damals nicht Bronner, sondern Heilbronner. Das war ein häufig vorkommender jüdischer Nachname. 
+Luise Bronner wurde am 22. Dezember 1912 geboren und lebte bis 1938 in Heilbronn. Sie machte 1932 im Alter von zwanzig Jahren an der Vorläuferschule des heutigen Robert-Mayer-Gymnasiums ihr Abitur. Sie hieß damals noch nicht Bronner, sondern Heilbronner. 
 
 Menschen jüdischer Religion mussten zur Zeit des Nationalsozialismus um ihr Leben fürchten. Luise Heilbronner zog deshalb am 6. November 1936 nach Berlin und entschied sich bald für die Emigration. Ihr Plan, nach Palästina auszuwandern, war jedoch nicht realisierbar. Aber sie konnte am 7. Mai 1938 mit Hilfe ihres bereits ausgewanderten Bruders Emil in die USA fliehen, nach New York. Dort änderte sie ihren Nachnamen in Bronner. 
 
