@@ -1,6 +1,6 @@
 ---
 title: Sichererstraße 15
-date: 2018-06-30 10:26:00 Z
+date: 2018-07-04 00:00:00 Z
 names: Selma Mayer
 paten: Annette Geisler (Stadtarchiv Heilbronn)
 steine:
