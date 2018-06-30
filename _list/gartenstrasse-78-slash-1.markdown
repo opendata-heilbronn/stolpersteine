@@ -5,13 +5,13 @@ names: Robert Heinrich Hildenbrand
 paten: Julia Kesch und Lea Wonner (Mönchsee-Gymnasium Heilbronn)
 steine:
 - - HIER WOHNTE
-  - ROBERT HEINRICH HILDENBRAND
+  - 'ROBERT HEINRICH '
+  - HILDENBRAND
   - JG. 1890
   - VERHAFTET 1941
   - ALS ASOZIAL STIGMATISIERT
   - BUCHENWALD
   - ERMORDET 24.11.1941
-  - ORT
 x: 49.14662
 y: 9.225528
 ---
