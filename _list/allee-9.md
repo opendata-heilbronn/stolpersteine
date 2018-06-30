@@ -9,11 +9,12 @@ steine:
   - 
   - GEB. WANNER
   - JG. 1889
-  - AUS ANSTALT WEINSBERG
-  - 1940 NACH
+  - EINGEWIESEN 1932
+  - HEILANSTALT WEINSBERG
+  - '"VERLEGT" 8.5.1940 '
   - GRAFENECK
-  - ERMORDET 8.5.1940
-  - 
+  - 'ERMORDET 8.5.1940 '
+  - '"AKTION T4" '
 x: 49.141103
 y: 9.221781
 audio: "/audio/allee-9.mp3"
