@@ -6,6 +6,7 @@ paten: Annette Geisler (Stadtarchiv Heilbronn)
 steine:
 - - HIER WOHNTE
   - SELMA MAYER
+  - " "
   - JG. 1879
   - DEPORTIERT 1941
   - ERMORDET IN
