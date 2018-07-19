@@ -16,8 +16,6 @@ steine:
 x: 49.12783
 y: 9.25698
 audio: "/audio/waldweg-koepfertal.mp3"
-images:
-- "/uploads/waldweg-koepfertal-jjws.jpg"
 layout: item
 ---
 
