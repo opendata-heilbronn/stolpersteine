@@ -27,8 +27,6 @@ steine:
 x: 49.139695
 y: 9.222976
 audio: "/audio/gymnasiumstrasse-31.mp3"
-images:
-- "/uploads/pincus-max.jpg"
 layout: item
 ---
 
