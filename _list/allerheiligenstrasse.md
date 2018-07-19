@@ -16,8 +16,6 @@ steine:
   - 
 x: 49.140093
 y: 9.217318
-images:
-- 
 layout: item
 ---
 
