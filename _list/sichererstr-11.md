@@ -16,8 +16,6 @@ steine:
   - ERMORDET 15.9.1942
 x: 49.1485272
 y: 9.220687099999964
-images:
-- "/uploads/47-suelmerstrasse-59-12-1926-sm.jpg"
 layout: item
 ---
 
