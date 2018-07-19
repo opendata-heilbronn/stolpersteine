@@ -3,11 +3,10 @@ title: Herbststraße 30
 date: 2011-04-15 00:00:00 Z
 position: 18
 names: Gottlob Feidengruber
-layout: item
 steine:
 - - HIER WOHNTE
   - GOTTLOB&ensp;FEIDENGRUBER
-  - ''
+  - 
   - JG. 1901
   - IM WIDERSTAND
   - VERHAFTET 1934
@@ -15,11 +14,10 @@ steine:
   - VERHAFTET 1943
   - HINGERICHTET 26.1.1944
   - BEI PARIS
-audio: "/audio/herbststrasse-30.mp3"
-images:
-- "/uploads/feidengruber-gottlob.jpg"
 x: 49.1381995
 y: 9.225244999999973
+audio: "/audio/herbststrasse-30.mp3"
+layout: item
 ---
 
 Seinen leidenschaftlichen Kampf gegen den Nationalsozialismus bezahlte der Heilbronner Kommunist Gottlob Feidengruber mit dem Leben: Ende der 1920er Jahre hatte er sich mit seiner Frau Rose der Kommunistischen Partei Deutschlands angeschlossen. Als Mitglied des seit 1929 verbotenen Rotfrontkämpferbunds wurde Feidengruber 1931 verhaftet und 1932 zu eineinhalb Jahren Gefängnis verurteilt. Nach seiner Rückkehr nach Heilbronn im Mai 1933 ging Feidengruber in den Widerstand und kam im Frühjahr 1934 erneut in Haft.
