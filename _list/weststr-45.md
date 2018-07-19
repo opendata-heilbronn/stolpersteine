@@ -3,43 +3,41 @@ title: Weststraße 45
 date: 2014-06-24 00:00:00 Z
 position: 43
 names: Julius und Eugenie Reuter, geborene Sinsheimer, und Moritz Reuter
-layout: item
 steine:
 - - HIER WOHNTE
   - MORITZ REUTER
-  - ''
-  - ''
+  - 
+  - 
   - JG. 1878
   - DEPORTIERT 1941
   - ERMORDET IN
   - RIGA
-  - ''
-  - ''
+  - 
+  - 
 - - HIER WOHNTE
   - JULIUS ISAAK
   - REUTER
-  - ''
+  - 
   - JG. 1876
   - DEPORTIERT 1942
   - THERESIENSTADT
   - ERMORDET 22.6.1944
-  - ''
-  - ''
+  - 
+  - 
 - - HIER WOHNTE
   - EUGENIE REUTER
-  - ''
+  - 
   - GEB. SINSHEIMER
   - JG. 1879
   - DEPORTIERT 1942
   - THERESIENSTADT
   - DEPORTIERT
   - ERMORDET 24.9.1942
-  - ''
-audio: "/audio/weststrasse-45.mp3"
-images:
-- "/uploads/reuter-hochzeitsfoto.jpg"
+  - 
 x: 49.1412389
 y: 9.207954200000017
+audio: "/audio/weststrasse-45.mp3"
+layout: item
 ---
 
 Der 1876 geborene Julius Isaak Reuter stammte aus Schluchtern. Er wohnte gemeinsam mit seiner Frau Eugenie, geborene Sinsheimer, in einer Fünf-Zimmer-Wohnung in der Weststraße 45. Dorthin zog um 1939 auch sein jüngerer Bruder Moritz.
