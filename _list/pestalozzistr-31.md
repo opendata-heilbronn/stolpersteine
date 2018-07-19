@@ -3,7 +3,6 @@ title: Pestalozzistraße 31
 date: 2012-04-17 00:00:00 Z
 position: 30
 names: Willi Fröhle
-layout: item
 steine:
 - - HIER WOHNTE
   - WILLI FRÖHLE
@@ -15,11 +14,10 @@ steine:
   - TODESURTEIL 17.3.1944
   - HINGERICHTET 22.6.1944
   - GEFÄNGNIS STUTTGART
-audio: "/audio/pestalozzistrasse-31.mp3"
-images:
-- "/uploads/froehle-willi.jpg"
 x: 49.1495347
 y: 9.226326400000062
+audio: "/audio/pestalozzistrasse-31.mp3"
+layout: item
 ---
 
 Der Kaufmann Willi Fröhle (Jahrgang 1898) musste im Ersten Weltkrieg noch 1917 als 19-Jähriger an die Front. Er schloss sich schon vor 1933 der NSDAP an und galt als „alter Kämpfer“, der nach der Machtergreifung einen Posten als Geschäftsführer beim Heilbronner Siedlungsverein übertragen bekam. Ab 1941 arbeitete Fröhle in einem Betrieb in Nordheim.
