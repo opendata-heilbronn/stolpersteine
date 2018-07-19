@@ -16,9 +16,6 @@ steine:
   - 
 x: 49.13988390000001
 y: 9.218782099999999
-images:
-- "/uploads/elsner-adolf.jpg"
-- "/uploads/elsner-adolf-1933-04-01.jpg"
 layout: item
 ---
 
