@@ -3,33 +3,31 @@ title: Heilbronn-Sontheim, Parkstraße 33
 date: 2012-04-17 00:00:00 Z
 position: 53
 names: Julie und Rosalie Israel
-layout: item
 steine:
 - - HIER WOHNTE
   - JULIE ISRAEL
-  - ''
-  - ''
+  - 
+  - 
   - JG. 1871
   - DEPORTIERT 1942
   - THERESIENSTADT
   - TOT 1.1.1943
-  - ''
-  - ''
+  - 
+  - 
 - - HIER WOHNTE
   - ROSALIE ISRAEL
-  - ''
-  - ''
+  - 
+  - 
   - JG. 1877
   - DEPORTIERT 1942
   - THERESIENSTADT
   - TOT 27.11.1942
-  - ''
-  - ''
-audio: "/audio/sontheim-parkstrasse-33.mp3"
-images:
-- "/uploads/israel-sontheim-parkstrasse-33.jpg"
+  - 
+  - 
 x: 49.1167966
 y: 9.189911299999949
+audio: "/audio/sontheim-parkstrasse-33.mp3"
+layout: item
 ---
 
 Die beiden unverheirateten Schwestern Julie und Rosalie Israel gehörten zur Eigentümerfamilie der Schuhfabrik Wolko, die von ihrem Vater Salomon Israel 1889 in Öhringen gegründet worden war.
