@@ -65,3 +65,14 @@ Bitte geben Sie Ihre vollständige Adresse an!
 ## Unterstützer
 
 Das Heilbronner Stolperstein-Projekt dankt allen Unterstützern der Stolperstein-Aktion, besonders der Volksbank Heilbronn.
+
+---
+
+<h2>Kontakt</h2>
+
+<p>Peter Wanner c/o Stadtarchiv Heilbronn<br>
+Eichgasse 1<br>
+74072 Heilbronn<br>
+Tel. (07131) 56-2290<br>
+Fax (07131) 56-3195<br>
+E-Mail: peter.wanner[at]stadt-heilbronn.de</p>
