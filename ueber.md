@@ -29,9 +29,9 @@ Bitte geben Sie Ihre vollständige Adresse an!</p>
 
 <h2>Kontakt</h2>
 
-<p>Peter Wanner c/o Stadtarchiv Heilbronn
-Eichgasse 1
-74072 Heilbronn
-Tel. (07131) 56-2290
-Fax (07131) 56-3195
+<p>Peter Wanner c/o Stadtarchiv Heilbronn<br>
+Eichgasse 1<br>
+74072 Heilbronn<br>
+Tel. (07131) 56-2290<br>
+Fax (07131) 56-3195<br>
 E-Mail: peter.wanner[at]stadt-heilbronn.de</p>
