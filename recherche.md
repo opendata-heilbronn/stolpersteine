@@ -17,13 +17,16 @@ Vom Mittelalter bis zur Zeit der nationalsozialistischen Verfolgungen (1050-1945
 
 4\. [Liste der sogenannten "Judenhäuser" in Heilbronn](http://projekt.stolpersteine-heilbronn.de/stadta-heilbronn-liste-judenhaeuser.pdf)
 
-5\. [Ausgefüllte Fragebögen zum Schicksal der Juden in Heilbronn](http://projekt.stolpersteine-heilbronn.de/stadtarchiv-heilbronn-d009-25-franke-frageboegen.pdf), versandt 1960 von Hans Franke (Stadtarchiv Heilbronn D009-25); dazu gibt es das [Namensregister zu den von Hans Franke erhobenen Fragebögen](http://projekt.stolpersteine-heilbronn.de/register-stadtarchiv-heilbronn-d009-25-franke-frageboegen.pdf)  (Stadtarchiv Heilbronn D009-25)
+5\. [Liste der jüdischen Emigranten] (http://projekt.stolpersteine-heilbronn.de/juedische-emigranten-liste-franke.pdf); aus: Hans Franke: Geschichte und Schicksal der Juden in Heilbronn. 1963 
 
-6\. Stadtarchiv Heilbronn B011-73: [Auszüge aus der Lohnsteuerkartei ab 1938/1940](http://projekt.stolpersteine-heilbronn.de/stadtarchiv-heilbronn-b011-73.pdf)
 
-7\. Stadtarchiv Heilbronn B019-153: [Ratsschreiberei, "Judenliste" 07-1934/1939](http://projekt.stolpersteine-heilbronn.de/stadtarchiv-heilbronn-b019-153-ratschreiberei-judenlisten-07-1934-1939.pdf) und die [Erschließung der sogenannten "Judenliste"](http://projekt.stolpersteine-heilbronn.de/B019-153-judenlisten-auswertung.pdf)
+6\. [Ausgefüllte Fragebögen zum Schicksal der Juden in Heilbronn](http://projekt.stolpersteine-heilbronn.de/stadtarchiv-heilbronn-d009-25-franke-frageboegen.pdf), versandt 1960 von Hans Franke (Stadtarchiv Heilbronn D009-25); dazu gibt es das [Namensregister zu den von Hans Franke erhobenen Fragebögen](http://projekt.stolpersteine-heilbronn.de/register-stadtarchiv-heilbronn-d009-25-franke-frageboegen.pdf)  (Stadtarchiv Heilbronn D009-25)
 
-8\. [HEUSS - Datenbank des Stadtarchivs Heilbronn](http://heuss.stadtarchiv-heilbronn.de/)
+7\. Stadtarchiv Heilbronn B011-73: [Auszüge aus der Lohnsteuerkartei ab 1938/1940](http://projekt.stolpersteine-heilbronn.de/stadtarchiv-heilbronn-b011-73.pdf)
+
+8\. Stadtarchiv Heilbronn B019-153: [Ratsschreiberei, "Judenliste" 07-1934/1939](http://projekt.stolpersteine-heilbronn.de/stadtarchiv-heilbronn-b019-153-ratschreiberei-judenlisten-07-1934-1939.pdf) und die [Erschließung der sogenannten "Judenliste"](http://projekt.stolpersteine-heilbronn.de/B019-153-judenlisten-auswertung.pdf)
+
+9\. [HEUSS - Datenbank des Stadtarchivs Heilbronn](http://heuss.stadtarchiv-heilbronn.de/)
 
 **Quellen aus anderen Archiven:**
 
@@ -75,4 +78,4 @@ Eichgasse 1<br>
 74072 Heilbronn<br>
 Tel. (07131) 56-2290<br>
 Fax (07131) 56-3195<br>
-E-Mail: peter.wanner[at]stadt-heilbronn.de</p>
+E-Mail: peter.wanner\[at\]stadt-heilbronn.de</p>
