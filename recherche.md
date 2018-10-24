@@ -17,8 +17,7 @@ Vom Mittelalter bis zur Zeit der nationalsozialistischen Verfolgungen (1050-1945
 
 4\. [Liste der sogenannten "Judenhäuser" in Heilbronn](http://projekt.stolpersteine-heilbronn.de/stadta-heilbronn-liste-judenhaeuser.pdf)
 
-5\. [Liste der jüdischen Emigranten] (http://projekt.stolpersteine-heilbronn.de/juedische-emigranten-liste-franke.pdf); aus: Hans Franke: Geschichte und Schicksal der Juden in Heilbronn. 1963 
-
+5\. [Liste der jüdischen Emigranten](http://projekt.stolpersteine-heilbronn.de/juedische-emigranten-liste-franke.pdf) aus Hans Franke: Geschichte und Schicksal der Juden in Heilbronn. 1963
 
 6\. [Ausgefüllte Fragebögen zum Schicksal der Juden in Heilbronn](http://projekt.stolpersteine-heilbronn.de/stadtarchiv-heilbronn-d009-25-franke-frageboegen.pdf), versandt 1960 von Hans Franke (Stadtarchiv Heilbronn D009-25); dazu gibt es das [Namensregister zu den von Hans Franke erhobenen Fragebögen](http://projekt.stolpersteine-heilbronn.de/register-stadtarchiv-heilbronn-d009-25-franke-frageboegen.pdf)  (Stadtarchiv Heilbronn D009-25)
 
@@ -28,7 +27,7 @@ Vom Mittelalter bis zur Zeit der nationalsozialistischen Verfolgungen (1050-1945
 
 9\. [HEUSS - Datenbank des Stadtarchivs Heilbronn](http://heuss.stadtarchiv-heilbronn.de/)
 
-10\. [Adressbücher der Stadt Heilbronn] (https://stadtarchiv.heilbronn.de/bestaende/adressbuecher.html)
+10\. \[Adressbücher der Stadt Heilbronn\] (https://stadtarchiv.heilbronn.de/bestaende/adressbuecher.html)
 
 **Quellen aus anderen Archiven:**
 
