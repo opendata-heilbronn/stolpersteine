@@ -27,7 +27,7 @@ Vom Mittelalter bis zur Zeit der nationalsozialistischen Verfolgungen (1050-1945
 
 9\. [HEUSS - Datenbank des Stadtarchivs Heilbronn](http://heuss.stadtarchiv-heilbronn.de/)
 
-10\. \[Adressbücher der Stadt Heilbronn\] (https://stadtarchiv.heilbronn.de/bestaende/adressbuecher.html)
+10\. [Adressbücher der Stadt Heilbronn](https://stadtarchiv.heilbronn.de/bestaende/adressbuecher.html)
 
 **Quellen aus anderen Archiven:**
 
