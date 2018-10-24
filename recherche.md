@@ -32,8 +32,8 @@ Vom Mittelalter bis zur Zeit der nationalsozialistischen Verfolgungen (1050-1945
 
 **Staatsarchiv Ludwigsburg:** [Bestand K26 Finanzamt Heilbronn: Steuerakten jüdischer Bürger](https://www2.landesarchiv-bw.de/ofs21/olf/struktur.php?bestand=19302)
 
-**Hauptstaatsarchiv Stuttgart:** Filme der jüdischen Standesregister:\
-[http://www.landesarchiv-bw.de/plink/?f=1-445312](http://www.landesarchiv-bw.de/plink/?f=1-445312)  (J 386 Bü 257 Heilbronn Familienbuch 1812-1938; Register S. 522-542, 550)\
+**Hauptstaatsarchiv Stuttgart:** Filme der jüdischen Standesregister:
+[http://www.landesarchiv-bw.de/plink/?f=1-445312](http://www.landesarchiv-bw.de/plink/?f=1-445312)  (J 386 Bü 257 Heilbronn Familienbuch 1812-1938; Register S. 522-542, 550)
 [http://www.landesarchiv-bw.de/plink/?f=1-445308](http://www.landesarchiv-bw.de/plink/?f=1-445308) (J 386 Bü 253 Heilbronn Geburtsregister 1863-1927)
 
 **Bundesarchiv Berlin:** [Gedenkbuch des Bundesarchivs für die Opfer der nationalsozialistischen Judenverfolgung in Deutschland (1933-1945)](http://www.bundesarchiv.de/gedenkbuch/)
