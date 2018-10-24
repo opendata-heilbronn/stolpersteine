@@ -28,6 +28,8 @@ Vom Mittelalter bis zur Zeit der nationalsozialistischen Verfolgungen (1050-1945
 
 9\. [HEUSS - Datenbank des Stadtarchivs Heilbronn](http://heuss.stadtarchiv-heilbronn.de/)
 
+10\. [Adressbücher der Stadt Heilbronn] (https://stadtarchiv.heilbronn.de/bestaende/adressbuecher.html)
+
 **Quellen aus anderen Archiven:**
 
 **Staatsarchiv Ludwigsburg:** [Bestand K26 Finanzamt Heilbronn: Steuerakten jüdischer Bürger](https://www2.landesarchiv-bw.de/ofs21/olf/struktur.php?bestand=19302)
