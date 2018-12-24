@@ -11,8 +11,10 @@ steine:
   - DEPORTIERT 1941
   - ERMORDET IN
   - RIGA
+  - ORT
 x: 49.148444
 y: 9.221137
+audio: http://stolpersteine-heilbronn.de/audio/sichererstrasse-15.mp3
 ---
 
 Selma Mayer kam am 1. Februar 1879 in Heilbronn zur Welt. Ihre Großeltern stammten aus Horkheim, seit 1871 besaß ihre Familie ein Geschäft für Manufaktur- und Aussteuerwaren in der Gerberstraße 37, ab 1905 in der Gerberstraße 4.
