@@ -26,6 +26,7 @@ steine:
   - 
 x: 49.140744
 y: 9.220386
+audio: "/audio/klarastrasse-6.mp3"
 layout: item
 ---
 
