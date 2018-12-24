@@ -11,6 +11,8 @@ steine:
   - DEPORTIERT 1942
   - ERMORDET IN
   - TREBLINKA
+  - ORT
+  - 
 - - HIER WOHNTE
   - BETTY KRAFT
   - 
@@ -20,6 +22,7 @@ steine:
   - TREBLINKA
 x: 49.139283
 y: 9.224979
+audio: "/audio/herbststrasse-14.mp3"
 ---
 
 Frida Kraft, geboren am 15. Mai 1865 in Billigheim, kam schon im frühen Kindesalter gemeinsam mit ihrer Familie nach Heilbronn. Ihre Schwester Betty wurde am 7. Februar 1873 in Heilbronn geboren. Gemeinsam lebten die Schwestern bis ins hohe Alter in einer Wohnung in der Herbststraße 14 in Heilbronn. Frida Kraft arbeitete als selbstständige Privatlehrerin und Betty Kraft als Schneiderin. 
