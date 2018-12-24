@@ -14,7 +14,7 @@ steine:
   - ERMORDET 24.11.1941
 x: 49.14662
 y: 9.225528
-audio: http://stolpersteine-heilbronn.de/audio/gartenstrasse-78-1.mp3
+audio: "/audio/gartenstrasse-78-1.mp3"
 ---
 
 Robert Heinrich Hildenbrand wurde am 14. Dezember 1890 in Heilbronn geboren. Er war evangelisch und von Beruf Gärtner; Zeitzeugen berichten, dass er Mitglied im Kirchenchor war.
