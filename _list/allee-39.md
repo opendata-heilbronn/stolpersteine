@@ -3,31 +3,31 @@ title: Allee 39
 date: 2015-05-20 00:00:00 Z
 position: 1
 names: Rebekka Simsohn und Hermann Grünebaum
-layout: item
 steine:
 - - HIER WOHNTE
   - HERMANN
   - GRÜNEBAUM
-  - ''
+  - 
   - JG. 1856
   - ZWANGSUMZUG 1942
   - ALTERSHEIM
   - DELLMENSINGEN
   - TOT 21.3.1942
-  - ''
+  - 
 - - HIER WOHNTE
   - REBEKKA SIMSOHN
-  - ''
-  - ''
+  - 
+  - 
   - 'JG. 1885 '
   - DEPORTIERT 1941
   - ERMORDET IN
   - RIGA
-  - ''
-  - ''
-images: []
+  - 
+  - 
 x: 49.1434651
 y: 9.222373500000003
+audio: http://stolpersteine-heilbronn.de/audio/allee-39-1.mp3
+layout: item
 ---
 
 Hermann Grünebaum wurde am 18. Januar 1856 in Vollmerz, einem Stadtteil von Schlüchtern in Osthessen, als Sohn von David und Janette Grünebaum geboren und verbrachte dort seine Kindheit. Später zog er nach Heilbronn und wohnte dort in einer Dreizimmerwohnung in seinem Haus Allee 33 (heute Allee 39). Er heiratete Julie Stein, geboren am 27. Mai 1866, mit welcher er zwei Kinder bekam, Jenny und Theodor. Jenny starb schon 1924 im jungen Alter von 26 Jahren.
