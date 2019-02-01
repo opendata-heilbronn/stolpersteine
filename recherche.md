@@ -9,7 +9,7 @@ layout: page
 
 1\. [Checkliste für die Stolperstein-Recherche](http://projekt.stolpersteine-heilbronn.de/checkliste-stolperstein-recherchen.pdf)
 
-2\. [Liste der Opfer des Nationalsozialismus in Heilbronn](http://projekt.stolpersteine-heilbronn.de/2018-09-19-datenbank-opfer-ns.pdf)  (Stand: 19.09.2018)
+2\. [Liste der Opfer des Nationalsozialismus in Heilbronn](http://projekt.stolpersteine-heilbronn.de/2019-01-24-datenbank-opfer-ns.pdf)  (Stand: 24.01.2019)
 
 3\. [Hans Franke: Geschichte und Schicksal der Juden in Heilbronn.](https://stadtarchiv.heilbronn.de/fileadmin/daten/stadtarchiv/online-publikationen/03-vr-11-franke-juden-in-heilbronn.pdf)
 Vom Mittelalter bis zur Zeit der nationalsozialistischen Verfolgungen (1050-1945). 1963. (Veröffentlichungen des Archivs der Stadt Heilbronn 11)
