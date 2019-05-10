@@ -26,6 +26,7 @@ steine:
   - 
 x: 49.1434651
 y: 9.222373500000003
+audio: http://stolpersteine-heilbronn.de/audio/allee-39.mp3
 layout: item
 ---
 
