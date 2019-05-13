@@ -36,7 +36,7 @@ steine:
   - 
 x: 49.117919
 y: 9.192493799999966
-audio: http://audio.stolpersteine-heilbronn.de/sontheim-hofwiesenstrasse-25.mp3
+audio: http://audio.stolpersteine-heilbronn.de/heilbronn-sontheim-hofwiesenstrasse-25.mp3
 layout: item
 ---
 
