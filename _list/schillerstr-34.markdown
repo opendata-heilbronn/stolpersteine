@@ -12,8 +12,10 @@ steine:
   - DEPORTIERT 1942
   - TREBLINKA
   - ERMORDET 29.9.1942
+  - ORT
 x: 49.143891
 y: 9.227618
+audio: http://audio.stolpersteine-heilbronn.de/schillerstr-34.mp3
 ---
 
 Cäcilie Stern kam am 17. Oktober 1872 in Sontheim zur Welt. Mit 23 Jahren heiratete sie den Witwer und Kolonialwarenhändler Karl Siegler in Heilbronn. Gemeinsam wohnten sie in der Schillerstraße 34.
