@@ -16,7 +16,7 @@ steine:
   - 
 x: 49.13988390000001
 y: 9.218782099999999
-audio: http://audio.stolpersteine-heilbronn.de/fleinerstr-9.mp3
+audio: http://audio.stolpersteine-heilbronn.de/fleiner-strasse-9.mp3
 layout: item
 ---
 
