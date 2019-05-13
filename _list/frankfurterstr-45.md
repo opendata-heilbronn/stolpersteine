@@ -46,7 +46,7 @@ steine:
   - AKTION T4
 x: 49.14097
 y: 9.20873000000006
-audio: http://audio.stolpersteine-heilbronn.de/frankfurterstr-45.mp3
+audio: http://audio.stolpersteine-heilbronn.de/frankfurter-strasse-45.mp3
 layout: item
 ---
 
