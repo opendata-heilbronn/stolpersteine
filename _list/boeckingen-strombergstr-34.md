@@ -3,11 +3,10 @@ title: Heilbronn-Böckingen, Strombergstraße 34 (früher Kurze Straße)
 date: 2016-06-29 00:00:00 Z
 position: 47
 names: Lina Arnold
-layout: item
 steine:
 - - HIER WOHNTE
   - LINA ARNOLD
-  - ''
+  - 
   - JG. 1900
   - EINGEWIESEN
   - HEILANSTALT WEINSBERG
@@ -17,6 +16,8 @@ steine:
   - AKTION T4
 x: 49.1289207
 y: 9.191065299999991
+audio: http://audio.stolpersteine-heilbronn.de/boeckingen-strombergstrasse-34.mp3
+layout: item
 ---
 
 Lina Arnold wurde am 2. August 1900 in Heilbronn-Böckingen geboren. Ihre gemütskranke Mutter Rosine Arnold geb. Zentler verstarb wenige Wochen nach der Geburt. Die halbverwaiste Lina wurde zunächst vom Vater und den väterlichen Großeltern aufgezogen.
