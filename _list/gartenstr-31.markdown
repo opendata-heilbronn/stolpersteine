@@ -34,6 +34,7 @@ steine:
   - 
 x: 49.143348
 y: 9.224821
+audio: http://audio.stolpersteine-heilbronn.de/gartenstrasse-31.mp3
 ---
 
 Simon Schlesinger, geboren am 10. Dezember 1876, entstammte einer Familie aus Bonfeld, wo seit dem 18. Jahrhundert eine jüdische Gemeinde bestand. Einige seiner Verwandten waren bereits 1905 in Heilbronn wohnhaft; so gab es schon damals etwa ein „Zigarrenspezialgeschäft“ in der Lohtorstraße 30, das dann ab 1923 von Simon Schlesinger geführt wurde. Er wohnte mit seiner Ehefrau von 1920 an im Haus Gartenstraße 31.
