@@ -46,6 +46,7 @@ steine:
   - 
 x: 49.138877
 y: 9.226311
+audio: http://audio.stolpersteine-heilbronn.de/wollhausstr-46.mp3
 ---
 
 Lina Wollenberger (geb. Stein) wurde am 5. Dezember 1866 in Obergimpern, einem damals badischen Dorf, geboren; sie hatte zwei Geschwister. Sie heiratete den 1864 geborenen Hermann Wollenberger, der 1888 eine Weinbrennerei und Likörfabrik in der damaligen Äußeren Rosenbergstraße 17 in Heilbronn gründete (heute Rosenbergstraße). 
