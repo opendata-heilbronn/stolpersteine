@@ -25,6 +25,7 @@ steine:
   - " "
 x: 49.14493
 y: 9.239578
+audio: http://audio.stolpersteine-heilbronn.de/hundsbergstrasse-41.mp3
 ---
 
 Emma Pakscher geb. Meyerhof wurde am 23. August 1865 als erstes Kind der Eheleute Albert und Lina Meyerhof in Hildesheim geboren. Emma hatte eine jüngere Schwester Henriette und einen jüngeren Bruder Max.
