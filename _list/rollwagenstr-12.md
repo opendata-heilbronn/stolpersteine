@@ -26,7 +26,7 @@ steine:
   - 
 x: 49.13895060000001
 y: 9.217303899999933
-audio: http://audio.stolpersteine-heilbronn.de/rollwagenstrasse-12.mp3
+audio: http://audio.stolpersteine-heilbronn.de/rollwagstrasse-12.mp3
 layout: item
 ---
 
