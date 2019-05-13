@@ -55,7 +55,7 @@ steine:
   - 
 x: 49.1161458
 y: 9.170465599999943
-audio: http://audio.stolpersteine-heilbronn.de/horkheim-hohenloher-str-15.mp3
+audio: http://audio.stolpersteine-heilbronn.de/heilbronn-horkheim-hohenloher-str-15.mp3
 layout: item
 ---
 
