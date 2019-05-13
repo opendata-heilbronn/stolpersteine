@@ -16,7 +16,7 @@ steine:
   - 
 x: 49.140093
 y: 9.217318
-audio: http://audio.stolpersteine-heilbronn.de/allerheiligenstrasse.mp3
+audio: http://audio.stolpersteine-heilbronn.de/allerheiligenstrasse-32.mp3
 layout: item
 ---
 
