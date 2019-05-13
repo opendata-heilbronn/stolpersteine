@@ -16,7 +16,7 @@ steine:
   - '"AKTION T4" '
 x: 49.141103
 y: 9.221781
-audio: "/audio/allee-9.mp3"
+audio: http://audio.stolpersteine-heilbronn.de/allee-9.mp3
 layout: item
 ---
 
