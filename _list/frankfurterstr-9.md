@@ -46,7 +46,7 @@ steine:
   - 
 x: 49.1415377
 y: 9.21375420000004
-audio: http://audio.stolpersteine-heilbronn.de/frankfurter-strasse-45.mp3
+audio: http://audio.stolpersteine-heilbronn.de/frankfurter-strasse-9.mp3
 layout: item
 ---
 
