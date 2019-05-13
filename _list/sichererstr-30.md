@@ -16,6 +16,7 @@ steine:
   - 
 x: 49.1483005
 y: 9.220919699999968
+audio: http://audio.stolpersteine-heilbronn.de/sichererstrasse-30.mp3
 layout: item
 ---
 
