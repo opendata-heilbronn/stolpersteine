@@ -56,6 +56,7 @@ steine:
   - 
 x: 49.1406235
 y: 9.209714200000008
+audio: http://audio.stolpersteine-heilbronn.de/mozartstrasse-8.mp3
 layout: item
 ---
 
