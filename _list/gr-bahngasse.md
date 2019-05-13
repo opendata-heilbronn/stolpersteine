@@ -3,20 +3,21 @@ title: Große Bahngasse (früher Große Nägelinsgasse 9)
 date: 2016-06-29 00:00:00 Z
 position: 14
 names: Elsa Scheufler
-layout: item
 steine:
 - - HIER WOHNTE
   - ELSA SCHEUFLER
-  - ''
-  - ''
+  - 
+  - 
   - JG. 1915
   - "„EINGEWIESEN“ 30.11.1942"
   - HEILANSTALT ZWIEFALTEN
   - ERMORDET 10.10.1943
-  - ''
-  - ''
+  - 
+  - 
 x: 49.13963320000001
 y: 9.21735650000005
+audio: http://audio.stolpersteine-heilbronn.de/grosse-bahngasse-9.mp3
+layout: item
 ---
 
 Elsa Christine Scheufler wurde am 26. April 1915 als drittes Kind der Eheleute Jakob Friedrich Scheufler und Marie Sofie geb. Hörger geboren. Sie hatte zwei ältere Schwestern und einen jüngeren Bruder. Die Familie lebte in der Nägelinsgasse 9 in der Heilbronner Altstadt.
