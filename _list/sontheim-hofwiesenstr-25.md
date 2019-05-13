@@ -3,12 +3,11 @@ title: Heilbronn-Sontheim, Hofwiesenstraße 25
 date: 2016-06-29 00:00:00 Z
 position: 52
 names: Flora Rosa, Arthur und Erich Kirchheimer
-layout: item
 steine:
 - - HIER WOHNTE
   - ARTHUR
   - KIRCHHEIMER
-  - ''
+  - 
   - JG. 1890
   - "„SCHUTZHAFT“ 1938"
   - DACHAU
@@ -23,20 +22,22 @@ steine:
   - DEPORTIERT 1941
   - ERMORDET IN
   - RIGA
-  - ''
-  - ''
+  - 
+  - 
 - - HIER WOHNTE
   - ERICH
   - KIRCHHEIMER
-  - ''
+  - 
   - JG. 1920
   - FLUCHT 1939
   - USA
-  - ''
-  - ''
-  - ''
+  - 
+  - 
+  - 
 x: 49.117919
 y: 9.192493799999966
+audio: http://audio.stolpersteine-heilbronn.de/sontheim-hofwiesenstrasse-25.mp3
+layout: item
 ---
 
 Arthur Kirchheimer wurde am 11. Dezember 1890 in Berwangen (heute ein Ortsteil von Kirchardt), geboren. Kirchheimer war während des Ersten Weltkriegs Soldat und trug eine 30-prozentige Kriegsbeschädigung davon.
