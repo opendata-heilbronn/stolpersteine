@@ -4,80 +4,81 @@ date: 2015-09-17 00:00:00 Z
 position: 33
 names: Sofie Reis, geborene Kahn, Margarete Reis, geborene Ettlinger, Hans David und
   Walter Emil Reis, Max Reis, Arthur und Carola Reis
-layout: item
 steine:
 - - HIER WOHNTE
   - SOFIE REIS
-  - ''
+  - 
   - GEB. KAHN
   - JG. 1876
   - DEPORTIERT 1942
   - THERESIENSTADT
   - ERMORDET IN
   - TREBLINKA
-  - ''
+  - 
 - - HIER WOHNTE
   - ARTHUR REIS
-  - ''
-  - ''
+  - 
+  - 
   - JG. 1904
   - FLUCHT 1933
   - PALÄSTINA
-  - ''
-  - ''
-  - ''
+  - 
+  - 
+  - 
 - - HIER WOHNTE
   - CAROLA REIS
-  - ''
-  - ''
+  - 
+  - 
   - JG. 1909
   - FLUCHT 1933
   - PALÄSTINA
-  - ''
-  - ''
-  - ''
+  - 
+  - 
+  - 
 - - HIER WOHNTE
   - MAX REIS
-  - ''
-  - ''
+  - 
+  - 
   - JG. 1897
   - FLUCHT 1939
   - ENGLAND
-  - ''
-  - ''
-  - ''
+  - 
+  - 
+  - 
 - - HIER WOHNTE
   - MARGARETE REIS
-  - ''
+  - 
   - GEB. ETTLINGER
   - JG. 1906
   - DEPORTIERT 1941
   - ERMORDET IN
   - RIGA
-  - ''
-  - ''
+  - 
+  - 
 - - HIER WOHNTE
   - HANS DAVID REIS
-  - ''
-  - ''
+  - 
+  - 
   - JG. 1933
   - DEPORTIERT 1941
   - ERMORDET IN
   - RIGA
-  - ''
-  - ''
+  - 
+  - 
 - - HIER WOHNTE
   - WALTER EMIL REIS
-  - ''
-  - ''
+  - 
+  - 
   - JG. 1935
   - DEPORTIERT 1941
   - ERMORDET IN
   - RIGA
-  - ''
-  - ''
+  - 
+  - 
 x: 49.1389918
 y: 9.217992699999968
+audio: http://audio.stolpersteine-heilbronn.de/rollwagenstrasse-16.mp3
+layout: item
 ---
 
 Sofie Reis führte bis zur „Arisierung“ zusammen mit dem Neffen ihres verstorbenen Ehemannes, Max Reis, ein Manufaktur-Geschäft (Webwaren-Einzel- und Großhandel). Es wird 1893 im Adressbuch der Stadt Heilbronn in der Lohtorstraße 27 genannt. 1912 firmierte es als Möbel-Manufaktur-Aussteuergeschäft, im Adressbuch 1925 wird als Geschäftsadresse die Innere Rosenbergstraße 22 angegeben, wobei sich offenbar auch die Privatwohnungen der Inhaber dort befanden.
