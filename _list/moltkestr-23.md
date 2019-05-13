@@ -56,6 +56,7 @@ steine:
   - 
 x: 49.1415426
 y: 9.226045900000031
+audio: http://audio.stolpersteine-heilbronn.de/moltkestrasse-23.mp3
 layout: item
 ---
 
