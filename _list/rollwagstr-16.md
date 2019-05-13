@@ -77,7 +77,7 @@ steine:
   - 
 x: 49.1389918
 y: 9.217992699999968
-audio: http://audio.stolpersteine-heilbronn.de/rollwagenstrasse-16.mp3
+audio: http://audio.stolpersteine-heilbronn.de/rollwagstrasse-16.mp3
 layout: item
 ---
 
