@@ -27,7 +27,7 @@ steine:
   - 
 x: 49.140274
 y: 9.2249
-audio: http://audio.stolpersteine-heilbronn.de/bismarckstr-3.mp3
+audio: http://audio.stolpersteine-heilbronn.de/bismarckstrasse-3.mp3
 ---
 
 Die Wurzeln der Familie Krips lassen sich bis in das 18. Jahrhundert zurückverfolgen. Als ältester Verwandter ist Isaak Krips bekannt; er wurde 1793 in Leeuwarden in den Niederlanden geboren.
