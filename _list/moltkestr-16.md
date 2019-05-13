@@ -3,40 +3,41 @@ title: Moltkestraße 16
 date: 2016-06-29 00:00:00 Z
 position: 24
 names: Melitta, Hermann und Hans Eduard Eisig
-layout: item
 steine:
 - - HIER WOHNTE
   - HERMANN EISIG
-  - ''
-  - ''
+  - 
+  - 
   - JG. 1888
   - DEPORTIERT 1941
   - ERMORDET IN
   - RIGA
-  - ''
-  - ''
+  - 
+  - 
 - - HIER WOHNTE
   - MELITTA EISIG
-  - ''
+  - 
   - GEB. VOGEL
   - JG. 1895
   - DEPORTIERT 1941
   - ERMORDET IN
   - RIGA
-  - ''
-  - ''
+  - 
+  - 
 - - HIER WOHNTE
   - HANS EDUARD
   - EISIG
-  - ''
+  - 
   - JG. 1923
   - DEPORTIERT 1943
   - ERMORDET IN
   - AUSCHWITZ
-  - ''
-  - ''
+  - 
+  - 
 x: 49.14132360000001
 y: 9.22524599999997
+audio: http://audio.stolpersteine-heilbronn.de/moltkestrasse-16.mp3
+layout: item
 ---
 
 Hermann Eisig wurde am 23. Dezember 1888 in Heilbronn als Sohn von Eduard und Helene Eisig geboren. Sein Ehefrau Melitta, geborene Vogel, kam am 26. Oktober 1895 in Tauberbischofsheim zur Welt. Hermann Eisig übernahm nach dem Tod seines Vaters gemeinsam mit seinem Bruder Wilhelm die Firma „Eisig & Marx, Gewürze- und Gedärmeimport“ in der Bergstraße 7; die Firma hatte auch eine Niederlassung in Stuttgart.
