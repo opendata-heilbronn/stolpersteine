@@ -26,6 +26,7 @@ steine:
   - 
 x: 49.14421610000001
 y: 9.222552899999982
+audio: http://audio.stolpersteine-heilbronn.de/allee-57.mp3
 layout: item
 ---
 
