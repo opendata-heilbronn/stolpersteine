@@ -36,7 +36,7 @@ steine:
   - 
 x: 49.1373803
 y: 9.220194399999968
-audio: http://audio.stolpersteine-heilbronn.de/caecilienstr-60.mp3
+audio: http://audio.stolpersteine-heilbronn.de/caecilienstrasse-60.mp3
 layout: item
 ---
 
