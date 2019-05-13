@@ -16,6 +16,7 @@ steine:
   - ERMORDET 15.9.1942
 x: 49.1485272
 y: 9.220687099999964
+audio: http://audio.stolpersteine-heilbronn.de/sichererstrasse-11.mp3
 layout: item
 ---
 
