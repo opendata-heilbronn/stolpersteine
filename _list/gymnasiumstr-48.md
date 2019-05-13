@@ -16,6 +16,7 @@ steine:
   - 
 x: 49.1408135
 y: 9.224754699999949
+audio: http://audio.stolpersteine-heilbronn.de/gymnasiumstrasse-48.mp3
 layout: item
 ---
 
