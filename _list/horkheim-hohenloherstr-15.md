@@ -3,41 +3,40 @@ title: Heilbronn-Horkheim, Hohenloher Straße 15
 date: 2015-09-17 00:00:00 Z
 position: 49
 names: Max, Selma, Margot und Johanna Maier, Helene Künstler
-layout: item
 steine:
 - - HIER WOHNTE
   - SELMA MAIER
-  - ''
+  - 
   - GEB. SICHEL
   - JG. 1901
   - DEPORTIERT 1941
   - ERMORDET IN
   - RIGA
-  - ''
-  - ''
+  - 
+  - 
 - - HIER WOHNTE
   - MAX MAIER
-  - ''
-  - ''
+  - 
+  - 
   - JG. 1899
   - DEPORTIERT 1941
   - ERMORDET IN
   - RIGA
-  - ''
-  - ''
+  - 
+  - 
 - - HIER WOHNTE
   - JOHANNA MAIER
-  - ''
-  - ''
+  - 
+  - 
   - JG. 1902
   - DEPORTIERT 1942
   - THERESIENSTADT
   - 1943 AUSCHWITZ
   - ERMORDET
-  - ''
+  - 
 - - HIER WOHNTE
   - HELENE KÜNSTLER
-  - ''
+  - 
   - GEB. MAIER
   - JG. 1908
   - DEPORTIERT 1942
@@ -46,16 +45,18 @@ steine:
   - ERMORDET
 - - HIER WOHNTE
   - MARGOT MAIER
-  - ''
-  - ''
+  - 
+  - 
   - JG. 1935
   - DEPORTIERT 1941
   - ERMORDET IN
   - RIGA
-  - ''
-  - ''
+  - 
+  - 
 x: 49.1161458
 y: 9.170465599999943
+audio: http://audio.stolpersteine-heilbronn.de/horkheim-hohenloher-str-15.mp3
+layout: item
 ---
 
 Im Haus der Familie Louis und Mathilde Maier in Horkheim wuchsen vier Geschwister auf: Max, Karl, Johanna und Helene. Max wurde am 24. April 1899 geboren, Karl am 11. September 1900, Johanna am 23. Oktober 1902 und Helene am 7. April 1908. Die Adresse lautete damals Sontheimer Str. 15 und umfasste das Wohnhaus mit Stall, Scheune und Gemüsegarten. Der Vater Louis war Viehhändler. Beide Eltern starben im Frühjahr 1929.
