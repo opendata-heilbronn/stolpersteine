@@ -26,6 +26,7 @@ steine:
   - 
 x: 49.1388024
 y: 9.216561299999967
+audio: http://audio.stolpersteine-heilbronn.de/bergstrasse-2.mp3
 layout: item
 ---
 
