@@ -22,6 +22,8 @@ steine:
   - 
   - 
   - 
+x: 49.141011
+y: 9.209188
 ---
 
 Bernhard Hochherr wurde als viertes von 12 Kindern der Eheleute Levi Hochherr und Hannchen Kahn am 10. Oktober 1870 in Berwangen geboren. 1898 eröffnete er seine erste Zigarrenfabrik in Massenbachhausen, wo er ab 1900 mit seiner Frau Maria Wertheimer auch wohnte. Dort wurde am 31. August 1901 seine Tochter Ilka geboren.
