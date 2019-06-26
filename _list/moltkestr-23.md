@@ -7,7 +7,6 @@ steine:
 - - HIER WOHNTE
   - MAX STERN
   - 
-  - 
   - JG. 1867
   - DEPORTIERT 1942
   - THERESIENSTADT
@@ -16,7 +15,6 @@ steine:
   - 
 - - HIER WOHNTE
   - META STERN
-  - 
   - GEB. GUNZENHAUSEN
   - JG. 1878
   - DEPORTIERT 1942
@@ -27,7 +25,6 @@ steine:
 - - HIER WOHNTE
   - HERMANN
   - STERN
-  - 
   - JG. 1910
   - DEPORTIERT 1943
   - ERMORDET IN
@@ -37,7 +34,6 @@ steine:
 - - HIER WOHNTE
   - SIEGFRIED
   - STEIGERWALD
-  - 
   - JG. 1881
   - DEPORTIERT 1941
   - LODZ / LITZMANNSTADT
@@ -45,8 +41,7 @@ steine:
   - 
   - 
 - - HIER WOHNTE
-  - NANNY
-  - STEIGERWALD
+  - NANNY STEIGERWALD
   - GEB. HEILBRONNER
   - JG. 1898
   - DEPORTIERT 1941
