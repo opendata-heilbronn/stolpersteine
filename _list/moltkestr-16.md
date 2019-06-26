@@ -7,7 +7,6 @@ steine:
 - - HIER WOHNTE
   - HERMANN EISIG
   - 
-  - 
   - JG. 1888
   - DEPORTIERT 1941
   - ERMORDET IN
@@ -16,7 +15,6 @@ steine:
   - 
 - - HIER WOHNTE
   - MELITTA EISIG
-  - 
   - GEB. VOGEL
   - JG. 1895
   - DEPORTIERT 1941
@@ -27,7 +25,6 @@ steine:
 - - HIER WOHNTE
   - HANS EDUARD
   - EISIG
-  - 
   - JG. 1923
   - DEPORTIERT 1943
   - ERMORDET IN
