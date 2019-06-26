@@ -5,7 +5,8 @@ names: Betty Weiss geb. Israel
 paten: "Lara Gürol, Emily Burroughs, Larissa Liebhardt, Emma Käß | \nLuise-Bronner-Realschule
   Heilbronn"
 steine:
-- - BETTY WEISS
+- - HIER WOHNTE
+  - BETTY WEISS
   - GEB. ISRAEL
   - JG. 1881
   - DEPORTIERT 1941
