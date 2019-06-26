@@ -18,6 +18,8 @@ steine:
   - FLUCHT 1936
   - PALÄSTINA
   - 
+x: 49.1357
+y: 9.218939
 ---
 
 Gertrud Anna Oppenheimer geb. Adler kam am 14. Dezember 1883 als Tochter von Sigmund Adler und Mathilde Stern in Heilbronn auf die Welt. Ihr Bruder Richard Adler wurde am 5. Februar 1889 geboren. Der unverheiratete Ingenieur starb bereits 1918 mit 29 Jahren an den Folgen einer Verwundung, die er sich im Ersten Weltkrieg zugezogen hatte.
