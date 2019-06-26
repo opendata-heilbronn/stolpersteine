@@ -4,6 +4,14 @@ date: 2019-06-26 10:34:00 Z
 names: Cilly Levi, geb. Hirschheimer, Aron (auch Alfred) und Theresia Lindner, geb.
   Schwab sowie Sofie Schwab
 paten: Julia Kühlwein, Rita Agirman | Elly-Heuss-Knapp-Gymnasium Heilbronn
+steine:
+- - HIER WOHNTE
+  - 'ARON „ALFRED“ '
+  - LINDNER
+  - JG. 1883
+  - DEPORTIERT 1942
+  - THERESIENSTADT
+  - ERMORDET 28.2.1944
 ---
 
 Aron Lindner, auch Alfred genannt, wurde am 28. Juni 1883 in Affaltrach, einem Ortsteil der Gemeinde Obersulm im Landkreis Heilbronn, als Sohn von Moses Moritz Lindner und Babette Kahn geboren. Sein älterer Bruder Adolf Linder war 1877 geboren.
