@@ -6,7 +6,6 @@ names: Elsa Schloss, geborene Lemberger, und Siegfried Schloss
 steine:
 - - HIER WOHNTE
   - ELSA SCHLOSS
-  - 
   - GEB. LEMBERGER
   - JG. 1891
   - DEPORTIERT 1941
@@ -16,7 +15,6 @@ steine:
   - 
 - - HIER WOHNTE
   - SIEGFRIED SCHLOSS
-  - 
   - 
   - JG. 1882
   - DEPORTIERT 1941
