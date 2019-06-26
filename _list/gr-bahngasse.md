@@ -6,14 +6,10 @@ names: Elsa Scheufler
 steine:
 - - HIER WOHNTE
   - ELSA SCHEUFLER
-  - 
-  - 
   - JG. 1915
   - "„EINGEWIESEN“ 30.11.1942"
   - HEILANSTALT ZWIEFALTEN
   - ERMORDET 10.10.1943
-  - 
-  - 
 x: 49.13963320000001
 y: 9.21735650000005
 audio: http://audio.stolpersteine-heilbronn.de/grosse-bahngasse-9.mp3
