@@ -7,7 +7,6 @@ steine:
 - - HIER WOHNTE
   - MAX PINCUS
   - 
-  - 
   - JG. 1869
   - DEPORTIERT 1942
   - THERESIENSTADT
@@ -16,7 +15,6 @@ steine:
   - 
 - - HIER WOHNTE
   - ROSA PINCUS
-  - 
   - GEB. EICHENBERG
   - JG. 1868
   - ZWANGSUMZUG 1941
