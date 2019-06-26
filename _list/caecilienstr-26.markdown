@@ -20,12 +20,20 @@ steine:
   - ERMORDET
   - 
   - 
-- - 
+- - HIER WOHNTE
+  - MANFRED HANAUER
+  - JG. 1909
+  - FLUCHT 1935
+  - PALÄSTINA
   - 
   - 
   - 
-  - 
-  - 
+- - HIER WOHNTE
+  - GERTRUD HANAUER
+  - VERH. FARRER
+  - JG. 1911
+  - FLUCHT 1937
+  - PALÄSTINA
   - 
   - 
 ---
