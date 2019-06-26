@@ -6,7 +6,6 @@ names: Babette Baer, Sofie Falk, Lina und Kurt Oppenheimer
 steine:
 - - HIER WOHNTE
   - BABETTE BAER
-  - 
   - GEB. ADLER
   - JG. 1860
   - DEPORTIERT 1942
@@ -17,7 +16,6 @@ steine:
 - - HIER WOHNTE
   - SOFIE FALK
   - 
-  - 
   - JG. 1881
   - DEPORTIERT 1941
   - ERMORDET IN
@@ -25,8 +23,7 @@ steine:
   - 
   - 
 - - HIER WOHNTE
-  - LINA
-  - OPPENHEIMER
+  - LINA OPPENHEIMER
   - GEB. FALK
   - JG. 1887
   - DEPORTIERT 1941
@@ -37,11 +34,9 @@ steine:
 - - HIER WOHNTE
   - KURT
   - OPPENHEIMER
-  - 
   - JG. 1911
   - FLUCHT 1936
   - USA
-  - 
   - 
   - 
 x: 49.1415377
