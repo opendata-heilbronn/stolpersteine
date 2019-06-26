@@ -1,6 +1,6 @@
 ---
 title: Rollwagstr. 14 (früher Innere Rosenbergstr. 14)
-date: 2019-06-26 10:34:00 Z
+date: 2019-07-01 00:00:00 Z
 names: Cilly Levi, geb. Hirschheimer, Aron (auch Alfred) und Theresia Lindner, geb.
   Schwab sowie Sofie Schwab
 paten: Julia Kühlwein, Rita Agirman | Elly-Heuss-Knapp-Gymnasium Heilbronn
@@ -41,6 +41,8 @@ steine:
   - ERMORDET
   - 
   - 
+x: 49.138935
+y: 9.217557
 ---
 
 Aron Lindner, auch Alfred genannt, wurde am 28. Juni 1883 in Affaltrach, einem Ortsteil der Gemeinde Obersulm im Landkreis Heilbronn, als Sohn von Moses Moritz Lindner und Babette Kahn geboren. Sein älterer Bruder Adolf Linder war 1877 geboren.
