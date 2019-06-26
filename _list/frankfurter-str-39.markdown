@@ -10,6 +10,18 @@ steine:
   - DEPORTIERT 1942
   - THERESIENSTADT
   - ERMORDET 31.8.1942
+  - ERMORDET IN
+  - ORT
+  - 
+- - HIER WOHNTE
+  - GRETE HOCHHERR
+  - VERH. KAUFMANN
+  - JG. 1913
+  - FLUCHT 1938
+  - SÜDAFRIKA
+  - 
+  - 
+  - 
 ---
 
 Bernhard Hochherr wurde als viertes von 12 Kindern der Eheleute Levi Hochherr und Hannchen Kahn am 10. Oktober 1870 in Berwangen geboren. 1898 eröffnete er seine erste Zigarrenfabrik in Massenbachhausen, wo er ab 1900 mit seiner Frau Maria Wertheimer auch wohnte. Dort wurde am 31. August 1901 seine Tochter Ilka geboren.
