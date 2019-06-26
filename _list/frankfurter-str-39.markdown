@@ -6,13 +6,13 @@ paten: Karl-Heinz Vetter, Edingen-Neckarhausen
 steine:
 - - HIER WOHNTE
   - BERNHARD HOCHHERR
+  - 
   - JG. 1870
   - DEPORTIERT 1942
   - THERESIENSTADT
   - ERMORDET 31.8.1942
   - ERMORDET IN
   - ORT
-  - 
 - - HIER WOHNTE
   - GRETE HOCHHERR
   - VERH. KAUFMANN
