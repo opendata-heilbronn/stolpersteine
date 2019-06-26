@@ -3,41 +3,38 @@ title: Schillerstraße 18
 date: 2013-04-12 00:00:00 Z
 position: 35
 names: Friederike Kern, geborene Reis, Aron und Hugo Kern
-layout: item
 steine:
 - - HIER WOHNTE
   - ARON KERN
-  - ''
-  - ''
+  - 
   - JG. 1863
   - DEPORTIERT 1942
   - THERESIENSTADT
   - TOT 22.9.1942
-  - ''
-  - ''
+  - 
+  - 
 - - HIER WOHNTE
   - FRIEDERIKE KERN
-  - ''
   - GEB. REIS
   - JG. 1871
   - DEPORTIERT 1942
   - THERESIENSTADT
   - TOT 20.5.1943
-  - ''
-  - ''
+  - 
+  - 
 - - HIER WOHNTE
   - DR. HUGO KERN
-  - ''
-  - ''
+  - 
   - JG. 1896
   - FLUCHT 1939
   - PALÄSTINA
   - ÜBERLEBT
-  - ''
-  - ''
-audio: "/audio/schillerstrasse-18.mp3"
+  - 
+  - 
 x: 49.1439522
 y: 9.22582060000002
+audio: "/audio/schillerstrasse-18.mp3"
+layout: item
 ---
 
 Friederike Kern wurde 1872 in Schwäbisch Hall geboren, lebte aber später mit ihrem neun Jahre älteren Mann Aron zunächst in dessen Geburtsort Wollenberg. Hier wurde 1896 der älteste Sohn Hugo geboren. Drei Jahre später zog die Familie nach Heilbronn.
