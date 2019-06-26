@@ -3,6 +3,31 @@ title: Cäcilienstr. 26/1 (heutige Einfahrt zu Cäcilienstr. 24/1)
 date: 2019-06-26 10:23:00 Z
 names: Berta und Isaak Hanauer, Manfred Hanauer und Gertrud Farrer, geb. Hanauer
 paten: Betreut von Avital Toren und Annette Geisler | Stadtarchiv Heilbronn
+steine:
+- - HIER WOHNTE
+  - BERTA HANAUER
+  - GEB. OPPENHEIMER
+  - JG. 1880
+  - DEPORTIERT 1941
+  - RIGA
+  - ERMORDET
+  - 
+- - HIER WOHNTE
+  - ISAAK HANAUER
+  - JG. 1882
+  - DEPORTIERT 1941
+  - RIGA
+  - ERMORDET
+  - 
+  - 
+- - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
 ---
 
 Die Familie Hanauer stammt aus Gemmingen. Hier kam am 19. November 1882 Isaak Hanauer zur Welt, der wie sein Vater Kaufmann wurde. Am 28. August 1908 heiratete er Berta, geborene Oppenheimer, die am 5. August 1880 ebenfalls in Gemmingen zur Welt gekommen war.
