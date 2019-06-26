@@ -4,51 +4,47 @@ date: 2010-04-27 00:00:00 Z
 position: 20
 names: Frida Stein, geborene Wollenberger, Sofie Flora Henle, geborene Stein, Moritz
   und Julius Henle
-layout: item
 steine:
 - - HIER WOHNTE
   - MORITZ HENLE
-  - ''
-  - ''
+  - 
   - JG. 1885
   - DEPORTIERT 1941
   - RIGA
   - ERMORDET
   - 26.3.1942
-  - ''
+  - 
 - - HIER WOHNTE
   - SOFIE FLORA HENLE
-  - ''
   - GEB. STEIN
   - JG. 1891
   - DEPORTIERT 1941
   - ERMORDET 26.3.1942
   - RIGA
-  - ''
-  - ''
+  - 
+  - 
 - - HIER WOHNTE
   - JULIUS HENLE
-  - ''
-  - ''
+  - 
   - JG. 1886
   - DEPORTIERT 1941
   - ERMORDET IN
   - RIGA
-  - ''
-  - ''
+  - 
+  - 
 - - HIER WOHNTE
   - FRIDA STEIN
-  - ''
   - GEB. WOLLENBERGER
   - JG. 1869
   - DEPORTIERT 1942
   - ERMORDET IN
   - MALY TROSTINEC
-  - ''
-  - ''
-audio: "/audio/innsbrucker-strasse-31.mp3"
+  - 
+  - 
 x: 49.13623829999999
 y: 9.220121199999994
+audio: "/audio/innsbrucker-strasse-31.mp3"
+layout: item
 ---
 
 Die jüdischen Familien Stein und Henle lebten beide im Haus Nr. 31 der Staufenbergstraße, die 1938 in Innsbrucker Straße umbenannt wurde. Die Hausfrau Frida Stein, geborene Wollenberger, war mit dem Synagogen-Chorleiter Maier Stein verheiratet. Ihr Sohn Ludwig war am 6. April 1918 im Ersten Weltkrieg gefallen. Sein Name wurde nach der Einweihung des Ehrenmals im Hafenmarktturm 1936 entfernt und erst nach 1945 wieder eingefügt.
