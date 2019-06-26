@@ -8,11 +8,11 @@ steine:
 - - HIER WOHNTE
   - 'ARON „ALFRED“ '
   - LINDNER
+  - ORT
   - JG. 1883
   - DEPORTIERT 1942
   - THERESIENSTADT
   - ERMORDET 28.2.1944
-  - 
   - 
 - - HIER WOHNTE
   - THERESIA LINDNER
@@ -25,11 +25,11 @@ steine:
   - 
 - - HIER WOHNTE
   - SOFIE SCHWAB
+  - 
   - JG. 1889
   - DEPORTIERT 1941
   - RIGA
   - ERMORDET
-  - 
   - 
   - 
 - - HIER WOHNTE
