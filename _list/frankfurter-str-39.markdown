@@ -1,6 +1,6 @@
 ---
 title: Frankfurter Str. 39
-date: 2019-06-26 10:43:00 Z
+date: 2019-07-01 00:00:00 Z
 names: Bernhard Hochherr und Grete Hochherr
 paten: Karl-Heinz Vetter, Edingen-Neckarhausen
 steine:
