@@ -1,6 +1,6 @@
 ---
 title: Kirchbrunnenstraße 23 (früher 9 ½)
-date: 2019-07-04 00:00:00 Z
+date: 2019-07-01 00:00:00 Z
 names: Betty Weiss geb. Israel
 paten: "Lara Gürol, Emily Burroughs, Larissa Liebhardt, Emma Käß | \nLuise-Bronner-Realschule
   Heilbronn"
