@@ -4,6 +4,13 @@ date: 2019-06-26 08:56:00 Z
 names: Betty Weiss geb. Israel
 paten: "Lara Gürol, Emily Burroughs, Larissa Liebhardt, Emma Käß | \nLuise-Bronner-Realschule
   Heilbronn"
+steine:
+- - BETTY WEISS
+  - GEB. ISRAEL
+  - JG. 1881
+  - DEPORTIERT 1941
+  - RIGA
+  - ERMORDET 1.12.1941
 ---
 
 Seit etwa 1916 lebte das Ehepaar Hermann und Betty Weiss im Haus Kirchbrunnenstraße 9 ½ (heute Kirchbrunnenstraße 23). Sie betrieben in der angrenzenden Kasernengasse einen Laden für Kleider- und Schuhwaren.
