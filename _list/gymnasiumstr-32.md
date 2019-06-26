@@ -7,7 +7,6 @@ steine:
 - - HIER WOHNTE
   - MAX STRAUSS
   - 
-  - 
   - JG. 1874
   - DEPORTIERT 1942
   - THERESIENSTADT
@@ -16,7 +15,6 @@ steine:
   - 
 - - HIER WOHNTE
   - HERMINE STRAUSS
-  - 
   - GEB. ROTHSCHILD
   - JG. 1886
   - DEPORTIERT 1942
