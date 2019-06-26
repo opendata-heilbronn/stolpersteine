@@ -6,7 +6,6 @@ names: Johanna und Robert Adler
 steine:
 - - HIER WOHNTE
   - JOHANNA ADLER
-  - 
   - GEB. WEIL
   - JG. 1871
   - DEPORTIERT 1942
@@ -16,7 +15,6 @@ steine:
   - 
 - - HIER WOHNTE
   - ROBERT ADLER
-  - 
   - 
   - JG. 1895
   - FLUCHT 1939
