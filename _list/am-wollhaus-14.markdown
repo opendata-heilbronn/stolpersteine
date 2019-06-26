@@ -1,6 +1,6 @@
 ---
 title: Am Wollhaus 14 (früher Klarastr. 21)
-date: 2019-06-26 10:01:00 Z
+date: 2019-07-01 00:00:00 Z
 names: Helene Würzburger
 paten: Corinna Merle, Vivien Schwarz | Mönchseegymnasium Heilbronn
 steine:
@@ -11,6 +11,8 @@ steine:
   - DEPORTIERT 1942
   - THERESIENSTADT
   - ERMORDET 14.9.1942
+x: 49.139034
+y: 9.221311
 ---
 
 Helene Würzburger, geb. Uri, wurde am 3. Dezember 1864 in Hechingen als eines von zwei Kindern von Adolf und Fanny Uri geboren. Sie heiratete Moritz Würzburger; aus der Ehe zwischen ihnen gingen vier Kinder hervor: Alfred, Fanny, Julie und Leonore.
