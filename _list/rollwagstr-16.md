@@ -7,7 +7,6 @@ names: Sofie Reis, geborene Kahn, Margarete Reis, geborene Ettlinger, Hans David
 steine:
 - - HIER WOHNTE
   - SOFIE REIS
-  - 
   - GEB. KAHN
   - JG. 1876
   - DEPORTIERT 1942
@@ -18,16 +17,13 @@ steine:
 - - HIER WOHNTE
   - ARTHUR REIS
   - 
-  - 
   - JG. 1904
   - FLUCHT 1933
   - PALÄSTINA
   - 
   - 
-  - 
 - - HIER WOHNTE
   - CAROLA REIS
-  - 
   - 
   - JG. 1909
   - FLUCHT 1933
@@ -38,7 +34,6 @@ steine:
 - - HIER WOHNTE
   - MAX REIS
   - 
-  - 
   - JG. 1897
   - FLUCHT 1939
   - ENGLAND
@@ -47,7 +42,6 @@ steine:
   - 
 - - HIER WOHNTE
   - MARGARETE REIS
-  - 
   - GEB. ETTLINGER
   - JG. 1906
   - DEPORTIERT 1941
@@ -58,7 +52,6 @@ steine:
 - - HIER WOHNTE
   - HANS DAVID REIS
   - 
-  - 
   - JG. 1933
   - DEPORTIERT 1941
   - ERMORDET IN
@@ -67,7 +60,6 @@ steine:
   - 
 - - HIER WOHNTE
   - WALTER EMIL REIS
-  - 
   - 
   - JG. 1935
   - DEPORTIERT 1941
