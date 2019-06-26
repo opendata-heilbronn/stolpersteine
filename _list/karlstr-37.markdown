@@ -1,6 +1,6 @@
 ---
 title: Karlstr. 37
-date: 2019-06-26 09:51:00 Z
+date: 2019-07-01 00:00:00 Z
 names: Dora und Gustav Karlsruher
 paten: Heidi Brett, Sara Küffer, Annkathrin Volz, Maria Kraus | Stadtbibliothek Heilbronn
 steine:
