@@ -12,6 +12,8 @@ steine:
   - DEPORTIERT 1941
   - RIGA
   - ERMORDET 1.12.1941
+x: 49.141543
+y: 9.218011
 ---
 
 Seit etwa 1916 lebte das Ehepaar Hermann und Betty Weiss im Haus Kirchbrunnenstraße 9 ½ (heute Kirchbrunnenstraße 23). Sie betrieben in der angrenzenden Kasernengasse einen Laden für Kleider- und Schuhwaren.
