@@ -7,7 +7,6 @@ steine:
 - - HIER WOHNTE
   - MAX ROSENTHAL
   - 
-  - 
   - JG. 1872
   - DEPORTIERT 1942
   - THERESIENSTADT
@@ -17,7 +16,6 @@ steine:
 - - HIER WOHNTE
   - EUGENIE LUISE
   - ROSENTHAL
-  - 
   - JG. 1905
   - DEPORTIERT 1941
   - ERMORDET IN
