@@ -1,6 +1,9 @@
 ---
 title: Kirchbrunnenstraße 23 (früher 9 ½)
 date: 2019-06-26 08:56:00 Z
+names: Betty Weiss geb. Israel
+paten: "Lara Gürol, Emily Burroughs, Larissa Liebhardt, Emma Käß | \nLuise-Bronner-Realschule
+  Heilbronn"
 ---
 
 Seit etwa 1916 lebte das Ehepaar Hermann und Betty Weiss im Haus Kirchbrunnenstraße 9 ½ (heute Kirchbrunnenstraße 23). Sie betrieben in der angrenzenden Kasernengasse einen Laden für Kleider- und Schuhwaren.
