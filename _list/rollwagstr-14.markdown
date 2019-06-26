@@ -12,6 +12,26 @@ steine:
   - DEPORTIERT 1942
   - THERESIENSTADT
   - ERMORDET 28.2.1944
+  - 
+  - 
+- - HIER WOHNTE
+  - THERESIA LINDNER
+  - GEB. SCHWAB
+  - JG. 1885
+  - DEPORTIERT 1942
+  - 1944 AUSCHWITZ
+  - ERMORDET
+  - 
+  - 
+- - HIER WOHNTE
+  - SOFIE SCHWAB
+  - JG. 1889
+  - DEPORTIERT 1941
+  - RIGA
+  - ERMORDET
+  - 
+  - 
+  - 
 ---
 
 Aron Lindner, auch Alfred genannt, wurde am 28. Juni 1883 in Affaltrach, einem Ortsteil der Gemeinde Obersulm im Landkreis Heilbronn, als Sohn von Moses Moritz Lindner und Babette Kahn geboren. Sein älterer Bruder Adolf Linder war 1877 geboren.
