@@ -1,6 +1,17 @@
 ---
 title: Uhlandstr. 25
 date: 2019-06-26 10:09:00 Z
+names: Martha Rothschild
+paten: Diamant Sadiku, Felix Netzel, Theodor Dinerman | Robert-Mayer-Gymnasium Heilbronn
+steine:
+- - HIER WOHNTE
+  - MARTHA ROTHSCHILD
+  - JG. 1902
+  - FLUCHT 1939 HOLLAND
+  - INTERNIERT WESTERBORK
+  - DEPORTIERT 1942
+  - AUSCHWITZ
+  - ERMORDET 30.9.1942
 ---
 
 Martha Rothschild wurde am 25. Oktober 1902 in Eßweiler bei Kusel in der Pfalz geboren. Sie wuchs dort mit ihren fünf Geschwistern (drei Schwestern und zwei Brüder) bei ihren Eltern Siegmund und Blondine Rothschild (geb. Mayer) auf. Der jüdische Kaufmann und seine Familie waren sehr gut in die Dorfgemeinschaft integriert, zum Beispiel als Mitglieder des Gesangvereins.
