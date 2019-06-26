@@ -8,7 +8,7 @@ steine:
 - - HIER WOHNTE
   - 'ARON „ALFRED“ '
   - LINDNER
-  - ORT
+  - 
   - JG. 1883
   - DEPORTIERT 1942
   - THERESIENSTADT
