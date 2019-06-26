@@ -32,6 +32,15 @@ steine:
   - 
   - 
   - 
+- - HIER WOHNTE
+  - CILLI LEVI
+  - GEB. HIRSCHHEIMER
+  - JG. 1881
+  - DEPORTIERT 1942
+  - 1944 AUSCHWITZ
+  - ERMORDET
+  - 
+  - 
 ---
 
 Aron Lindner, auch Alfred genannt, wurde am 28. Juni 1883 in Affaltrach, einem Ortsteil der Gemeinde Obersulm im Landkreis Heilbronn, als Sohn von Moses Moritz Lindner und Babette Kahn geboren. Sein älterer Bruder Adolf Linder war 1877 geboren.
