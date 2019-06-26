@@ -1,6 +1,6 @@
 ---
 title: Wilhelmstr. 26
-date: 2019-06-26 10:16:00 Z
+date: 2019-07-01 00:00:00 Z
 names: Gertrud Oppenheimer, geb. Adler, und Alfred Oppenheimer
 paten: Léon Fisel, Mara Pfeffer | Robert-Mayer-Gymnasium Heilbronn
 steine:
