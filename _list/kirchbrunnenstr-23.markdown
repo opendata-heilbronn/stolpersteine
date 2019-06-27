@@ -12,7 +12,6 @@ steine:
   - DEPORTIERT 1941
   - RIGA
   - ERMORDET 1.12.1941
-  - ORT
 x: 49.141543
 y: 9.218011
 ---
