@@ -11,7 +11,7 @@ steine:
   - DEPORTIERT 1941
   - RIGA
   - ERMORDET
-  - ORT
+  - " "
   - 
 - - HIER WOHNTE
   - ISAAK HANAUER
