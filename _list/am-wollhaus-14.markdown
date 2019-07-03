@@ -11,6 +11,7 @@ steine:
   - DEPORTIERT 1942
   - THERESIENSTADT
   - ERMORDET 14.9.1942
+  - ORT
 x: 49.139034
 y: 9.221311
 ---
@@ -29,4 +30,4 @@ Am 23. März 1942 wurde Helene Würzburger nach Haigerloch deportiert und von do
 
 Alfred Würzburger, der Sohn von Helene und Moritz Würzburger, lebte mit seiner Frau Rosa Schlesinger und seinen Söhnen im Haus Deutschhofstraße 1. Er emigrierte 1937 nach Israel und von dort aus in die USA. Nach dem Krieg erhob er Rückerstattungsansprüche auf den ehemaligen Besitz der Familie.
 
-In einem Rechtsstreit über das Areal des Adlerkellers kam es 1955 zu einer Einigung zwischen der Familie und der Kreissparkasse. Das Areal blieb im Besitz der Kreissparkasse. Alfred Würzburger selbst war schon 1948 verstorben.
+In einem Rechtsstreit über das Areal des Adlerkellers kam es 1955 zu einer Einigung zwischen der Familie und der Kreissparkasse. Das Areal blieb im Besitz der Kreissparkasse. 
