@@ -40,6 +40,6 @@ Auch Hilde Pfleiderer blieb nicht unverschont. Sie wurde als Halbjüdin nicht im
 
 Hans Pfleiderer gelang es, die Deportation seiner Schwiegermutter Emma Pakscher einige Male aufzuschieben. Aufgrund seiner aus einer jüdischen Familie stammenden Frau galt er jedoch vielen seiner Kollegen als „jüdisch versippt“ und wurde 1936 frühzeitig in den Ruhestand versetzt. Hans Pfleiderer ist am 23. Januar 1944 verstorben.
 
-Emma Pakschers letzter Deportationsbefehl für den 16. April 1943 nach Theresienstadt konnte nicht mehr aufgeschoben werden. Daraufhin beging die jüdische Witwe mit 76 Jahren am 14. April 1943 Selbstmord. Im Februar 1945 erhielt auch Alice Pfleiderer ein Deportationsbefehl nach Theresienstadt; es sollte der letzte Transport sein, der Heilbronn verließ.
+Emma Pakschers letzter Deportationsbefehl für den 16. April 1943 nach Theresienstadt konnte nicht mehr aufgeschoben werden. Daraufhin beging die jüdische Witwe mit 76 Jahren am 14. April 1943 Selbstmord. Im Februar 1945 erhielt auch Alice Pfleiderer einen Deportationsbefehl nach Theresienstadt; es sollte der letzte Transport sein, der Heilbronn verließ.
 
 Aber der Nachbar Dr. Carl Feyerabend konnte ihre Abholung verhindern, indem er Alice von Januar 1945 bis zum Kriegsende in seinem Keller versteckt hielt. Alice Pfleiderer starb am 6. Juli 1980 im Alter von 88 Jahren.
