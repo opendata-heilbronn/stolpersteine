@@ -30,4 +30,4 @@ Am 23. März 1942 wurde Helene Würzburger nach Haigerloch deportiert und von do
 
 Alfred Würzburger, der Sohn von Helene und Moritz Würzburger, lebte mit seiner Frau Rosa Schlesinger und seinen Söhnen im Haus Deutschhofstraße 1. Er emigrierte 1937 mit seiner Familie und Nathan Würzburger (gestorben 1946) nach Palästina und von dort aus in die USA. Nach dem Krieg erhob Alfred Würzburger Rückerstattungsansprüche auf den ehemaligen Besitz der Familie.
 
-In einem Rechtsstreit über das Areal des Adlerkellers kam es 1955 zu einer Einigung zwischen der Familie und der Kreissparkasse. Das Areal blieb im Besitz der Kreissparkasse. 
+In einem Rechtsstreit über das Areal des Adlerkellers kam es 1950 zu einer Einigung zwischen der Familie und der Kreissparkasse. Das Areal blieb im Besitz der Kreissparkasse. 
