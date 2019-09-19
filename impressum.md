@@ -6,14 +6,12 @@ layout: page
 ---
 
 ## Verantwortlich für den Inhalt:  
-Peter Wanner
-c/o 
-Stadtarchiv Heilbronn  
-Eichgasse 1  
-74072 Heilbronn  
-Tel. (07131) 56-2290  
-Fax (07131) 56-3195  
-E-Mail: peter.wanner[at]stadt-heilbronn.de  
+<p>Ute Kümmel c/o Stadtarchiv Heilbronn<br>
+Eichgasse 1<br>
+74072 Heilbronn<br>
+Tel. (07131) 56-2290<br>
+Fax (07131) 56-3195<br>
+E-Mail: ute.kuemmel\[at\]heilbronn.de</p>  
  
 ## Erklärung  
 Mit Urteil vom 12. Mai 1998 hat das Landgericht Hamburg entschieden, dass durch die Anbringung eines Links die Inhalte der verlinkten Seite gegebenenfalls mit zu verantworten sind. Dies kann nur dadurch verhindert werden, dass man sich ausdrücklich von diesen Inhalten distanziert.  
@@ -22,7 +20,7 @@ Für alle Links zu Websites der Domain gilt: Das Stadtarchiv Heilbronn hat keine
 
 ## Datenschutz
 
-Der Verantwortliche für die Webseite www.stolpersteine-heilbronn.de, Peter Wanner, c/o Stadtarchiv Heilbronn, Eichgasse 1, 74072 Heilbronn, mail[at]p-wanner.de und der Runde Tisch Stolpersteine Heilbronn (im Folgenden "wir/unser(e)"), nehmen den Schutz Ihrer persönlichen Daten sehr ernst und halten uns streng an alle geltenden Gesetze und Vorschriften zum Datenschutz, insbesondere an die Datenschutzgrundverordnung, (DSGVO), das Bundesdatenschutzgesetz (BDSG) und das Telemediengesetz (TMG). Die folgenden Erläuterungen geben Ihnen einen Überblick darüber, wie wir diesen Schutz sicherstellen und welche Daten wir zu welchem Zweck verarbeiten.
+Der Verantwortliche für die Webseite www.stolpersteine-heilbronn.de, Ute Kümmel, c/o Stadtarchiv Heilbronn, Eichgasse 1, 74072 Heilbronn, ute.kuemmel[at]heilbronn.de und der Runde Tisch Stolpersteine Heilbronn (im Folgenden "wir/unser(e)"), nehmen den Schutz Ihrer persönlichen Daten sehr ernst und halten uns streng an alle geltenden Gesetze und Vorschriften zum Datenschutz, insbesondere an die Datenschutzgrundverordnung, (DSGVO), das Bundesdatenschutzgesetz (BDSG) und das Telemediengesetz (TMG). Die folgenden Erläuterungen geben Ihnen einen Überblick darüber, wie wir diesen Schutz sicherstellen und welche Daten wir zu welchem Zweck verarbeiten.
 
 ### 1. Nutzungsdaten
 
@@ -104,7 +102,7 @@ d. Widerrufsrecht
 
 Sie haben das Recht, Ihre Einwilligung jederzeit zu widerrufen. Durch den Widerruf der Einwilligung wird die Rechtmäßigkeit der aufgrund der Einwilligung bis zum Widerruf erfolgten Verarbeitung nicht berührt.
 
-Senden Sie hierfür bitte einfach eine E-Mail an mail[at]p-wanner.de.
+Senden Sie hierfür bitte einfach eine E-Mail an ute.kuemmel[at]heilbronn.de.
 
 e. Widerspruchsrecht
 
