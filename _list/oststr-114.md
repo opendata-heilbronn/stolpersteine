@@ -4,45 +4,31 @@ date: 2024-03-02 00:00:00 Z
 names: Wolff, Margareta, Erna, und Ruth Landsberger 
 steine:
 - - HIER WOHNTE
-  - Wolff Landsberger
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - WOLFF
+  - LANDSBERGER
+  - JG. 1868
+  - DEPORTIERT 1942
+  - THERESIENSTADT
+  - TREBLINKA
+  - ERMORDET 26.9.1942
 - - HIER WOHNTE
-  - Margareta Landsberger
-  - 
-  - 
-  - 
-  -  
-  - 
-  - 
-  - 
-  - 
+  - MARGARETA
+  - LANDSBERGER
+  - JG. 1904
+  - FLUCHT 1937
+  - USA
 - - HIER WOHNTE
-  - Erna Landsberger
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - ERNA
+  - LANDSBERGER
+  - JG. 1909
+  - FLUCHT 1938
+  - USA
 - - HIER WOHNTE
-  - Ruth Landsberger
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - RUTH
+  - LANDSBERGER
+  - JG. 1911
+  - FLUCHT 1936
+  - USA
 x: 49.1445167544641
 y: 9.230340568499738
 layout: item
