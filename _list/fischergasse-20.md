@@ -1,50 +1,17 @@
 ---
-title: Fischergasse 20
+title: Fischergasse/Obere Neckarstraße 20
 date: 2024-03-02 00:00:00 Z
-names: 
+names: Julius Meyer
 steine:
 - - HIER WOHNTE
+  - JULIUS MEYER
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-- - HIER WOHNTE
-  - 
-  - 
-  - 
-  - 
-  -  
-  - 
-  - 
-  - 
-  - 
-- - HIER WOHNTE
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-- - HIER WOHNTE
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-x: 49.14137752480513
-y: 9.21644891019043
+  - JG. 1882
+  - DEPORTIERT 1941
+  - RIGA
+  - ERMORDET
+x: 49.14079955257441
+y: 9.216124435101644
 layout: item
 ---
 

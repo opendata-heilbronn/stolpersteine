@@ -2,7 +2,7 @@
 title: Wollhausstraße 40
 date: 2011-04-15 00:00:00 Z
 position: 44
-names: Rita Kahn, geborene Meyer, und Karl Kahn, Hans Kahn
+names: Rita Kahn, geborene Meyer, Karl Kahn und Hans Kahn
 layout: item
 steine:
 - - HIER WOHNTE
@@ -26,9 +26,9 @@ steine:
   - ERMORDET 6.10.1944
   - ''
 - - HIER WOHNTE
-  - Hans Kahn
+  - HANS KAHN
   - 
-  - 
+  - (WEITERE DATEN FEHLEN)
   - 
   - 
   - 

@@ -4,65 +4,62 @@ date: 2024-03-02 00:00:00 Z
 names: Berthold, Ludwig und Johanna Marx, Hannchen Isaac geb. Marx, Werner Isaac und Walter Marx 
 steine:
 - - HIER WOHNTE
-  - Berthold Marx
+  - BERTHOLD MARX
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - JG. 1866
+  - DEPORTIERT 1942
+  - THERESIENSTADT
+  - ERMORDET 15.1.1943
 - - HIER WOHNTE
-  - Ludwig Marx
+  - LUDWIG MARX
   - 
-  - 
-  - 
-  -  
-  - 
-  - 
-  - 
-  - 
+  - JG. 1897
+  - FLUCHT 1939 LUXEMBURG
+  - 1940 FRANKREICH
+  - DEPORTIERT 1943
+  - MAJDANEK
+  - ERMORDET
 - - HIER WOHNTE
-  - Johanna Marx
+  - JOHANNA MARX
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - JG. 1900
+  - FLUCHT 1939 LUXEMBURG
+  - 1940 FRANKREICH
+  - 1943 ITALIEN
+  - INTERNIERT
+  - BORGO SAN DALMAZZO
+  - DEPORTIERT 1943
+  - AUSCHWITZ
+  - ERMORDET
 - - HIER WOHNTE
-  - Hannchen Isaac
+  - HANNCHEN ISAAC
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - GEB. MARX
+  - JG. 1899
+  - FLUCHT 1939
+  - ENGLAND
 - - HIER WOHNTE
-  - Werner Isaac
+  - WERNER ISAAC
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - JG. 1926
+  - FLUCHT 1939 LUXEMBURG
+  - 1940 FRANKREICH
+  - 1943 ITALIEN
+  - INTERNIERT
+  - BORGO SAN DALMAZZO
+  - DEPORTIERT 1943 NIZZA
+  - ÜBERLEBT
 - - HIER WOHNTE
-  - Walter Marx
+  - WALTER MARX
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - JG. 1926
+  - FLUCHT 1939 LUXEMBURG
+  - 1940 FRANKREICH
+  - 1943 ITALIEN
+  - INTERNIERT
+  - BORGO SAN DALMAZZO
+  - GEFLOHEN/IM WIDERSTAND
+  - ÜBERLEBT
 x: 49.13352522682138
 y: 9.218291751750973
 layout: item
