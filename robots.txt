@@ -1,5 +1,6 @@
 ---
 ---
+
 User-agent: *
 Disallow:
 Sitemap: {{ site.url }}{{ site.baseurl }}/sitemap.xml
