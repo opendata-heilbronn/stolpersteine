@@ -1,0 +1,15 @@
+assets/ionicons:
+    https://github.com/ionic-team/ionicons
+    Copyright Ionic (http://ionic.io/), licensed under the MIT license
+
+assets/js/jquery-2.1.1.min.js:
+    https://github.com/jquery/jquery
+    Copyright jQuery Foundation, Inc., licensed under the MIT license
+
+assets/js/list.min.js:
+    https://github.com/javve/list.js
+    List.js v1.5.0 (http://listjs.com) by Jonny Strömberg (http://javve.com)
+
+assets/js/Control.FullScreen.js:
+    https://github.com/Leaflet/Leaflet.fullscreen
+    Copyright (c) 2015, MapBox

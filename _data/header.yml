@@ -1,7 +1,9 @@
 - title: HOME
   link: /index.html
-- title: 'Liste<span class="hide-on-small"> &amp; Karte</span>'
+- title: Liste
   link: /list.html
+- title: Karte
+  link: /map.html
 - title: AKTIONEN
   link: /aktionen.html
 - title: RECHERCHE

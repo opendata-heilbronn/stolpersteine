@@ -1,0 +1,38 @@
+---
+title: Karte
+permalink: "/map.html"
+layout: page
+---
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css" />
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.0.3/dist/MarkerCluster.Default.css" />
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.0.3/dist/MarkerCluster.css" />
+<script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js"></script>
+<script src="https://unpkg.com/leaflet.markercluster@1.0.3/dist/leaflet.markercluster.js"></script>
+<script src="{{ site.baseurl }}/assets/js/Control.FullScreen.js"></script>
+
+<style>
+.leaflet-control-zoom-fullscreen { background-image: url({{ site.baseurl }}/images/icon-fullscreen.png); }
+.leaflet-retina .leaflet-control-zoom-fullscreen { background-image: url({{ site.baseurl }}/images/icon-fullscreen-2x.png); background-size: 26px 26px; }
+.leaflet-container:-webkit-full-screen { width: 100% !important; height: 100% !important; z-index: 99999; }
+.leaflet-pseudo-fullscreen { position: fixed !important; width: 100% !important; height: 100% !important; top: 0px !important; left: 0px !important; z-index: 99999; }
+.leaflet-popup-content{ font-size: 18px; margin: 8px !important; }
+#map{height: 600px;}li{list-style: none;}
+.map-btn,.list-btn{width:calc(50% - 3px);}
+</style>
+<script>
+var coordinates = [
+    {% for page in site.list %}
+    {
+        "x": {% if page.x %}{{ page.x }}{% else %}{{ site.lat }}{% endif %},
+        "y": {% if page.y %}{{ page.y }}{% else %}{{ site.long }}{% endif %},
+        "title": "{% if page.x and page.y %}{{ page.names }}{% else %}{{ page.names }}<br>Keine Koordinaten angegeben{% endif %}",
+        "url": "{{ site.baseurl }}{{ page.url }}"
+    }
+    {% unless forloop.last %},{% endunless %}
+    {% endfor %}
+];
+var map_coord = [{{ site.lat }}, {{ site.long }}];
+</script>
+<div id="map"></div>
+<script src="{{ site.baseurl }}/assets/js/map.js"></script>
