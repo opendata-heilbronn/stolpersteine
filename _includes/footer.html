@@ -1,3 +1,41 @@
+<style>
+    #instance-form {
+        display: none;
+    }
+</style>
+<script>
+    $(() => {
+		$('#instance-form').on('submit', onInstanceSubmit);
+    });
+
+    function toggleInstanceSelector() {
+		console.log('test');
+		$('#share-mastodon').toggleClass("active");
+		$('#instance-form').toggle();
+		$('#instance').focus();
+    }
+
+	function hideInstanceSelector() {
+		$('#instance-form').hide();
+		$('#share-mastodon').removeClass("active");
+    }
+
+	function onInstanceSubmit(e) {
+		e.preventDefault();
+
+		let instance = $('#instance').val();
+		if (!instance) {
+			instance = 'mastodon.social';
+        }
+
+        const shareURL = `https://${instance}/share?text=${encodeURIComponent(window.location.href)}`;
+		console.log(shareURL);
+
+		window.open(shareURL, '_blank');
+
+        return false;
+    }
+</script>
 <footer role="contentinfo" class="no-print">
     <div class="container">
         <ul class="footer-list">
@@ -7,21 +45,43 @@
                 <a href="{% if first == "/" %}{{ site.baseurl }}{{ i.link }}{% else %}{{ i.link }}{% endif %}" class="footer-link">{{ i.title }}</a>
             </li>
             {% endfor %}
-    <li class="footer-item hide-on-small">
-                <a class="footer-link" href="https://twitter.com/intent/tweet?text={{ site.title | cgi_escape }}{% if page.title %}{{ page.title | prepend: ': ' | cgi_escape }}{% endif %}&url={{ page.url | prepend: site.baseurl | prepend: site.url | cgi_escape }}" target="_blank"><i class="icon ion-social-twitter"></i> TWEET</a>
+            <li class="footer-item hide-on-small">
+                <a class="footer-link" id="share-mastodon" href="javascript:toggleInstanceSelector()"><ion-icon name="logo-mastodon"></ion-icon> SHARE</a>
             </li>
             <li class="footer-item hide-on-small">
-                <a class="footer-link" href="https://www.facebook.com/share.php?u={{ page.url | prepend: site.baseurl | prepend: site.url | cgi_escape }}&title={{ site.title | cgi_escape }}{% if page.title %}{{ page.title | prepend: ': ' | cgi_escape }}{% endif %}" target="_blank"><i class="icon ion-social-facebook"></i> SHARE</a>
+                <a class="footer-link"
+                   href="https://twitter.com/intent/tweet?text={{ site.title | cgi_escape }}{% if page.title %}{{ page.title | prepend: ': ' | cgi_escape }}{% endif %}&url={{ page.url | prepend: site.baseurl | prepend: site.url | cgi_escape }}"
+                   target="_blank"><ion-icon name="logo-twitter"></ion-icon> TWEET</a>
+            </li>
+            <li class="footer-item hide-on-small">
+                <a class="footer-link"
+                   href="https://www.facebook.com/share.php?u={{ page.url | prepend: site.baseurl | prepend: site.url | cgi_escape }}&title={{ site.title | cgi_escape }}{% if page.title %}{{ page.title | prepend: ': ' | cgi_escape }}{% endif %}"
+                   target="_blank"><ion-icon name="logo-facebook"></ion-icon> SHARE</a>
             </li>
         </ul>
-    </div><div class="container hide-on-bigger">
+    </div>
+    <div class="container hide-on-bigger">
         <ul class="footer-list">
             <li class="footer-item">
-                <a class="footer-link" href="https://twitter.com/intent/tweet?text={{ site.title | cgi_escape }}{% if page.title %}{{ page.title | prepend: ': ' | cgi_escape }}{% endif %}&url={{ page.url | prepend: site.baseurl | prepend: site.url | cgi_escape }}" target="_blank"><i class="icon ion-social-twitter"></i> TWEET</a>
+                <a class="footer-link" id="share-mastodon" href="javascript:toggleInstanceSelector()"><ion-icon name="logo-mastodon"></ion-icon> SHARE</a>
             </li>
             <li class="footer-item">
-                <a class="footer-link" href="https://www.facebook.com/share.php?u={{ page.url | prepend: site.baseurl | prepend: site.url | cgi_escape }}&title={{ site.title | cgi_escape }}{% if page.title %}{{ page.title | prepend: ': ' | cgi_escape }}{% endif %}" target="_blank"><i class="icon ion-social-facebook"></i> SHARE</a>
+                <a class="footer-link"
+                   href="https://twitter.com/intent/tweet?text={{ site.title | cgi_escape }}{% if page.title %}{{ page.title | prepend: ': ' | cgi_escape }}{% endif %}&url={{ page.url | prepend: site.baseurl | prepend: site.url | cgi_escape }}"
+                   target="_blank"><ion-icon name="logo-twitter"></ion-icon> TWEET</a>
+            </li>
+            <li class="footer-item">
+                <a class="footer-link"
+                   href="https://www.facebook.com/share.php?u={{ page.url | prepend: site.baseurl | prepend: site.url | cgi_escape }}&title={{ site.title | cgi_escape }}{% if page.title %}{{ page.title | prepend: ': ' | cgi_escape }}{% endif %}"
+                   target="_blank"><ion-icon name="logo-facebook"></ion-icon> SHARE</a>
             </li>
         </ul>
+    </div>
+    <div class="container">
+        <form id="instance-form">
+            <input type="text" id="instance" aria-label="Mastodon Instanz" placeholder="mastodon.social">
+            <button type="submit" class="button button-primary"><ion-icon name="share-social"></ion-icon></button>
+            <button type="button" class="button" onclick="hideInstanceSelector()"><ion-icon name="close"></ion-icon></button>
+        </form>
     </div>
 </footer>

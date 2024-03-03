@@ -1,61 +1,39 @@
 ---
-title: Liste & Karte
+title: Liste
 permalink: "/list.html"
 layout: page
 ---
-
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css" />
-<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.0.3/dist/MarkerCluster.Default.css" />
-<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.0.3/dist/MarkerCluster.css" />
-<script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js"></script>
-<script src="https://unpkg.com/leaflet.markercluster@1.0.3/dist/leaflet.markercluster.js"></script>
-<script src="{{ site.baseurl }}/assets/js/Control.FullScreen.js"></script>
-
 <style>
-.leaflet-control-zoom-fullscreen { background-image: url({{ site.baseurl }}/images/icon-fullscreen.png); }
-.leaflet-retina .leaflet-control-zoom-fullscreen { background-image: url({{ site.baseurl }}/images/icon-fullscreen-2x.png); background-size: 26px 26px; }
-.leaflet-container:-webkit-full-screen { width: 100% !important; height: 100% !important; z-index: 99999; }
-.leaflet-pseudo-fullscreen { position: fixed !important; width: 100% !important; height: 100% !important; top: 0px !important; left: 0px !important; z-index: 99999; }
-.leaflet-popup-content{ font-size: 18px; margin: 8px !important; }
-#map{height: 600px;display:none;}li{list-style: none;}
-.map-btn,.list-btn{width:calc(50% - 3px);}
-</style>
-<script>
-var coordinates = [
-    {% for page in site.list %}
-    {
-        "x": {% if page.x %}{{ page.x }}{% else %}{{ site.lat }}{% endif %},
-        "y": {% if page.y %}{{ page.y }}{% else %}{{ site.long }}{% endif %},
-        "title": "{% if page.x and page.y %}{{ page.names }}{% else %}{{ page.names }}<br>Keine Koordinaten angegeben{% endif %}",
-        "url": "{{ site.baseurl }}{{ page.url }}"
+    li.card {
+        list-style-type: none;
     }
-    {% unless forloop.last %},{% endunless %}
-    {% endfor %}
-];
-var map_coord = [{{ site.lat }}, {{ site.long }}];
-</script>
-<a class="button button-primary list-btn" onclick="showList();"><i class="icon ion-android-list"></i> LISTE</a>
-<a class="button button-primary map-btn" onclick="showMap();"><i class="icon ion-android-map"></i> KARTE</a>
-<div id="map"></div>
+
+    .names {
+        font-size: 2rem;
+    }
+
+</style>
 <div id="list-id">
     <form>
         <div class="input-field" role="search">
-          <input id="search" type="search" placeholder="Suche..." class="fuzzy-search" required>
+            <label for="search">Suche</label>
+            <input id="search" name="search" type="search" placeholder="Nach Name oder Adresse suchen" class="fuzzy-search" required>
         </div>
-      </form>
-<ul class="list">
-    {% assign list = site.list | sort: 'title' %}
-    {% for item in list %}
-    <li class="card">
-        <div class="card-content">
-        <h2><i class="icon ion-android-list"></i> <span class="address">{{ item.title }}</span><br><small class="names">{{ item.names }}</small></h2>
-        </div>
-        <div class="card-action">
-        <a class="button" href="{{ site.baseurl }}{{ item.url }}">MEHR <i class="icon ion-plus"></i></a>
-        </div>
-    </li>
-    {% endfor %}
-</ul>
+    </form>
+    <ul class="list">
+        {% assign list = site.list | sort: 'title' %}
+        {% for item in list %}
+        <li class="card">
+            <div class="card-content">
+                <h2><span class="address">{{ item.title }}</span></h2>
+                <p class="names">{{item.names}}</p>
+            </div>
+            <div class="card-action">
+                <a class="button" href="{{ site.baseurl }}{{ item.url }}">MEHR <ion-icon name="add-outline"></ion-icon></a>
+            </div>
+        </li>
+        {% endfor %}
+    </ul>
 </div>
 <script src="{{ site.baseurl }}/assets/js/list.min.js"></script>
 <script src="{{ site.baseurl }}/assets/js/list.js"></script>
